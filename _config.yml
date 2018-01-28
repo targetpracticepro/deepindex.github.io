@@ -1,0 +1,14 @@
+# Site settings
+title: DeepIndex
+description: "The definitive index of artificial intelligence in action."
+url: "https://deepindex.org"
+enforce_ssl: deepindex.org
+permalink: /:title/
+
+# Account settings
+twitter: deepindex 
+facebook: 509241123
+ganalytics: UA-110007887-1
+
+# Build settings
+markdown: kramdown

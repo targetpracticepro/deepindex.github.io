@@ -1,0 +1,13 @@
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="{{ site.twitter | prepend: '@' }}" />
+<meta name="twitter:creator" content="{{ site.twitter | prepend: '@' }}" />
+
+<!-- Open Graph data -->    
+<meta property="og:title" content="{{ site.title }}" />
+<meta property="og:description" content="{{ site.description }}" />        
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}" />    
+<meta property="og:image" content="{{ site.url | append: '/images/image.png' }}" /> 
+<meta property="og:site_name" content="{{ site.title }}" />       
+<meta property="og:type" content="website" /> 
+<meta property="fb:admins" content="{{ site.facebook }}" />

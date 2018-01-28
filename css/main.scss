@@ -1,0 +1,83 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+
+
+// Base variables
+
+$base-font-family:                Helvetica, Arial, sans-serif;
+$base-font-size:                  14px;
+$base-line-height:                1.25;
+
+$spacing-unit:                    30px;
+
+
+
+// Base styles 
+
+body { 
+  padding-top:    $spacing-unit;
+  padding-bottom: $spacing-unit;
+  font-family:    $base-font-family;
+  line-height:    $base-line-height;
+}
+
+h1 {
+  font-weight:    bold;  
+  font-size:      $base-font-size * 4;
+  a, a:hover, a:active, a:visited {
+    color:        #0096ff;
+    text-decoration: none;
+    }
+}
+
+h2 {
+  font-weight:    bold; 
+  font-size:      $base-font-size * 2;
+  line-height:    $base-line-height;
+  margin-bottom:  $spacing-unit / 2;
+}
+
+h3 {
+  font-weight:    bold; 
+  font-size:      $base-font-size * 1.5;
+  line-height:    $base-line-height;
+  margin-top:     $spacing-unit;
+  margin-bottom:  $spacing-unit / 2;
+  padding-bottom: $spacing-unit / 5;
+  border-bottom:  3px solid #333;
+}
+
+h4 {
+  font-weight:    bold; 
+  font-size:      $base-font-size;
+  line-height:    $base-line-height;
+}
+
+
+// Images
+
+.logo {
+    width: 150px;
+}
+
+.animoji {
+    width: 150px;
+}
+
+
+// Social
+
+.social {
+    margin-top: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 2;
+    display: inline-block;
+    vertical-align: bottom !important;
+}
+
+.fb-like span {
+    vertical-align: baseline !important;
+}

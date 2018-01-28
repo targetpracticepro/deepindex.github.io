@@ -1,0 +1,596 @@
+- section: "Games"
+  wins:
+  - title: "Play Go"
+    url: https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol
+  - title: "Play chess"
+    url: https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov
+  - title: "Play Jeopardy!"
+    url: http://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html?pagewanted=all
+  - title: "Play Atari 2600"
+    url: https://deepmind.com/research/publications/playing-atari-deep-reinforcement-learning/
+  - title: "Play Texas Hold-Em"
+    url: https://www.wired.com/2017/01/mystery-ai-just-crushed-best-human-players-poker/
+  - title: "Play Battleship"
+    url: https://www.technologyreview.com/s/609507/this-inquisitive-ai-will-kick-your-butt-at-battleship/
+  - title: "Play Shogi"
+    url: https://arxiv.org/abs/1712.01815
+  does:
+  - title: "Play Scrabble"
+    url: https://www.engadget.com/2018/01/11/a-robot-kicked-my-ass-in-scrabble-at-ces/
+  - title: "Play Doom"
+    url: https://arxiv.org/abs/1609.05521
+  - title: "Play Dota 2"
+    url: https://arstechnica.co.uk/gaming/2017/08/ai-bot-takes-on-the-pros-at-dota-2-and-wins/
+  - title: "Play Sokoban"
+    url: https://deepmind.com/blog/agents-imagine-and-plan/
+  - title: "Play Super Mario Bros"
+    url: https://www.youtube.com/watch?v=iakFfOmanJU
+  - title: "Play StarCraft"
+    url: https://www.technologyreview.com/s/609242/humans-are-still-better-than-ai-at-starcraftfor-now/
+  near:
+  - title: "Play table tennis"
+    url: https://www.theverge.com/2017/10/9/16448488/table-tennis-playing-robot-ai-forpheus-omron
+
+- section: "Creative"
+  wins:
+  - title: "Fake a video of someone talking"
+    url: https://www.theverge.com/2017/7/12/15957844/ai-fake-video-audio-speech-obama
+  - title: "Mimic famous artists"
+    url: https://motherboard.vice.com/en_us/article/wnjve5/artificial-intelligence-can-now-paint-like-arts-greatest-masters
+  - title: "Spot forged artworks"
+    url: https://www.technologyreview.com/s/609524/this-ai-can-spot-art-forgeries-by-looking-at-one-brushstroke/          
+  does:
+  - title: "Generate photorealistic faces"
+    url: https://futurism.com/these-people-never-existed-they-were-made-by-an-ai/
+  - title: "Design logos"
+    url: https://www.indiehackers.com/businesses/logojoy
+  - title: "Draw creepy pictures"
+    url: http://nightmare.mit.edu/
+  - title: "Compose classical music"
+    url: https://qz.com/488701/humans-are-confusing-music-composed-by-a-computer-for-j-s-bach/
+  - title: "Recognise doodles"
+    url: https://quickdraw.withgoogle.com/
+  - title: "Copy your handwriting"
+    url: https://www.dailydot.com/layer8/handwriting-algorithm-privacy-security/
+  - title: "Edit photos"
+    url: https://thenextweb.com/artificial-intelligence/2017/07/14/google-taught-ai-to-edit-photos-like-a-pro-and-the-results-are-glorious/
+  - title: "Direct a panel show"
+    url: http://www.telegraph.co.uk/news/2017/12/16/hear-one-robot-director-bbc-ai-film-comedy-music-shows/
+  - title: "Mix like a DJ"
+    url: https://djmag.com/news/djay-pro-2-mac-automates-your-mixes-ai
+  - title: "Play a piano duet with you"
+    url: https://experiments.withgoogle.com/ai/ai-duet/view/
+  - title: "Draw an image based on a description"
+    url: https://thenextweb.com/artificial-intelligence/2018/01/19/microsofts-ai-is-a-robo-van-gogh-that-could-change-how-designers-work/
+  - title: "Crop photos"
+    url: https://www.theverge.com/2018/1/25/16931632/twitter-machine-learning-auto-image-cropping
+  - title: "Replace faces in videos"
+    url: https://theoutline.com/post/3121/you-can-now-watch-nicolas-cage-play-james-bond
+  near:
+  - title: "Compose pop music"
+    url: https://djmag.com/news/first-pop-song-composed-artificial-intelligence-available-stream
+  - title: "Write songs"
+    url: https://www.theverge.com/2017/8/27/16197196/taryn-southern-album-artificial-intelligence-interview
+  - title: "Write poetry"
+    url: https://motherboard.vice.com/en_us/article/vvbxxd/the-poem-that-passed-the-turing-test
+  - title: "Write a film"
+    url: https://www.theguardian.com/technology/2016/jun/10/artificial-intelligence-screenplay-sunspring-silicon-valley-thomas-middleditch-ai
+  - title: "Write a novel"
+    url: https://www.digitaltrends.com/cool-tech/japanese-ai-writes-novel-passes-first-round-nationanl-literary-prize/
+
+- section: "Home & lifestyle"
+  wins:
+  - title: "Recommend stuff to buy"
+    url: https://www.wired.com/2016/05/amazons-giving-away-ai-behind-product-recommendations/
+  - title: "Recommend music"
+    url: https://qz.com/571007/the-magic-that-makes-spotifys-discover-weekly-playlists-so-damn-good/
+  - title: "Recommend movies"
+    url: https://www.wired.co.uk/article/how-do-netflixs-algorithms-work-machine-learning-helps-to-predict-what-viewers-will-like  
+  does:
+  - title: "Reduce your water bills"
+    url: https://www.engadget.com/2017/11/21/buoy-iot-water-sensor/
+  - title: "Optimise your heating"
+    url: https://home.howstuffworks.com/nest-learning-thermostat.htm    
+  - title: "Learn your weekly shop"
+    url: http://www.getcapitan.com/
+  - title: "Invent recipes"
+    url: https://www.ice.edu/about-us/brand-at-ice/ibm-cognitive-cooking-with-chef-watson-partnership
+  - title: "Guess who you know"
+    url: https://www.usatoday.com/story/tech/columnist/2017/07/30/why-facebooks-people-you-may-know-makes-some-weird-suggestions/521264001/
+  - title: "Vacuum your floors"
+    url: http://www.irobot.com/For-the-Home/Vacuuming/Roomba.aspx
+  - title: "Predict how long your relationship will last"
+    url: https://thenextweb.com/artificial-intelligence/2017/09/29/this-ai-can-predict-how-long-your-relationship-will-last/
+  - title: "Mow your lawn"
+    url: https://usa.robomow.com/
+  - title: "Clean your windows"
+    url: https://www.ecovacs.com/us/winbot-window-cleaning-robot/WINBOT-950
+  - title: "Adjust your lights"
+    url: https://medium.com/@Cubic.ai/cubic-making-of-the-ai-butler-3ff534d95591
+  - title: "Give you fashion advice"
+    url: https://www.psfk.com/2017/11/alibaba-has-introduced-an-ai-fashion-assistant.html
+  - title: "Mix cocktails"
+    url: https://www.wgsn.com/blogs/sxsw-ibm-watson-could-be-mixing-your-next-drink-and-analysing-your-personality-too/
+  near:
+  - title: "Cook your meals"
+    url: https://www.forbes.com/sites/eustaciahuen/2016/10/31/the-worlds-first-home-robotic-chef-can-cook-over-100-meals/
+  - title: "Buy stuff on your behalf"
+    url: https://techcrunch.com/2014/01/18/amazon-pre-ships/
+  - title: "Control your entire house"
+    url: https://techcrunch.com/2016/12/20/watch-mark-zuckerbergs-morgan-freeman-voiced-jarvis-ai-in-action/
+
+- section: "Professional"
+  wins:
+  - title: "Check commercial loan agreements"
+    url: https://www.independent.co.uk/news/business/news/jp-morgan-software-lawyers-coin-contract-intelligence-parsing-financial-deals-seconds-legal-working-a7603256.html 
+  - title: "Buy and place ads"
+    url: https://martechtoday.com/value-applying-artificial-intelligence-display-advertising-199306
+  - title: "Optimise retail inventory"
+    url: https://edited.com/about/
+  - title: "Review theft insurance claims"
+    url: https://www.lemonade.com/blog/lemonade-sets-new-world-record/ 
+  does:
+  - title: "Review NDAs"
+    url: http://mitsloan.mit.edu/newsroom/articles/artificial-intelligence-enabled-klarity-helps-companies-identify-risks-in-contracts/
+  - title: "Write sports bulletins"
+    url: http://www.ibtimes.co.uk/associated-press-expand-its-sports-coverage-by-using-ai-write-minor-league-baseball-articles-1568804
+  - title: "Write financial bulletins"
+    url: https://qz.com/228218/the-aps-newest-business-reporter-is-an-algorithm/
+  - title: "Conduct legal case research"
+    url: http://www.rossintelligence.com/lawyers/
+  - title: "Conduct M&A due diligence"
+    url: https://www.slaughterandmay.com/news-and-recent-work/news/luminance-launches-with-backing-of-invoke-capital-and-in-collaboration-with-slaughter-and-may/
+  - title: "Build project teams"
+    url: https://www.profinda.com/
+  - title: "Coach call centre staff"
+    url: http://www.cogitocorp.com/
+  - title: "Handle customer support"
+    url: https://www.forbes.com/sites/shephyken/2017/07/15/ai-and-chatbots-are-transforming-the-customer-experience/#2c1439c941f7
+  - title: "Personalise customer experiences"
+    url: http://www.boxever.com/solution-overview/ 
+  - title: "Run a luxury concierge"
+    url: https://www.johnpaul.com/en/home/
+  - title: "Design a pricing strategy"
+    url: https://www.forbes.com/sites/benkepes/2014/08/26/good-idea-bad-use-of-jargon-feedvisor-raises-6m-for-its-algorithmic-repricing-platform/
+  - title: "Review motor insurance claims"
+    url: https://tractable.ai/products/insurance/
+  - title: "Analyse red carpet fashions"
+    url: http://watson.grammy.com/fashion
+  near:
+  - title: "Run a hotel reception desk"
+    url: https://www.theverge.com/2016/3/9/11180418/hilton-ibm-connie-robot-watson-hotel-concierge
+  - title: "Predict box office performance"
+    url: https://www.vaultml.com/what-we-do.html
+  - title: "Predict fashion trends"
+    url: https://www.economist.com/news/business/21725599-technology-may-be-disrupting-peculiar-business-can-data-predict-fashion-trends
+  - title: "Match art to potential buyers"
+    url: https://www.bloomberg.com/news/articles/2018-01-25/sotheby-s-buys-machine-learning-firm-to-discern-the-art-you-love
+- section: "Financial"
+  wins:
+  - title: "Detect payment fraud"
+    url: https://techcrunch.com/2017/01/16/fraugster/ 
+  does:
+  - title: "Manage a hedge fund"
+    url: https://www.bloomberg.com/news/features/2017-09-27/the-massive-hedge-fund-betting-on-ai
+  - title: "Trade equities"
+    url: https://www.verdict.co.uk/private-banker-international/news/deutsche-bank-rolls-ai-based-equities-trading-platform-apac/
+  - title: "Do your accounts"
+    url: https://www.accountingtoday.com/opinion/the-future-of-automation-and-accounting
+  - title: "Give investment advice"
+    url: https://www.nutmeg.com/robo-advisor
+  - title: "Make lending decisions"
+    url: http://lending-times.com/2017/07/19/ai-credit-scoring-fad-or-the-future/
+  - title: "Optimise your spending"
+    url: http://wallet.ai/#about
+  - title: "Give financial planning advice"
+    url: https://www.pefin.com/faq
+  - title: "Price risk"
+    url: https://cytora.com/company
+  - title: "Help you look after your money"
+    url: https://www.meetcleo.com/
+  - title: "Suggest venture capital investments"
+    url: https://www.ft.com/content/dd7fa798-bfcd-11e7-823b-ed31693349d3
+  - title: "Find cheap flights"
+    url: https://www.hopper.com/corp/about.html
+  - title: "Get invoices paid instantly"
+    url: http://previ.se/#about
+  near:
+  
+- section: "Administrative"
+  wins:
+  - title: "Organise your photos"
+    url: https://betanews.com/2017/06/03/google-photos-ai-archiving/ 
+  - title: "Get parking tickets cancelled"
+    url: http://www.ibtimes.co.uk/how-appeal-parking-ticket-this-ai-robot-lawyer-will-fight-fines-you-free-1567908     
+  does:
+  - title: "Improve your writing"
+    url: https://www.grammarly.com/about
+  - title: "Make a staffing rota"
+    url: http://www.rotageek.com/about  
+  - title: "Do data entry"
+    url: https://www.hyperscience.com/products/
+  - title: "Be your personal assistant"
+    url: https://techcrunch.com/2016/05/25/sherpa-a-spanish-language-ai-based-personal-assistant-raises-6-5m/
+  - title: "Take notes in a meeting"
+    url: https://clarke.ai/
+  - title: "Schedule your meetings"
+    url: https://x.ai/how-it-works/
+  near:
+  
+- section: "Industrial"
+  wins:
+  - title: "Reduce industrial energy consumption"
+    url: http://uk.businessinsider.com/google-deepmind-ai-in-every-company-data-centre-end-of-year-2016-7
+  does:
+  - title: "Clean floors"
+    url: https://twitter.com/2morrowknight/status/942275170957344768
+  - title: "Predict maintenance tasks"
+    url: https://tractable.ai/products/preventative-maintenance/
+  - title: "Customise hair care products"
+    url: https://www.inc.com/michelle-cheng/meet-beauty-startup-that-wants-to-put-artificial-intelligence-in-your-shampoo.html
+  - title: "Sort parcels"
+    url: http://www.scmp.com/news/china/society/article/2086662/chinese-firm-cuts-costs-hiring-army-robots-sort-out-200000
+  - title: "Operate a supermarket"
+    url: http://www.itv.com/news/2018-01-22/amazon-launches-first-ai-powered-supermarket/
+  near:
+  - title: "Audit what's on a store's shelves"
+    url: https://svrobo.org/simbe-robotics-disrupting-the-retail-sector/
+  - title: "Run a warehouse"
+    url: https://www.wired.co.uk/article/ocado-automated-distribution-warehouse
+  - title: "Run a factory"
+    url: https://www.marketwatch.com/story/germany-develops-smart-factories-to-keep-an-edge-2014-10-27
+  - title: "Pick up fruit and vegetables"
+    url: https://www.theguardian.com/business/2017/jan/31/hand-ocado-robot-shopping-fruit-vegetables
+  - title: "Assist the crew of the ISS"
+    url: http://www.esa.int/Our_Activities/Human_Spaceflight/Elementary_my_dear_machine_intelligence
+    
+- section: "Agricultural"
+  wins:
+  - title: "Spray pesticides"
+    url: https://www.wired.com/2016/05/future-humanitys-food-supply-hands-ai/  
+  does:
+  - title: "Predict crop yields"
+    url: https://www.theverge.com/2016/8/4/12369494/descartes-artificial-intelligence-crop-predictions-usda
+  - title: "Sort cucumbers"
+    url: https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow
+  - title: "Detect crop diseases"
+    url: https://www.frontiersin.org/articles/10.3389/fpls.2016.01419/full  
+  - title: "Boost greenhouse productivity"
+    url: http://grownetics.co/
+  - title: "Help farmers work more efficiently"
+    url: https://www.granular.ag/farm-management-software/
+  near:
+  - title: "Pick apples"
+    url: https://www.abundantrobotics.com/
+  - title: "Thin lettuces"
+    url: http://about.bluerivertechnology.com/
+  - title: "Seed, water and care for plants"
+    url: http://ironox.com/about.html
+  - title: "Harvest strawberries"
+    url: http://www.dogtoothtech.com/about-us.html
+
+- section: "Transport"
+  wins:
+  - title: "Dispatch taxis"
+    url: https://eng.uber.com/engineering-an-efficient-route/  
+  - title: "Give you driving directions"
+    url: https://motherboard.vice.com/en_us/article/4x3pp9/the-simple-elegant-algorithm-that-makes-google-maps-possible    
+  does:
+  - title: "Predict how long you'll wait for a taxi"
+    url: https://www.geekwire.com/2016/uber-collapse-without-pattern-finding-computers-says-chief-machine-learning/
+  - title: "Land a passenger aeroplane"
+    url: https://www.wired.com/story/boeing-autonomous-plane-autopilot/
+  - title: "Drive a car"
+    url: https://en.wikipedia.org/wiki/Autonomous_car
+  - title: "Pilot a drone"
+    url: https://www.theverge.com/2017/9/20/16325084/matternet-autonomous-drone-network-switzerland
+  - title: "Fly an F-16 fighter jet"
+    url: https://techcrunch.com/2017/04/11/u-s-air-force-and-lockheed-demonstrate-autonomous-f-16-strike-capabilities/
+  - title: "Drive a truck"
+    url: https://www.technologyreview.com/s/603493/10-breakthrough-technologies-2017-self-driving-trucks/
+  - title: "Predict parking availability"
+    url: https://research.googleblog.com/2017/02/using-machine-learning-to-predict.html 
+  near:
+  - title: "Design a sports car"
+    url: https://www.fastcompany.com/3054028/inside-the-hack-rod-the-worlds-first-ai-designed-car
+  - title: "Predict where you want to go"
+    url: http://www.datacenterknowledge.com/machine-learning/how-mercedes-benz-uses-ai-predict-where-you-want-go
+  - title: "Help pilots cope with emergencies"
+    url: https://www.wired.com/2017/03/ai-wields-power-make-flying-safer-maybe-even-pleasant/
+  - title: "Deliver pizza"
+    url: http://uk.businessinsider.com/toyota-pizza-hut-team-up-for-self-driving-pizza-delivery-2018-1
+    
+- section: "Government"
+  wins:
+  does:
+  - title: "Detect benefit fraud"
+    url: http://www.telegraph.co.uk/news/2017/12/31/ministers-use-artificial-intelligence-target-mass-benefit-fraud/
+  near:
+  - title: "Predict court cases"
+    url: https://www.ucl.ac.uk/news/news-articles/1016/241016-AI-predicts-outcomes-human-rights-trials
+  - title: "Suggest ways to reduce pollution"
+    url: https://betakit.com/tech-for-good-how-machine-learning-and-rich-data-can-help-prevent-pollution/
+  - title: "Triage natural disaster aerial imagery"
+    url: https://www.forbes.com/sites/kalevleetaru/2018/01/20/using-ai-for-good-a-new-data-challenge-to-use-ai-to-triage-natural-disaster-aerial-imagery/#1e39b4fbd26e
+  - title: "Find the best place to resettle refugees"
+    url: https://www.theverge.com/2018/1/18/16905962/algorithm-resettle-refugees-machine-learning-research-employment
+  - title: "Rate school performance"
+    url: https://www.wired.co.uk/article/nudge-unit-machine-learning-algorithms-schools-ofsted-doctors-behavioural-insights
+
+- section: "Education"
+  wins:
+  does:
+  - title: "Mark essays"
+    url: https://www.newscientist.com/article/mg21128285-200-automated-marking-takes-teachers-out-of-the-loop/
+  near:
+  - title: "Tutor kids in maths"
+    url: http://hellothinkster.com/
+  - title: "Create personalised learning plans"
+    url: https://www.theverge.com/2016/4/25/11492102/bill-gates-interview-education-software-artificial-intelligence
+  - title: "Create custom textbooks"
+    url: http://contenttechnologiesinc.com/
+  - title: "Be a teaching assistant"
+    url: https://www.washingtonpost.com/news/innovations/wp/2016/05/11/this-professor-stunned-his-students-when-he-revealed-the-secret-identity-of-his-teaching-assistant/
+
+- section: "Medical"
+  wins:
+  - title: "Diagnose pneumonia"
+    url: https://qz.com/1130687/stanford-trained-ai-to-diagnose-pneumonia-better-than-a-radiologist-in-just-two-months/
+  - title: "Predict heart attack and stroke risk"
+    url: https://spectrum.ieee.org/the-human-os/biomedical/diagnostics/ai-predicts-heart-attacks-more-accurately-than-standard-doctor-method
+  - title: "Diagnose skin cancers"
+    url: https://spectrum.ieee.org/the-human-os/biomedical/diagnostics/computer-diagnoses-skin-cancers   
+  - title: "Predict autism"
+    url: https://spectrum.ieee.org/the-human-os/biomedical/imaging/ai-predicts-autism-from-infant-brain-scans       
+  does:
+  - title: "Predict imminent cardiac arrest"
+    url: https://www.digitaltrends.com/cool-tech/ai-listens-for-cardiac-arrest/
+  - title: "Diagnose cataracts"
+    url: https://spectrum.ieee.org/the-human-os/biomedical/diagnostics/ophthalmologists-vs-ai-its-a-tie
+  - title: "Predict Alzheimer's disease"
+    url: https://spectrum.ieee.org/the-human-os/biomedical/diagnostics/can-deep-learning-help-clinicians-predict-alzheimers-disease
+  - title: "Predict hypoglycemic events"
+    url: http://searchhealthit.techtarget.com/news/4500257171/IBM-Watson-Health-teams-with-Medtronic-to-fight-diabetes
+  - title: "Identify diabetic retinopathy"
+    url: https://www.wired.com/2016/11/googles-ai-reads-retinas-prevent-blindness-diabetics/
+  - title: "Identify malaria parasites in blood"
+    url: https://spectrum.ieee.org/the-human-os/robotics/artificial-intelligence/aipowered-microscope-counts-malaria-parasites
+  - title: "Generate oncology treatment plans"
+    url: https://www.ibm.com/watson/health/oncology-and-genomics/oncology/
+  - title: "Predict sepsis"
+    url: https://www.huffingtonpost.com/entry/using-ai-to-prevent-sepsis_us_5927f8f6e4b0d2a92f2f42e3
+  - title: "Predict high blood pressure"
+    url: https://www.wired.com/story/ai-can-help-apple-watch-predict-high-blood-pressure-sleep-apnea/
+  - title: "Predict sleep apnea"
+    url: https://www.engadget.com/2017/11/14/deepheart-ai-ids-sleep-apnea-hypertension-apple-watch/
+  - title: "Predict schizophrenia"
+    url: https://www.engadget.com/2017/07/20/ibms-ai-can-predict-schizophrenia-by-looking-at-the-brains-blo/
+  - title: "Diagnose osteoarthritis of the knees"
+    url: https://blogs.nvidia.com/blog/2018/01/18/ai-osteoarthritis/
+  near:
+  - title: "Diagnose prostate cancer"
+    url: https://cloud.google.com/customers/maxwell-mri/
+  - title: "Diagnose common conditions"
+    url: https://spectrum.ieee.org/the-human-os/biomedical/diagnostics/doc-1-apps-0
+  - title: "Monitor outpatients"
+    url: http://sensely.com/features/
+  - title: "Suture a wound"
+    url: https://spectrum.ieee.org/the-human-os/robotics/medical-robots/autonomous-robot-surgeon-bests-human-surgeons-in-world-first
+  - title: "Make precise incisions"
+    url: https://spectrum.ieee.org/the-human-os/biomedical/devices/in-fleshcutting-task-autonomous-robot-surgeon-beats-human-surgeons
+  - title: "Detect falls in the home"
+    url: https://www.theengineer.co.uk/radar-ai-vulnerable-healthcare/
+  - title: "Screen for cervical cancer"
+    url: https://pratt.duke.edu/news/ditch-the-speculum
+  - title: "Predict hospital readmissions"
+    url: http://hitconsultant.net/2017/12/12/partners-connected-health-ai-hospital-readmissions/
+  - title: "Improve palliative care"
+    url: https://arxiv.org/abs/1711.06402
+  - title: "Detect suicidal thoughts"
+    url: https://www.seeker.com/tech/artificial-intelligence/brain-imaging-technology-uses-machine-learning-to-identify-suicidal-thoughts
+
+- section: "Science"
+  wins:
+  - title: "Hunt for subatomic particles"
+    url: https://futurism.com/ai-is-changing-everything-even-science-itself/
+  does:
+  - title: "Find new uses for existing drugs"
+    url: https://www.technologyreview.com/s/603384/machine-vision-helps-spot-new-drug-treatments/
+  - title: "Classify extreme weather events"
+    url: https://www.nextplatform.com/2016/05/18/climate-research-first-push-deep-learning-traditional-supercomputers/
+  - title: "Discover new models in biology"
+    url: https://now.tufts.edu/news-releases/planarian-regeneration-model-discovered-artificial-intelligence
+  - title: "Discover new planets"
+    url: https://www.wired.co.uk/article/why-artificial-intelligence-is-the-future-of-astronomy
+  - title: "Identify bacteria"
+    url: https://scienmag.com/bidmc-researchers-use-artificial-intelligence-to-identify-bacteria-quickly-and-accurately/
+  - title: "Design better batteries"
+    url: https://tomkat.stanford.edu/research/designing-better-battery-machine-learning
+  - title: "Design more efficient OLEDs"
+    url: https://www.nature.com/articles/nmat4717
+  - title: "Predict molecular properties"
+    url: https://arxiv.org/abs/1704.01212
+  - title: "Improve the accuracy of gene editing"
+    url: https://blogs.microsoft.com/ai/crispr-gene-editing/
+  - title: "Build models for new artificial life forms"
+    url: https://www.gla.ac.uk/news/headline_567643_en.html
+  near:
+  - title: "Simulate quantum systems"
+    url: https://www.newscientist.com/article/2120856-ai-learns-to-solve-quantum-state-of-many-particles-at-once/
+  - title: "Predict earthquakes"
+    url: https://www.scientificamerican.com/article/can-artificial-intelligence-predict-earthquakes/
+  - title: "Draft research papers"
+    url: https://www.timeshighereducation.com/news/rise-research-bots-ai-software-writes-your-papers-you#survey-answer
+  - title: "Invent alternatives to meat"
+    url: http://www.bbc.com/future/story/20171214-could-ai-help-create-a-meat-free-world
+  - title: "Predict disruptions in fusion reactions"
+    url: https://www.princeton.edu/news/2017/12/15/artificial-intelligence-helps-accelerate-progress-toward-efficient-fusion-reactions
+
+- section: "Security"
+  wins:
+  - title: "Enhance pixellated images"
+    url: https://www.theguardian.com/technology/2017/feb/08/google-ai-system-pixelated-faces-csi
+  - title: "Detect malware"
+    url: https://www.networkworld.com/article/3043202/security/how-to-use-deep-learning-ai-to-detect-and-prevent-malware-and-apts-in-real-time.html  
+  does:
+  - title: "Staff a police station"
+    url: https://www.weforum.org/agenda/2017/11/this-chinese-police-station-is-staffed-by-artificial-intelligence
+  - title: "Verify your identity from a selfie"
+    url: https://www.finextra.com/pressarticle/67660/onfido-targets-the-unbanked-with-machine-learning
+  - title: "Detect compromised user accounts"
+    url: https://bdtechtalks.com/2016/04/15/the-role-of-big-data-in-securing-online-identities/
+  - title: "Spot burglars"
+    url: https://www.popsci.com/article/gadgets/defend-your-home-artificial-intelligence#page-2
+  - title: "Operate a sentry gun"
+    url: https://en.wikipedia.org/wiki/Samsung_SGR-A1
+  - title: "Patrol shopping malls"
+    url: http://uk.businessinsider.com/knightscope-security-robots-microsoft-uber-2017-5
+  - title: "Flag extremist videos"
+    url: https://www.ft.com/content/2775d8a4-b3f8-11e7-aa26-bb002965bce8
+  - title: "Spot trolls on Twitter"
+    url: https://www.wired.com/2017/02/googles-troll-fighting-ai-now-belongs-world/
+  - title: "Identify surface-to-air missile sites"
+    url: https://www.wired.com/story/ai-can-help-hunt-down-missile-sites-in-china/
+  - title: "Make surveillance footage searchable in real time"
+    url: http://smartella.com/
+  near:
+  - title: "Direct drone surveillance"
+    url: https://www.siliconrepublic.com/machines/scorpion-us-army-scengen-drones-uavs
+  - title: "Predict protests and riots"
+    url: http://www.ibtimes.co.uk/cia-using-deep-learning-neural-networks-predict-social-unrest-five-days-before-it-happens-1585115
+  - title: "Predict who is going to commit a crime"
+    url: https://futurism.com/chinas-minority-report-style-plans-will-use-ai-to-predict-who-will-commit-crimes/
+  - title: "Monitor the border"
+    url: http://www.firstpost.com/tech/news-analysis/us-developing-system-to-protect-borders-with-artificial-intelligence-drones-and-self-driving-cars-3835915.html
+  - title: "Detect child abuse images"
+    url: http://www.telegraph.co.uk/technology/2017/12/18/artificial-intelligence-will-detect-child-abuse-images-save/  
+
+- section: "Computing"
+  wins:
+  - title: "Block spam emails"
+    url: https://techcrunch.com/2017/05/31/google-says-its-machine-learning-tech-now-blocks-99-9-of-gmail-spam-and-phishing-messages/      
+  - title: "Deliver search results"
+    url: https://www.wired.com/2016/02/ai-is-changing-the-technology-behind-google-searches/
+  - title: "Organise your Facebook news feed"
+    url: https://sideways-view.com/2016/12/01/optimizing-the-news-feed/
+  does:
+  - title: "Improve your UX design"
+    url: http://www.eyequant.com/
+  - title: "Predict hard drive failures"
+    url: http://www.digitaljournal.com/tech-and-science/technology/hitachi-uses-ai-to-predict-when-server-hard-drives-will-fail/article/504575
+  near:
+  - title: "Write AI software"
+    url: https://www.technologyreview.com/s/603381/ai-software-learns-to-make-ai-software/
+  - title: "Write unit tests"
+    url: http://www.diffblue.com/
+  - title: "Turn wireframes into working apps"
+    url: https://thenextweb.com/apps/2017/05/26/ai-raw-design-turn-source-code/
+  - title: "Learn how to use encryption"
+    url: https://www.wired.co.uk/article/google-artificial-intelligence-encryption
+  - title: "Learn how to use a computer"
+    url: https://www.wired.com/2016/12/openais-universe-computers-learn-use-apps-like-humans/
+  - title: "Improve your WiFi performance"
+    url: https://www.networkworld.com/article/3211528/mobile-wireless/mist-uses-ai-to-improve-wireless-network-performance.html
+
+- section: "Speech & language"
+  wins:
+  - title: "Read your lips"
+    url: https://www.technologyreview.com/s/602949/ai-has-beaten-humans-at-lip-reading/
+  - title: "Pick a single voice out of a crowd"
+    url: https://www.newscientist.com/article/2151268-an-ai-has-learned-how-to-pick-a-single-voice-out-of-a-crowd/
+  - title: "Translate over 100 languages"
+    url: https://translate.google.co.uk/          
+  does:
+  - title: "Pass a reading comprehension test"
+    url: https://www.ft.com/content/8763219a-f9bc-11e7-9b32-d7d59aace167
+  - title: "Transcribe a conversation"
+    url: https://blogs.microsoft.com/ai/2016/10/18/historic-achievement-microsoft-researchers-reach-human-parity-conversational-speech-recognition
+  - title: "Speak naturally"
+    url: https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+  - title: "Write convincing reviews"
+    url: https://arxiv.org/abs/1708.08151
+  - title: "Translate in real time"
+    url: https://www.engadget.com/2017/10/04/google-pixel-buds-translation-change-the-world/
+  - title: "Interpret orders from a Starfleet captain"
+    url: https://www.theverge.com/2017/5/11/15621930/star-trek-bridge-crew-voice-commands-ibm-watson    
+  - title: "Fool a speech-to-text system"
+    url: https://thenextweb.com/artificial-intelligence/2018/01/11/ai-learns-how-to-fool-text-to-speech-thats-bad-news-for-voice-assistants/ 
+  near:
+  - title: "Translate like a native speaker"
+    url: https://venturebeat.com/2017/06/27/why-ai-powered-translation-needs-a-lot-of-work/
+  - title: "Recognise emotions in speech"
+    url: https://www.prnewswire.com/news-releases/beyond-verbal-introduces-the-empath-app-identifying-and-tracking-emotional-wellbeing-via-smartphones-300015719.html
+  - title: "Learn to speak like someone else"
+    url: https://arstechnica.co.uk/information-technology/2016/07/luka-ai-chatbot-speaking-to-the-dead-mind-uploading/
+  - title: "Spot fake news"
+    url: http://uk.businessinsider.com/spotting-fake-news-with-ai-2017-12
+  - title: "Tell British and American accents apart"
+    url: https://thenextweb.com/artificial-intelligence/2018/01/11/test-your-fake-british-or-american-accent-with-this-ai/
+
+- section: "Vision"
+  wins:
+  - title: "Identify you from your face"
+    url: https://en.wikipedia.org/wiki/Facial_recognition_system
+  - title: "Identify you from your walk"
+    url: https://www.newscientist.com/article/mg21528835-600-cameras-know-you-by-your-walk/
+  does: 
+  - title: "Match selfies to famous paintings"
+    url: http://mashable.com/2018/01/13/google-arts-culture-app-selfie-hilarity/
+  - title: "Describe what's happening in a picture"
+    url: https://www.independent.co.uk/life-style/gadgets-and-tech/news/captionbot-microsoft-picture-caption-analyse-describe-artificial-intelligence-a6984246.html
+  - title: "Track multiple faces in a crowd"
+    url: https://techcrunch.com/2017/03/30/new-tech-can-spot-small-faces-in-the-crowd/
+  - title: "Identify plant and animal species"
+    url: https://news.developer.nvidia.com/ai-app-identifies-plants-and-animals-in-seconds/
+  - title: "Tag your friends in photos"
+    url: https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+  - title: "Tell chocolate chip and raisin cookies apart"
+    url: https://gigaom.com/2014/12/05/deep-learning-startup-metamind-launches-with-8m-and-a-star-team/
+  - title: "Identify objects for the visually impaired"
+    url: https://www.technologyreview.com/s/601098/app-spots-objects-for-the-visually-impaired/
+  - title: "Fool an image classifier system"
+    url: https://www.theverge.com/2018/1/3/16844842/ai-computer-vision-trick-adversarial-patches-google
+  - title: "Answer questions about an image"
+    url: https://blogs.microsoft.com/ai/system-trains-machines-to-look-at-images-the-way-people-do-and-answer-questions-about-them/
+  near:
+  - title: "Guess your age"
+    url: https://www.theverge.com/2015/4/30/8522649/microsoft-how-old-do-i-look
+  - title: "Recognise emotions in pictures"
+    url: https://www.wired.co.uk/article/microsoft-predict-emotions-artificial-intelligence
+  - title: "Tell chihuahuas and muffins apart"
+    url: https://medium.freecodecamp.org/chihuahua-or-muffin-my-search-for-the-best-computer-vision-api-cbda4d6b425d
+  - title: "Turn photos into videos"
+    url: http://carlvondrick.com/tinyvideo/
+  - title: "Recognise partially concealed faces"
+    url: https://arxiv.org/abs/1708.09317
+  - title: "See through walls"
+    url: https://www.theregister.co.uk/2017/06/20/drones_and_wifi_see_thru_walls/  
+  
+- section: "Other stuff"
+  wins:
+  - title: "Juggle balls in mid-air"
+    url: https://gizmodo.com/5786711/quadrotor-drones-can-juggle-balls-with-each-other  
+  does:
+  - title: "Animate the poo emoji"
+    url: https://www.theverge.com/2017/9/12/16290210/new-iphone-emoji-animated-animoji-apple-ios-11-update
+  - title: "Dance Gangnam Style"
+    url: https://www.youtube.com/watch?v=yP9NCMMqxCs
+  - title: "Nail an IQ test"
+    url: http://observer.com/2015/06/artificially-intelligent-computer-outperforms-humans-on-iq-test/
+  - title: "Tell if you are dreaming"
+    url: https://thenextweb.com/artificial-intelligence/2017/08/07/scientists-create-ai-that-can-tell-if-youre-dreaming/
+  - title: "Do a backflip"
+    url: https://www.theverge.com/circuitbreaker/2017/11/17/16671328/boston-dynamics-backflip-robot-atlas
+  - title: "Learn to mimic human movement"
+    url: https://research.googleblog.com/2017/07/teaching-robots-to-understand-semantic.html
+  near:
+  - title: "Detect toxic comments in online discussions"
+    url: http://www.perspectiveapi.com/#/
+  - title: "Judge a beauty contest"
+    url: https://www.wired.co.uk/article/robot-beauty-contest-beauty-ai
+  - title: "Learn common decency"
+    url: https://techcrunch.com/2016/03/24/microsoft-silences-its-new-a-i-bot-tay-after-twitter-users-teach-it-racism/
+  - title: "Read your mind"
+    url: https://www.biorxiv.org/content/biorxiv/early/2017/12/30/240317.full.pdf
+  - title: "Design smartphone cases"
+    url: http://www.iflscience.com/technology/amazon-ai-designed-to-create-phone-cases-goes-hilariously-wrong/

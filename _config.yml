@@ -1,6 +1,6 @@
 # Site settings
 title: DeepIndex
-description: "The definitive index of artificial intelligence in action."
+description: "Keeping track of what artificial intelligence can do and where it is being applied."
 url: "https://deepindex.org"
 enforce_ssl: deepindex.org
 permalink: /:title/

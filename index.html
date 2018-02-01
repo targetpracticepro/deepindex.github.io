@@ -57,8 +57,14 @@ updated: January 2018
     {% endif %}
   
     <div class="col-md-4">
+    
+    {% assign block_apps = 0 %}
 
-    <h3>{{ block.section }}</h3>
+    {% assign block_apps = block_apps | plus: block.wins.size %}
+    {% assign block_apps = block_apps | plus: block.does.size %}
+    {% assign block_apps = block_apps | plus: block.near.size %}
+
+    <h3>{{ block.section }} <small>{{ block_apps }}</small></h3>
 
     {% if block.wins.size > 0 %}
     

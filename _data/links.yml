@@ -77,6 +77,8 @@
     url: https://www.theguardian.com/technology/2016/jun/10/artificial-intelligence-screenplay-sunspring-silicon-valley-thomas-middleditch-ai
   - title: "Write a novel"
     url: https://www.digitaltrends.com/cool-tech/japanese-ai-writes-novel-passes-first-round-nationanl-literary-prize/
+  - title: "Design personalised clothing"
+    url: https://www.technologyreview.com/s/609469/this-ai-learns-your-fashion-sense-and-invents-your-next-outfit/
 
 - section: "Home & lifestyle"
   wins:
@@ -583,6 +585,10 @@
     url: https://www.theverge.com/2017/12/5/16737260/ai-image-translation-nvidia-data-self-driving-cars
   - title: "Turn a webcam into a motion tracker"
     url: https://thenextweb.com/artificial-intelligence/2018/01/30/programmers-use-tensorflow-ai-to-turn-any-webcam-into-microsoft-kinect/
+  - title: "Remove Henry Cavill's mustache"
+    url: https://www.theverge.com/tldr/2018/2/7/16985570/superman-mustache-ai-deepfakes-henry-cavill 
+  - title: "Find pictures capturing similar moods"
+    url: https://www.androidauthority.com/vsco-discover-ai-machine-learning-mood-835835/
   near:
   - title: "Guess your age"
     url: https://www.theverge.com/2015/4/30/8522649/microsoft-how-old-do-i-look
@@ -602,6 +608,8 @@
   - title: "Juggle balls in mid-air"
     url: https://gizmodo.com/5786711/quadrotor-drones-can-juggle-balls-with-each-other  
   does:
+  - title: "Boost the brain's memory"
+    url: https://www.wired.com/story/ml-brain-boost/
   - title: "Animate the poo emoji"
     url: https://www.theverge.com/2017/9/12/16290210/new-iphone-emoji-animated-animoji-apple-ios-11-update
   - title: "Dance Gangnam Style"

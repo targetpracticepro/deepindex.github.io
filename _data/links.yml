@@ -224,7 +224,8 @@
     url: https://clarke.ai/
   - title: "Schedule your meetings"
     url: https://x.ai/how-it-works/
-  near:
+  - title: "Make your Slack workspace more productive"
+    url: https://www.technologyreview.com/s/609319/slack-hopes-its-ai-will-keep-you-from-hating-slack/
   
 - section: "Industrial"
   wins:
@@ -468,14 +469,16 @@
     url: https://en.wikipedia.org/wiki/Samsung_SGR-A1
   - title: "Patrol shopping malls"
     url: http://uk.businessinsider.com/knightscope-security-robots-microsoft-uber-2017-5
-  - title: "Flag extremist videos"
-    url: https://www.ft.com/content/2775d8a4-b3f8-11e7-aa26-bb002965bce8
+  - title: "Detect ISIS propaganda"
+    url: https://www.theverge.com/2018/2/13/17007136/uk-government-machine-learning-algorithm-isis-propaganda
   - title: "Spot trolls on Twitter"
     url: https://www.wired.com/2017/02/googles-troll-fighting-ai-now-belongs-world/
   - title: "Identify surface-to-air missile sites"
     url: https://www.wired.com/story/ai-can-help-hunt-down-missile-sites-in-china/
   - title: "Make surveillance footage searchable in real time"
     url: http://smartella.com/
+  - title: "Roll surveillance equipment on any terrain"
+    url: http://uk.businessinsider.com/guardbot-robot-surveillance-ball-roll-all-terrain-black-mirror-2018-2
   near:
   - title: "Direct drone surveillance"
     url: https://www.siliconrepublic.com/machines/scorpion-us-army-scengen-drones-uavs
@@ -589,6 +592,8 @@
     url: https://www.theverge.com/tldr/2018/2/7/16985570/superman-mustache-ai-deepfakes-henry-cavill 
   - title: "Find pictures capturing similar moods"
     url: https://www.androidauthority.com/vsco-discover-ai-machine-learning-mood-835835/
+  - title: "Change people's clothes in a video in real time"
+    url: https://thenextweb.com/artificial-intelligence/2018/02/07/watch-out-hollywood-facebooks-body-swapping-ai-is-coming-for-your-jobs/  
   near:
   - title: "Guess your age"
     url: https://www.theverge.com/2015/4/30/8522649/microsoft-how-old-do-i-look
@@ -602,6 +607,8 @@
     url: https://arxiv.org/abs/1708.09317
   - title: "See through walls"
     url: https://www.theregister.co.uk/2017/06/20/drones_and_wifi_see_thru_walls/  
+  - title: "Tell black men and women apart"
+    url: https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html
   
 - section: "Other"
   wins:
@@ -622,6 +629,12 @@
     url: https://www.theverge.com/circuitbreaker/2017/11/17/16671328/boston-dynamics-backflip-robot-atlas
   - title: "Learn to mimic human movement"
     url: https://research.googleblog.com/2017/07/teaching-robots-to-understand-semantic.html
+  - title: "Open doors"
+    url: https://thenextweb.com/artificial-intelligence/2018/02/12/these-robots-work-together-to-achieve-a-common-goal/
+  - title: "Make socio-economic classifications"
+    url: https://www.theguardian.com/commentisfree/2018/feb/13/facebook-coding-whole-new-class-system
+  - title: "Ski an alpine slalom course"
+    url: https://twitter.com/i/moments/963170538838376449
   near:
   - title: "Detect toxic comments in online discussions"
     url: http://www.perspectiveapi.com/#/

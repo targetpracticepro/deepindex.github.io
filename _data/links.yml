@@ -64,8 +64,8 @@
     url: https://thenextweb.com/artificial-intelligence/2018/01/19/microsofts-ai-is-a-robo-van-gogh-that-could-change-how-designers-work/
   - title: "Crop photos"
     url: https://www.theverge.com/2018/1/25/16931632/twitter-machine-learning-auto-image-cropping
-  - title: "Replace faces in videos"
-    url: https://theoutline.com/post/3121/you-can-now-watch-nicolas-cage-play-james-bond
+  - title: "Restyle photos"
+    url: https://arxiv.org/abs/1802.06474
   near:
   - title: "Compose pop music"
     url: https://djmag.com/news/first-pop-song-composed-artificial-intelligence-available-stream
@@ -127,13 +127,15 @@
   wins:
   - title: "Check commercial loan agreements"
     url: https://www.independent.co.uk/news/business/news/jp-morgan-software-lawyers-coin-contract-intelligence-parsing-financial-deals-seconds-legal-working-a7603256.html 
-  - title: "Buy and place ads"
+  - title: "Buy advertising inventory"
     url: https://martechtoday.com/value-applying-artificial-intelligence-display-advertising-199306
   - title: "Optimise retail inventory"
     url: https://edited.com/about/
   - title: "Review theft insurance claims"
     url: https://www.lemonade.com/blog/lemonade-sets-new-world-record/ 
   does:
+  - title: "Made ad placement decisions"
+    url: https://techcrunch.com/2018/02/21/google-debuts-adsense-auto-ads-with-machine-learning-to-make-placement-and-monetization-choices/
   - title: "Review NDAs"
     url: http://mitsloan.mit.edu/newsroom/articles/artificial-intelligence-enabled-klarity-helps-companies-identify-risks-in-contracts/
   - title: "Write sports bulletins"
@@ -438,6 +440,8 @@
     url: https://blogs.microsoft.com/ai/crispr-gene-editing/
   - title: "Build models for new artificial life forms"
     url: https://www.gla.ac.uk/news/headline_567643_en.html
+  - title: "Survey and classify biological data"
+    url: https://www.nature.com/articles/d41586-018-02174-z
   near:
   - title: "Simulate quantum systems"
     url: https://www.newscientist.com/article/2120856-ai-learns-to-solve-quantum-state-of-many-particles-at-once/
@@ -479,6 +483,8 @@
     url: http://smartella.com/
   - title: "Roll surveillance equipment on any terrain"
     url: http://uk.businessinsider.com/guardbot-robot-surveillance-ball-roll-all-terrain-black-mirror-2018-2
+  - title: "Follow a person without human interaction"
+    url: https://www.nytimes.com/2018/02/20/technology/artificial-intelligence-risks.html
   near:
   - title: "Direct drone surveillance"
     url: https://www.siliconrepublic.com/machines/scorpion-us-army-scengen-drones-uavs
@@ -508,6 +514,8 @@
     url: http://www.eyequant.com/
   - title: "Predict hard drive failures"
     url: http://www.digitaljournal.com/tech-and-science/technology/hitachi-uses-ai-to-predict-when-server-hard-drives-will-fail/article/504575
+  - title: "Perform functional software testing"
+    url: https://techcrunch.com/2018/02/21/with-10m-in-funding-mabl-brings-machine-learning-to-software-testing/
   near:
   - title: "Write AI software"
     url: https://www.technologyreview.com/s/603381/ai-software-learns-to-make-ai-software/
@@ -566,6 +574,8 @@
   - title: "Identify you from your walk"
     url: https://www.newscientist.com/article/mg21528835-600-cameras-know-you-by-your-walk/
   does: 
+  - title: "Change faces in videos"
+    url: https://theoutline.com/post/3121/you-can-now-watch-nicolas-cage-play-james-bond
   - title: "Match selfies to famous paintings"
     url: http://mashable.com/2018/01/13/google-arts-culture-app-selfie-hilarity/
   - title: "Describe what's happening in a picture"

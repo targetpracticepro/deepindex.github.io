@@ -28,8 +28,6 @@
   - title: "Play StarCraft"
     url: https://www.technologyreview.com/s/609242/humans-are-still-better-than-ai-at-starcraftfor-now/
   near:
-  - title: "Play table tennis"
-    url: https://www.theverge.com/2017/10/9/16448488/table-tennis-playing-robot-ai-forpheus-omron
 
 - section: "Creative"
   wins:
@@ -115,6 +113,8 @@
     url: https://www.wgsn.com/blogs/sxsw-ibm-watson-could-be-mixing-your-next-drink-and-analysing-your-personality-too/
   - title: "Tell you if you have spots or wrinkles"
     url: https://www.theverge.com/2017/1/4/14166064/himirror-plus-scan-smart-mirror-ces-2017
+  - title: "Help you choose a hair dye"
+    url: https://blogs.nvidia.com/blog/2018/02/14/i-am-ai-episode-4-modiface/?
   near:
   - title: "Cook your meals"
     url: https://www.forbes.com/sites/eustaciahuen/2016/10/31/the-worlds-first-home-robotic-chef-can-cook-over-100-meals/
@@ -133,10 +133,12 @@
     url: https://edited.com/about/
   - title: "Review theft insurance claims"
     url: https://www.lemonade.com/blog/lemonade-sets-new-world-record/ 
+  - title: "Spot errors in NDAs"
+    url: https://mashable.com/2018/02/26/ai-beats-humans-at-contracts/#4l2v3pW49kqR
   does:
   - title: "Made ad placement decisions"
     url: https://techcrunch.com/2018/02/21/google-debuts-adsense-auto-ads-with-machine-learning-to-make-placement-and-monetization-choices/
-  - title: "Review NDAs"
+  - title: "Review legal contracts"
     url: http://mitsloan.mit.edu/newsroom/articles/artificial-intelligence-enabled-klarity-helps-companies-identify-risks-in-contracts/
   - title: "Write sports bulletins"
     url: http://www.ibtimes.co.uk/associated-press-expand-its-sports-coverage-by-using-ai-write-minor-league-baseball-articles-1568804
@@ -242,7 +244,7 @@
     url: https://www.inc.com/michelle-cheng/meet-beauty-startup-that-wants-to-put-artificial-intelligence-in-your-shampoo.html
   - title: "Sort parcels"
     url: http://www.scmp.com/news/china/society/article/2086662/chinese-firm-cuts-costs-hiring-army-robots-sort-out-200000
-  - title: "Operate a supermarket"
+  - title: "Run a supermarket"
     url: http://www.itv.com/news/2018-01-22/amazon-launches-first-ai-powered-supermarket/
   near:
   - title: "Audit what's on a store's shelves"
@@ -323,6 +325,8 @@
     url: http://www.telegraph.co.uk/news/2017/12/31/ministers-use-artificial-intelligence-target-mass-benefit-fraud/
   - title: "Reduce urban congestion"
     url: https://qz.com/1191599/alibaba-is-reshaping-city-traffic-with-artificial-intelligence/
+  - title: "Help police make custody decisions"
+    url: http://www.cam.ac.uk/research/features/helping-police-make-custody-decisions-using-artificial-intelligence
   near:
   - title: "Predict court cases"
     url: https://www.ucl.ac.uk/news/news-articles/1016/241016-AI-predicts-outcomes-human-rights-trials
@@ -387,6 +391,12 @@
     url: https://www.engadget.com/2017/07/20/ibms-ai-can-predict-schizophrenia-by-looking-at-the-brains-blo/
   - title: "Diagnose osteoarthritis of the knees"
     url: https://blogs.nvidia.com/blog/2018/01/18/ai-osteoarthritis/
+  - title: "Create holograms of cervical smears"
+    url: http://newsroom.ucla.edu/releases/ucla-engineers-use-deep-learning-to-reconstruct-holograms-and-improve-optical-microscopy
+  - title: "Predict epileptic seizures"
+    url: http://www.hcanews.com/news/deep-learning-device-can-predict-epileptic-seizures
+  - title: "Diagnose nail fungus"
+    url: https://spectrum.ieee.org/the-human-os/robotics/artificial-intelligence/ai-beats-dermatologists-in-diagnosing-nail-fungus
   near:
   - title: "Enhance cancer pathology reports"
     url: https://techcrunch.com/2018/02/05/paige-ai-nabs-25m-inks-ip-deal-with-sloan-kettering-to-bring-machine-learning-to-cancer-pathology/
@@ -442,6 +452,8 @@
     url: https://www.gla.ac.uk/news/headline_567643_en.html
   - title: "Survey and classify biological data"
     url: https://www.nature.com/articles/d41586-018-02174-z
+  - title: "Detect and locate earthquakes"
+    url: https://www.seeker.com/artificial-intelligence/ai-earthquake-tracker-is-inspired-by-speech-recognition-technology
   near:
   - title: "Simulate quantum systems"
     url: https://www.newscientist.com/article/2120856-ai-learns-to-solve-quantum-state-of-many-particles-at-once/
@@ -481,11 +493,11 @@
     url: https://www.wired.com/story/ai-can-help-hunt-down-missile-sites-in-china/
   - title: "Make surveillance footage searchable in real time"
     url: http://smartella.com/
-  - title: "Roll surveillance equipment on any terrain"
-    url: http://uk.businessinsider.com/guardbot-robot-surveillance-ball-roll-all-terrain-black-mirror-2018-2
   - title: "Follow a person without human interaction"
     url: https://www.nytimes.com/2018/02/20/technology/artificial-intelligence-risks.html
   near:
+  - title: "Threaten our digital, physical and political security"
+    url: https://maliciousaireport.com/
   - title: "Direct drone surveillance"
     url: https://www.siliconrepublic.com/machines/scorpion-us-army-scengen-drones-uavs
   - title: "Predict protests and riots"
@@ -554,6 +566,8 @@
   - title: "Fool a speech-to-text system"
     url: https://thenextweb.com/artificial-intelligence/2018/01/11/ai-learns-how-to-fool-text-to-speech-thats-bad-news-for-voice-assistants/ 
   near:
+  - title: "Exchange banter with humans"
+    url: https://www.weforum.org/agenda/2018/02/trash-talk-from-an-ai-could-help-humans-cooperate-better
   - title: "Translate like a native speaker"
     url: https://venturebeat.com/2017/06/27/why-ai-powered-translation-needs-a-lot-of-work/
   - title: "Recognise emotions in speech"
@@ -566,6 +580,8 @@
     url: https://thenextweb.com/artificial-intelligence/2018/01/11/test-your-fake-british-or-american-accent-with-this-ai/
   - title: "Decipher an ancient manuscript"
     url: https://gizmodo.com/artificial-intelligence-may-have-cracked-freaky-600-yea-1822519232
+  - title: "Detect toxic comments in online discussions"
+    url: http://www.perspectiveapi.com/#/
 
 - section: "Vision"
   wins:
@@ -620,34 +636,43 @@
   - title: "Tell black men and women apart"
     url: https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html
   
-- section: "Other"
+- section: "Robotics"
   wins:
   - title: "Juggle balls in mid-air"
-    url: https://gizmodo.com/5786711/quadrotor-drones-can-juggle-balls-with-each-other  
+    url: https://gizmodo.com/5786711/quadrotor-drones-can-juggle-balls-with-each-other   
   does:
-  - title: "Boost the brain's memory"
-    url: https://www.wired.com/story/ml-brain-boost/
-  - title: "Animate the poo emoji"
-    url: https://www.theverge.com/2017/9/12/16290210/new-iphone-emoji-animated-animoji-apple-ios-11-update
+  - title: "Design better artificial limbs"
+    url: http://www.unlimitedtomorrow.com/about.html
   - title: "Dance Gangnam Style"
-    url: https://www.youtube.com/watch?v=yP9NCMMqxCs
-  - title: "Nail an IQ test"
-    url: http://observer.com/2015/06/artificially-intelligent-computer-outperforms-humans-on-iq-test/
-  - title: "Tell if you are dreaming"
-    url: https://thenextweb.com/artificial-intelligence/2017/08/07/scientists-create-ai-that-can-tell-if-youre-dreaming/
+    url: https://www.youtube.com/watch?v=yP9NCMMqxCs        
   - title: "Do a backflip"
     url: https://www.theverge.com/circuitbreaker/2017/11/17/16671328/boston-dynamics-backflip-robot-atlas
   - title: "Learn to mimic human movement"
     url: https://research.googleblog.com/2017/07/teaching-robots-to-understand-semantic.html
   - title: "Open doors"
     url: https://thenextweb.com/artificial-intelligence/2018/02/12/these-robots-work-together-to-achieve-a-common-goal/
-  - title: "Make socio-economic classifications"
-    url: https://www.theguardian.com/commentisfree/2018/feb/13/facebook-coding-whole-new-class-system
+  - title: "Roll on any terrain"
+    url: http://uk.businessinsider.com/guardbot-robot-surveillance-ball-roll-all-terrain-black-mirror-2018-2
+  near:
   - title: "Ski an alpine slalom course"
     url: https://twitter.com/i/moments/963170538838376449
+  - title: "Play table tennis"
+    url: https://www.theverge.com/2017/10/9/16448488/table-tennis-playing-robot-ai-forpheus-omron
+    
+- section: "Other"
+  wins:
+  - title: "Animate the poo emoji"
+    url: https://www.theverge.com/2017/9/12/16290210/new-iphone-emoji-animated-animoji-apple-ios-11-update 
+  does:
+  - title: "Boost the brain's memory"
+    url: https://www.wired.com/story/ml-brain-boost/
+  - title: "Nail an IQ test"
+    url: http://observer.com/2015/06/artificially-intelligent-computer-outperforms-humans-on-iq-test/
+  - title: "Tell if you are dreaming"
+    url: https://thenextweb.com/artificial-intelligence/2017/08/07/scientists-create-ai-that-can-tell-if-youre-dreaming/
+  - title: "Make socio-economic classifications"
+    url: https://www.theguardian.com/commentisfree/2018/feb/13/facebook-coding-whole-new-class-system
   near:
-  - title: "Detect toxic comments in online discussions"
-    url: http://www.perspectiveapi.com/#/
   - title: "Judge a beauty contest"
     url: https://www.wired.co.uk/article/robot-beauty-contest-beauty-ai
   - title: "Learn common decency"

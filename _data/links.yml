@@ -14,6 +14,8 @@
     url: https://www.technologyreview.com/s/609507/this-inquisitive-ai-will-kick-your-butt-at-battleship/
   - title: "Play Shogi"
     url: https://arxiv.org/abs/1712.01815
+  - title: "Play Q*bert"
+    url: https://mashable.com/2018/03/01/ai-beats-qbert/
   does:
   - title: "Play Scrabble"
     url: https://www.engadget.com/2018/01/11/a-robot-kicked-my-ass-in-scrabble-at-ces/
@@ -230,6 +232,8 @@
     url: https://x.ai/how-it-works/
   - title: "Make your Slack workspace more productive"
     url: https://www.technologyreview.com/s/609319/slack-hopes-its-ai-will-keep-you-from-hating-slack/
+  - title: "Suggest a room for your meeting"
+    url: https://www.blog.google/products/g-suite/new-ways-help-teams-work-faster-and-smarter-g-suite/
   
 - section: "Industrial"
   wins:
@@ -273,6 +277,8 @@
     url: http://grownetics.co/
   - title: "Help farmers work more efficiently"
     url: https://www.granular.ag/farm-management-software/
+  - title: "Detect poachers"
+    url: https://news.sky.com/story/google-and-zsl-set-up-ai-to-detect-poachers-11272178
   near:
   - title: "Pick apples"
     url: https://www.abundantrobotics.com/
@@ -327,6 +333,8 @@
     url: https://qz.com/1191599/alibaba-is-reshaping-city-traffic-with-artificial-intelligence/
   - title: "Help police make custody decisions"
     url: http://www.cam.ac.uk/research/features/helping-police-make-custody-decisions-using-artificial-intelligence
+  - title: "Help cities get feedback from their residents"
+    url: https://www.globes.co.il/en/article-zencity-raises-17m-to-help-municipalities-assist-residents-1001204302
   near:
   - title: "Predict court cases"
     url: https://www.ucl.ac.uk/news/news-articles/1016/241016-AI-predicts-outcomes-human-rights-trials

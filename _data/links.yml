@@ -66,6 +66,14 @@
     url: https://www.theverge.com/2018/1/25/16931632/twitter-machine-learning-auto-image-cropping
   - title: "Restyle photos"
     url: https://arxiv.org/abs/1802.06474
+  - title: "Create a chatbot in your likeness"
+    url: https://www.wired.com/story/what-my-personal-chat-bot-replika-is-teaching-me-about-artificial-intelligence/
+  - title: "Identify authors of literary works"
+    url: https://www.economist.com/blogs/prospero/2018/03/o-fractions-my-fractions
+  - title: "Generate an infinite podcast"
+    url: https://motherboard.vice.com/en_us/article/evm9zk/an-artificial-intelligence-is-generating-an-infinite-podcast
+  - title: "Teach you how to draw"
+    url: https://thenextweb.com/apps/2018/03/02/this-app-uses-ar-and-ai-to-teach-anyone-how-to-draw/
   near:
   - title: "Compose pop music"
     url: https://djmag.com/news/first-pop-song-composed-artificial-intelligence-available-stream
@@ -348,6 +356,8 @@
     url: https://www.wired.co.uk/article/nudge-unit-machine-learning-algorithms-schools-ofsted-doctors-behavioural-insights
   - title: "Predict government corruption"
     url: http://bigthink.com/paul-ratner/ai-researchers-develop-neural-networks-to-predict-government-corruption
+  - title: "Predict crime hotspots"
+    url: https://www.smithsonianmag.com/innovation/artificial-intelligence-is-now-used-predict-crime-is-it-biased-180968337/
 
 - section: "Education"
   wins:
@@ -405,6 +415,10 @@
     url: http://www.hcanews.com/news/deep-learning-device-can-predict-epileptic-seizures
   - title: "Diagnose nail fungus"
     url: https://spectrum.ieee.org/the-human-os/robotics/artificial-intelligence/ai-beats-dermatologists-in-diagnosing-nail-fungus
+  - title: "Pass a medical licensing exam"
+    url: https://www.weforum.org/agenda/2017/11/this-robot-has-passed-a-medical-licencing-exam-with-flying-colours
+  - title: "Predict cardiovascular risk from retina scans"
+    url: https://www.techrepublic.com/article/ai-deep-learning-to-predict-cardiovascular-risk-from-retina-scans/
   near:
   - title: "Enhance cancer pathology reports"
     url: https://techcrunch.com/2018/02/05/paige-ai-nabs-25m-inks-ip-deal-with-sloan-kettering-to-bring-machine-learning-to-cancer-pathology/
@@ -432,6 +446,10 @@
     url: https://futurism.com/new-app-for-depression-uses-artificial-intelligence-for-therapy-treatments/
   - title: "Organise clinical trials"
     url: https://www.wired.com/story/meet-the-company-trying-to-democratize-clinical-trials-with-ai
+  - title: "Detect potassium in your blood"
+    url: https://www.theverge.com/2018/3/12/17109036/apple-watch-kardiaband-alivecor-ekg-reader-hyperkalemia-health-artificial-intelligence
+  - title: "Predict leukaemia relapse"
+    url: https://www.parkerici.org/2018/03/05/predicting-childhood-leukemia-relapse-using-machine-learning/?linkId=48898025
 
 - section: "Science"
   wins:
@@ -462,6 +480,8 @@
     url: https://www.nature.com/articles/d41586-018-02174-z
   - title: "Detect and locate earthquakes"
     url: https://www.seeker.com/artificial-intelligence/ai-earthquake-tracker-is-inspired-by-speech-recognition-technology
+  - title: "Detect mosquitos"
+    url: https://blogs.nvidia.com/blog/2018/02/22/ai-malaria-mosquitoes/
   near:
   - title: "Simulate quantum systems"
     url: https://www.newscientist.com/article/2120856-ai-learns-to-solve-quantum-state-of-many-particles-at-once/
@@ -503,7 +523,11 @@
     url: http://smartella.com/
   - title: "Follow a person without human interaction"
     url: https://www.nytimes.com/2018/02/20/technology/artificial-intelligence-risks.html
+  - title: "Identify objects of interest in drone footage"
+    url: http://www.defenseone.com/technology/2017/12/pentagons-new-artificial-intelligence-already-hunting-terrorists/144742/
   near:
+  - title: "Flag suspicious people at border crossings"
+    url: https://www.fastcompany.com/40539812/new-unisys-tool-brings-machine-learning-to-border-security
   - title: "Threaten our digital, physical and political security"
     url: https://maliciousaireport.com/
   - title: "Direct drone surveillance"
@@ -520,6 +544,8 @@
     url: https://sputniknews.com/asia/201802051061362280-china-ai-subs/
   - title: "Drive a police car"
     url: https://www.digitaltrends.com/cars/ford-patent-filing-outlines-a-self-driving-police-car/
+  - title: "Detect drug smuggling"
+    url: https://english.alarabiya.net/en/News/gulf/2018/03/11/Dubai-Police-considers-using-of-artificial-intelligence-to-fight-drug-smuggling.html
 
 - section: "Computing"
   wins:
@@ -573,6 +599,8 @@
     url: https://www.theverge.com/2017/5/11/15621930/star-trek-bridge-crew-voice-commands-ibm-watson    
   - title: "Fool a speech-to-text system"
     url: https://thenextweb.com/artificial-intelligence/2018/01/11/ai-learns-how-to-fool-text-to-speech-thats-bad-news-for-voice-assistants/ 
+  - title: "Classify sentiment in text"
+    url: https://blog.openai.com/unsupervised-sentiment-neuron/
   near:
   - title: "Exchange banter with humans"
     url: https://www.weforum.org/agenda/2018/02/trash-talk-from-an-ai-could-help-humans-cooperate-better
@@ -590,6 +618,8 @@
     url: https://gizmodo.com/artificial-intelligence-may-have-cracked-freaky-600-yea-1822519232
   - title: "Detect toxic comments in online discussions"
     url: http://www.perspectiveapi.com/#/
+  - title: "Resist creepy laughing"
+    url: https://www.theverge.com/circuitbreaker/2018/3/7/17092334/amazon-alexa-devices-strange-laughter
 
 - section: "Vision"
   wins:
@@ -620,7 +650,7 @@
     url: https://blogs.microsoft.com/ai/system-trains-machines-to-look-at-images-the-way-people-do-and-answer-questions-about-them/
   - title: "Change the weather in a video"
     url: https://www.theverge.com/2017/12/5/16737260/ai-image-translation-nvidia-data-self-driving-cars
-  - title: "Turn a webcam into a motion tracker"
+  - title: "Turn a webcam into a Kinect"
     url: https://thenextweb.com/artificial-intelligence/2018/01/30/programmers-use-tensorflow-ai-to-turn-any-webcam-into-microsoft-kinect/
   - title: "Remove Henry Cavill's mustache"
     url: https://www.theverge.com/tldr/2018/2/7/16985570/superman-mustache-ai-deepfakes-henry-cavill 
@@ -628,6 +658,8 @@
     url: https://www.androidauthority.com/vsco-discover-ai-machine-learning-mood-835835/
   - title: "Change people's clothes in a video in real time"
     url: https://thenextweb.com/artificial-intelligence/2018/02/07/watch-out-hollywood-facebooks-body-swapping-ai-is-coming-for-your-jobs/  
+  - title: "Rank photos by aesthetic appeal"
+    url: https://www.weforum.org/agenda/2018/02/google-ai-algorithm-predicts-images-attractive-to-humans
   near:
   - title: "Guess your age"
     url: https://www.theverge.com/2015/4/30/8522649/microsoft-how-old-do-i-look
@@ -643,6 +675,8 @@
     url: https://www.theregister.co.uk/2017/06/20/drones_and_wifi_see_thru_walls/  
   - title: "Tell black men and women apart"
     url: https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html
+  - title: "Convert flat images to 3D"
+    url: https://thenextweb.com/artificial-intelligence/2018/03/08/try-this-ai-experiment-that-converts-2d-images-to-3d/
   
 - section: "Robotics"
   wins:
@@ -661,11 +695,17 @@
     url: https://thenextweb.com/artificial-intelligence/2018/02/12/these-robots-work-together-to-achieve-a-common-goal/
   - title: "Roll on any terrain"
     url: http://uk.businessinsider.com/guardbot-robot-surveillance-ball-roll-all-terrain-black-mirror-2018-2
+  - title: "Give you superhuman strength"
+    url: https://www.weforum.org/agenda/2017/11/could-you-lift-half-a-ton-these-robotic-arms-could-soon-make-that-possible
+  - title: "Anticipate human movements"
+    url: https://thenextweb.com/artificial-intelligence/2018/03/02/researchers-just-taught-robots-to-predict-your-every-move/
   near:
   - title: "Ski an alpine slalom course"
     url: https://twitter.com/i/moments/963170538838376449
   - title: "Play table tennis"
     url: https://www.theverge.com/2017/10/9/16448488/table-tennis-playing-robot-ai-forpheus-omron
+  - title: "Help robots teach themselves"
+    url: https://thenextweb.com/artificial-intelligence/2018/03/02/deepminds-new-robots-learned-how-to-teach-themselves/
     
 - section: "Other"
   wins:

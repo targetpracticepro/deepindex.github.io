@@ -74,6 +74,12 @@
     url: https://motherboard.vice.com/en_us/article/evm9zk/an-artificial-intelligence-is-generating-an-infinite-podcast
   - title: "Teach you how to draw"
     url: https://thenextweb.com/apps/2018/03/02/this-app-uses-ar-and-ai-to-teach-anyone-how-to-draw/
+  - title: "Create anime characters"
+    url: https://makegirlsmoe.github.io/main/2017/08/14/news-english.html
+  - title: "Paint a masterpiece"
+    url: https://www.pix18.com/about.html
+  - title: "Write Harry Potter fanfiction"
+    url: https://www.theverge.com/2017/12/12/16768582/harry-potter-ai-fanfiction
   near:
   - title: "Compose pop music"
     url: https://djmag.com/news/first-pop-song-composed-artificial-intelligence-available-stream
@@ -146,6 +152,8 @@
   - title: "Spot errors in NDAs"
     url: https://mashable.com/2018/02/26/ai-beats-humans-at-contracts/#4l2v3pW49kqR
   does:
+  - title: "Sell your house"
+    url: https://www.cnbc.com/2018/03/20/artificial-intelligence-the-latest-competition-for-real-estate-agents.html
   - title: "Made ad placement decisions"
     url: https://techcrunch.com/2018/02/21/google-debuts-adsense-auto-ads-with-machine-learning-to-make-placement-and-monetization-choices/
   - title: "Review legal contracts"
@@ -176,6 +184,8 @@
     url: http://watson.grammy.com/fashion
   - title: "Sort and grade job applicants"
     url: http://uk.businessinsider.com/hirevue-uses-ai-for-job-interview-applicants-goldman-sachs-unilever-2017-8
+  - title: "Match candidates with job vacancies"
+    url: https://leap.ai/welcome
   near:
   - title: "Run a hotel reception desk"
     url: https://www.theverge.com/2016/3/9/11180418/hilton-ibm-connie-robot-watson-hotel-concierge
@@ -332,7 +342,7 @@
   - title: "Deliver pizza"
     url: http://uk.businessinsider.com/toyota-pizza-hut-team-up-for-self-driving-pizza-delivery-2018-1
     
-- section: "Government"
+- section: "Government & nonprofit"
   wins:
   does:
   - title: "Detect benefit fraud"
@@ -343,6 +353,8 @@
     url: http://www.cam.ac.uk/research/features/helping-police-make-custody-decisions-using-artificial-intelligence
   - title: "Help cities get feedback from their residents"
     url: https://www.globes.co.il/en/article-zencity-raises-17m-to-help-municipalities-assist-residents-1001204302
+  - title: "Detect illegal logging in the rainforest"
+    url: https://www.blog.google/topics/machine-learning/fight-against-illegal-deforestation-tensorflow
   near:
   - title: "Predict court cases"
     url: https://www.ucl.ac.uk/news/news-articles/1016/241016-AI-predicts-outcomes-human-rights-trials
@@ -450,6 +462,8 @@
     url: https://www.theverge.com/2018/3/12/17109036/apple-watch-kardiaband-alivecor-ekg-reader-hyperkalemia-health-artificial-intelligence
   - title: "Predict leukaemia relapse"
     url: https://www.parkerici.org/2018/03/05/predicting-childhood-leukemia-relapse-using-machine-learning/?linkId=48898025
+  - title: "Interpret echocardiograms"
+    url: https://www.nature.com/articles/s41746-017-0013-1
 
 - section: "Science"
   wins:
@@ -482,6 +496,8 @@
     url: https://www.seeker.com/artificial-intelligence/ai-earthquake-tracker-is-inspired-by-speech-recognition-technology
   - title: "Track mosquitos by their sound"
     url: https://blogs.nvidia.com/blog/2018/02/22/ai-malaria-mosquitoes/
+  - title: "Discover unknown species of virus"
+    url: https://www.nature.com/articles/d41586-018-03358-3
   near:
   - title: "Simulate quantum systems"
     url: https://www.newscientist.com/article/2120856-ai-learns-to-solve-quantum-state-of-many-particles-at-once/
@@ -546,6 +562,8 @@
     url: https://www.digitaltrends.com/cars/ford-patent-filing-outlines-a-self-driving-police-car/
   - title: "Detect drug smuggling"
     url: https://english.alarabiya.net/en/News/gulf/2018/03/11/Dubai-Police-considers-using-of-artificial-intelligence-to-fight-drug-smuggling.html
+  - title: "Drive a tank"
+    url: http://www.newsweek.com/china-shows-unmanned-tanks-driven-remote-control-eye-toward-artificial-855696
 
 - section: "Computing"
   wins:
@@ -699,6 +717,8 @@
     url: https://www.weforum.org/agenda/2017/11/could-you-lift-half-a-ton-these-robotic-arms-could-soon-make-that-possible
   - title: "Anticipate human movements"
     url: https://thenextweb.com/artificial-intelligence/2018/03/02/researchers-just-taught-robots-to-predict-your-every-move/
+  - title: "Move like a fish"
+    url: https://thenextweb.com/artificial-intelligence/2018/03/21/mits-new-robot-fish-is-eerily-realistic/
   near:
   - title: "Ski an alpine slalom course"
     url: https://twitter.com/i/moments/963170538838376449

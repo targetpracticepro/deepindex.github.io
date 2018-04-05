@@ -40,6 +40,8 @@
   - title: "Spot forged artworks"
     url: https://www.technologyreview.com/s/609524/this-ai-can-spot-art-forgeries-by-looking-at-one-brushstroke/          
   does:
+  - title: "Fake your voice"
+    url: https://www.npr.org/2018/04/04/599126774/can-you-believe-your-own-ears-with-new-fake-news-tech-not-necessarily
   - title: "Generate photorealistic faces"
     url: https://futurism.com/these-people-never-existed-they-were-made-by-an-ai/
   - title: "Design logos"
@@ -130,7 +132,11 @@
   - title: "Tell you if you have spots or wrinkles"
     url: https://www.theverge.com/2017/1/4/14166064/himirror-plus-scan-smart-mirror-ces-2017
   - title: "Help you choose a hair dye"
-    url: https://blogs.nvidia.com/blog/2018/02/14/i-am-ai-episode-4-modiface/?
+    url: https://blogs.nvidia.com/blog/2018/02/14/i-am-ai-episode-4-modiface/
+  - title: "Predict your lifespan"
+    url: https://www.engadget.com/2018/03/30/ai-predicts-your-lifespan-using-activity-tracking-apps/
+  - title: "Choose your clothes"
+    url: https://www.forbes.com/sites/forbes-finds/2018/04/02/personal-stylist-meets-artificial-intelligence-for-this-menswear-subscription-box/
   near:
   - title: "Cook your meals"
     url: https://www.forbes.com/sites/eustaciahuen/2016/10/31/the-worlds-first-home-robotic-chef-can-cook-over-100-meals/
@@ -186,6 +192,10 @@
     url: http://uk.businessinsider.com/hirevue-uses-ai-for-job-interview-applicants-goldman-sachs-unilever-2017-8
   - title: "Match candidates with job vacancies"
     url: https://leap.ai/welcome
+  - title: "Guide visitors to a museum"
+    url: http://www.adweek.com/creativity/ibm-watsons-new-job-as-art-museum-guide-could-hint-at-lots-of-future-roles-with-brands/
+  - title: "Price property insurance accurately" 
+    url: https://www.forbes.com/sites/alexknapp/2018/04/02/this-data-startup-uses-artificial-intelligence-to-figure-out-if-your-roof-is-in-decent-shape/
   near:
   - title: "Run a hotel reception desk"
     url: https://www.theverge.com/2016/3/9/11180418/hilton-ibm-connie-robot-watson-hotel-concierge
@@ -203,6 +213,8 @@
   - title: "Detect payment fraud"
     url: https://techcrunch.com/2017/01/16/fraugster/ 
   does:
+  - title: "Trade cryptocurrencies"
+    url: https://www.awwwards.com/sites/crypton-trading-bot
   - title: "Manage a hedge fund"
     url: https://www.bloomberg.com/news/features/2017-09-27/the-massive-hedge-fund-betting-on-ai
   - title: "Trade equities"
@@ -252,12 +264,16 @@
     url: https://www.technologyreview.com/s/609319/slack-hopes-its-ai-will-keep-you-from-hating-slack/
   - title: "Suggest a room for your meeting"
     url: https://www.blog.google/products/g-suite/new-ways-help-teams-work-faster-and-smarter-g-suite/
+  - title: "Spy on you at work"
+    url: https://www.economist.com/news/leaders/21739658-artificial-intelligence-pushes-beyond-tech-industry-work-could-become-faireror-more
   
 - section: "Industrial"
   wins:
   - title: "Reduce industrial energy consumption"
     url: http://uk.businessinsider.com/google-deepmind-ai-in-every-company-data-centre-end-of-year-2016-7
   does:
+  - title: "Help deliver the mail"
+    url: https://twitter.com/grattonboy/status/981908906317438977
   - title: "Clean floors"
     url: https://twitter.com/2morrowknight/status/942275170957344768
   - title: "Predict maintenance tasks"
@@ -268,7 +284,10 @@
     url: http://www.scmp.com/news/china/society/article/2086662/chinese-firm-cuts-costs-hiring-army-robots-sort-out-200000
   - title: "Run a supermarket"
     url: http://www.itv.com/news/2018-01-22/amazon-launches-first-ai-powered-supermarket/
-  near:
+  - title: "Manage construction projects"
+    url: https://www.autodesk.com/redshift/machine-learning-construction-project-management/
+  - title: "Track supply chains from space"
+    url: https://www.esri.com/about/newsroom/publications/wherenext/space-imagery-reveals-commodity-market-intel/
   - title: "Audit what's on a store's shelves"
     url: https://svrobo.org/simbe-robotics-disrupting-the-retail-sector/
   - title: "Run a warehouse"
@@ -308,6 +327,8 @@
     url: http://www.dogtoothtech.com/about-us.html
   - title: "Reduce the cost of fish farming"
     url: https://www.forbes.com/sites/alexknapp/2018/01/30/this-startup-is-raising-3-5-million-to-add-machine-learning-to-fish-farms/
+  - title: "Pollinate crops"
+    url: https://www.weforum.org/agenda/2018/03/autonomous-robot-bees-are-being-patented-by-walmart
 
 - section: "Transport"
   wins:
@@ -376,6 +397,8 @@
   does:
   - title: "Mark essays"
     url: https://www.newscientist.com/article/mg21128285-200-automated-marking-takes-teachers-out-of-the-loop/
+  - title: "Help deaf students learn"
+    url: https://blogs.microsoft.com/ai/ai-powered-captioning/
   near:
   - title: "Tutor kids in maths"
     url: http://hellothinkster.com/
@@ -431,6 +454,8 @@
     url: https://www.weforum.org/agenda/2017/11/this-robot-has-passed-a-medical-licencing-exam-with-flying-colours
   - title: "Predict cardiovascular risk from retina scans"
     url: https://www.techrepublic.com/article/ai-deep-learning-to-predict-cardiovascular-risk-from-retina-scans/
+  - title: "Identify inter-cranial haemorrhages"
+    url: https://www.nature.com/articles/s41746-017-0015-z.pdf
   near:
   - title: "Enhance cancer pathology reports"
     url: https://techcrunch.com/2018/02/05/paige-ai-nabs-25m-inks-ip-deal-with-sloan-kettering-to-bring-machine-learning-to-cancer-pathology/
@@ -498,7 +523,13 @@
     url: https://blogs.nvidia.com/blog/2018/02/22/ai-malaria-mosquitoes/
   - title: "Discover unknown species of virus"
     url: https://www.nature.com/articles/d41586-018-03358-3
+  - title: "Design organic syntheses"
+    url: https://www.nature.com/articles/d41586-018-03774-5
+  - title: "Enhance atomic imaging"
+    url: https://www.nature.com/articles/d41586-018-03305-2
   near:
+  - title: "Predict life on other planets"
+    url: https://www.firstpost.com/tech/news-analysis/artificial-intelligence-could-help-astronomers-predict-the-probability-of-life-on-other-planets-study-4418287.html
   - title: "Simulate quantum systems"
     url: https://www.newscientist.com/article/2120856-ai-learns-to-solve-quantum-state-of-many-particles-at-once/
   - title: "Predict earthquakes"
@@ -509,6 +540,8 @@
     url: http://www.bbc.com/future/story/20171214-could-ai-help-create-a-meat-free-world
   - title: "Predict disruptions in fusion reactions"
     url: https://www.princeton.edu/news/2017/12/15/artificial-intelligence-helps-accelerate-progress-toward-efficient-fusion-reactions
+  - title: "Explore Mars"
+    url: https://www.telegraph.co.uk/science/2018/04/01/bees-mars-nasa-funds-swarm-robotic-insects-exploring-red-planet/
 
 - section: "Security"
   wins:
@@ -542,6 +575,8 @@
   - title: "Identify objects of interest in drone footage"
     url: http://www.defenseone.com/technology/2017/12/pentagons-new-artificial-intelligence-already-hunting-terrorists/144742/
   near:
+  - title: "Enhance real-time police surveillance"
+    url: https://www.wsj.com/articles/artificial-intelligence-could-soon-enhance-real-time-police-surveillance-1522761813
   - title: "Flag suspicious people at border crossings"
     url: https://www.fastcompany.com/40539812/new-unisys-tool-brings-machine-learning-to-border-security
   - title: "Threaten our digital, physical and political security"
@@ -646,6 +681,12 @@
   - title: "Identify you from your walk"
     url: https://www.newscientist.com/article/mg21528835-600-cameras-know-you-by-your-walk/
   does: 
+  - title: "Categorise ramen by shop"
+    url: https://www.theverge.com/tldr/2018/4/2/17189736/google-automl-vision-machine-learning-ramen
+  - title: "Locate emoji in the real world"
+    url: https://emojiscavengerhunt.withgoogle.com/?about=true
+  - title: "Identify hotdogs or not hotdogs"
+    url: https://storify.com/HBO/5ef8699b75e7e062474bcdd11b579460
   - title: "Change faces in videos"
     url: https://theoutline.com/post/3121/you-can-now-watch-nicolas-cage-play-james-bond
   - title: "Match selfies to famous paintings"
@@ -678,6 +719,8 @@
     url: https://thenextweb.com/artificial-intelligence/2018/02/07/watch-out-hollywood-facebooks-body-swapping-ai-is-coming-for-your-jobs/  
   - title: "Rank photos by aesthetic appeal"
     url: https://www.weforum.org/agenda/2018/02/google-ai-algorithm-predicts-images-attractive-to-humans
+  - title: "See in the dark"
+    url: http://www.bbc.co.uk/news/technology-43373488
   near:
   - title: "Guess your age"
     url: https://www.theverge.com/2015/4/30/8522649/microsoft-how-old-do-i-look

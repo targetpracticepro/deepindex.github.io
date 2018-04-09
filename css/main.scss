@@ -20,7 +20,7 @@ $spacing-unit:                    30px;
 
 body { 
   padding-top:    $spacing-unit / 2;
-  padding-bottom: $spacing-unit / 2;
+  padding-bottom: 0;
   font-family:    $base-font-family;
   line-height:    $base-line-height;
 }
@@ -41,6 +41,7 @@ h2 {
   font-weight:    bold; 
   font-size:      $base-font-size * 1.5;
   line-height:    $base-line-height;
+  margin-top:     $spacing-unit / 3;
   margin-bottom:  $spacing-unit / 2;
 }
 
@@ -48,16 +49,15 @@ h3 {
   font-weight:    bold; 
   font-size:      $base-font-size * 1.25;
   line-height:    $base-line-height;
-  margin-top:     $spacing-unit;
+  margin-top:     $spacing-unit / 3;
   margin-bottom:  $spacing-unit / 2;
-  padding-bottom: $spacing-unit / 5;
-  border-bottom:  3px solid #333;
 }
 
 h4 {
   font-weight:    bold; 
   font-size:      $base-font-size;
   line-height:    $base-line-height;
+  margin-top:     $spacing-unit / 2;
 }
 
 
@@ -68,7 +68,7 @@ h4 {
 }
 
 .icon {
-    width: 14px;
+    width: 12px;
     margin-right: 3px;
     vertical-align: baseline;
 }
@@ -77,6 +77,54 @@ h4 {
     width: 60px;
 }
 
+
+
+// Colours
+
+
+@media screen and (min-width: 992px) {
+    .r-div {
+        display: flex;
+    }
+}
+
+.c-div {
+    h3, a, small {
+        color: #FFFFFF
+    }
+    h3 {
+        padding-bottom: $spacing-unit / 5;
+        border-bottom:  3px solid #FFF;
+    }
+  padding-top: $spacing-unit / 3;
+  padding-bottom: $spacing-unit / 3;
+}
+
+.c-block-1  { background-color: #D41438; }
+.c-block-2  { background-color: #F01F31; }
+.c-block-3  { background-color: #FF355E; }
+.c-block-4  { background-color: #F76821; }
+.c-block-5  { background-color: #FA7822; }
+.c-block-6  { background-color: #FF8930; }
+.c-block-7  { background-color: #FFBE00; }
+.c-block-8  { background-color: #FECC26; }
+.c-block-9  { background-color: #FED945; }
+.c-block-10 { background-color: #1DB40F; }
+.c-block-11 { background-color: #3ACA0A; }
+.c-block-12 { background-color: #5ADD5A; }
+.c-block-13 { background-color: #3457BE; }
+.c-block-14 { background-color: #457BF5; }
+.c-block-15 { background-color: #00A2FF; }
+.c-block-16 { background-color: #A639DC; }
+.c-block-17 { background-color: #C94CFD; }
+.c-block-18 { background-color: #EC7EF6; }
+
+.c-block-19 { background-color: #808080; }
+
+.splash {
+  margin-top: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
+}
 
 // Social
 

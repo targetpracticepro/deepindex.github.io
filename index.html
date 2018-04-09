@@ -6,7 +6,15 @@ updated: April 2018
 <div class="container">
 
   <div class="row">
-    <div class="col-md-8">
+    <div class="col-md-12">
+    
+      <h1><a href="/"><img src="images/logo.png" class="logo" alt="DeepIndex"></a></h1>
+    
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-8 splash">
 
       {% assign ai_apps = 0 %}
   
@@ -15,8 +23,6 @@ updated: April 2018
         {% assign ai_apps = ai_apps | plus: block.does.size %}
         {% assign ai_apps = ai_apps | plus: block.near.size %}
       {% endfor %}
-      
-      <h1><a href="/"><img src="images/logo.png" class="logo" alt="DeepIndex"></a></h1>
       
       <h2>{{ site.description }}</h2>
       
@@ -30,14 +36,14 @@ updated: April 2018
         <a href="https://twitter.com/{{ site.twitter }}?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @poodotai</a>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
-       
-      <h4>Legend</h4>
-      <p><img src="images/fire.png" class="icon" alt=""> Crushing it</p>
-      <p><img src="images/robot.png" class="icon" alt=""> Capable</p>
-      <p><img src="images/hourglass.png" class="icon" alt=""> Getting there</p>
     
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4 splash">
+      <h4>Legend</h4>
+      <p><img src="images/moon-1-b.png" class="icon" alt=""> Getting there</p>
+      <p><img src="images/moon-2-b.png" class="icon" alt=""> Capable</p>
+      <p><img src="images/moon-3-b.png" class="icon" alt=""> Crushing it</p>
+      <p class="visible-xs visible-sm">&nbsp;</p>
     </div>
   </div>
   
@@ -46,17 +52,17 @@ updated: April 2018
   
   {% assign col_count = 1 %}
   
-  
+  {% assign block_count = 1 %}
   
   {% for block in site.data.links %}
   
     {% if col_count == 1 %}
   
-      <div class="row">
+      <div class="row r-div">
     
     {% endif %}
   
-    <div class="col-md-4">
+    <div class="col-md-4 c-div c-block-{{ block_count }}">
     
     {% assign block_apps = 0 %}
 
@@ -79,7 +85,7 @@ updated: April 2018
         {% if block.wins.size > 0 %}
           {% for test in block.wins %}
             {% if item.title == test.title %}
-                <img src="images/fire.png" class="icon" alt=""> 
+                <img src="images/moon-3-w.png" class="icon" alt=""> 
             {% endif %}
           {% endfor %}
         {% endif %}
@@ -87,7 +93,7 @@ updated: April 2018
         {% if block.does.size > 0 %}
           {% for test in block.does %}
             {% if item.title == test.title %}
-                <img src="images/robot.png" class="icon" alt=""> 
+                <img src="images/moon-2-w.png" class="icon" alt=""> 
             {% endif %}
           {% endfor %}
         {% endif %}
@@ -95,7 +101,7 @@ updated: April 2018
         {% if block.near.size > 0 %}
           {% for test in block.near %}
             {% if item.title == test.title %}
-                <img src="images/hourglass.png" class="icon" alt=""> 
+                <img src="images/moon-1-w.png" class="icon" alt=""> 
             {% endif %}
           {% endfor %}
         {% endif %}        
@@ -117,6 +123,8 @@ updated: April 2018
       {% assign col_count = 1 %}
     
     {% endif %}
+    
+    {% assign block_count = block_count | plus: 1 %}
 
   {% endfor %}
   
@@ -141,9 +149,8 @@ updated: April 2018
   
   
   <div class="row">
-    <div class="col-md-12">
-      <hr />
-      <p class="text-muted"><small>Curated by <a href="https://twitter.com/clry2">@clry2</a> and last updated {{ page.updated }}</small></p>
+    <div class="col-md-12 splash">
+      <p class="text-muted"><small>Curated by <a href="https://twitter.com/clry2">@clry2</a> and last updated {{ page.updated }}.</small></p>
       <p class="text-muted"><small><a href="https://poo.ai"><img src="images/poo.png" class="poo" alt="💩.AI"></a></small></p>
     </div>
   </div>

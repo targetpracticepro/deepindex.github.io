@@ -208,7 +208,7 @@
   - title: "Evaluate the performance of sportspeople"
     url: https://www.sporttechie.com/nvidia-deep-learning-video-analytics-automate-future-player-scouting/
 
-- section: "Financial"
+- section: "Finance"
   wins:
   - title: "Detect payment fraud"
     url: https://techcrunch.com/2017/01/16/fraugster/ 
@@ -299,7 +299,7 @@
   - title: "Assist the crew of the ISS"
     url: http://www.esa.int/Our_Activities/Human_Spaceflight/Elementary_my_dear_machine_intelligence
     
-- section: "Agricultural"
+- section: "Agriculture"
   wins:
   - title: "Spray pesticides"
     url: https://www.wired.com/2016/05/future-humanitys-food-supply-hands-ai/  
@@ -409,7 +409,7 @@
   - title: "Be a teaching assistant"
     url: https://www.washingtonpost.com/news/innovations/wp/2016/05/11/this-professor-stunned-his-students-when-he-revealed-the-secret-identity-of-his-teaching-assistant/
 
-- section: "Medical"
+- section: "Medicine"
   wins:
   - title: "Diagnose pneumonia"
     url: https://qz.com/1130687/stanford-trained-ai-to-diagnose-pneumonia-better-than-a-radiologist-in-just-two-months/

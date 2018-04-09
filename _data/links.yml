@@ -30,6 +30,8 @@
   - title: "Play StarCraft"
     url: https://www.technologyreview.com/s/609242/humans-are-still-better-than-ai-at-starcraftfor-now/
   near:
+  - title: "Play Sonic the Hedgehog"
+    url: https://techcrunch.com/2018/04/05/machine-learning-zone-openai-competition-takes-on-sonic-the-hedgehog/
 
 - section: "Creative"
   wins:
@@ -207,6 +209,8 @@
     url: https://www.bloomberg.com/news/articles/2018-01-25/sotheby-s-buys-machine-learning-firm-to-discern-the-art-you-love
   - title: "Evaluate the performance of sportspeople"
     url: https://www.sporttechie.com/nvidia-deep-learning-video-analytics-automate-future-player-scouting/
+  - title: "Rewrite the news to remove bias"
+    url: https://futurism.com/ai-journalist-media-bias-news-knowhere/
 
 - section: "Finance"
   wins:
@@ -362,6 +366,8 @@
     url: https://www.wired.com/2017/03/ai-wields-power-make-flying-safer-maybe-even-pleasant/
   - title: "Deliver pizza"
     url: http://uk.businessinsider.com/toyota-pizza-hut-team-up-for-self-driving-pizza-delivery-2018-1
+  - title: "Alert distracted or drowsy drivers"
+    url: https://thenextweb.com/artificial-intelligence/2018/03/23/affectivas-automotive-ai-could-keep-distracted-and-drowsy-drivers-from-causing-accidents/
     
 - section: "Government & nonprofit"
   wins:
@@ -654,6 +660,8 @@
     url: https://thenextweb.com/artificial-intelligence/2018/01/11/ai-learns-how-to-fool-text-to-speech-thats-bad-news-for-voice-assistants/ 
   - title: "Classify sentiment in text"
     url: https://blog.openai.com/unsupervised-sentiment-neuron/
+  - title: "Track stereotypes about women and minorities"
+    url: http://www.sciencemag.org/news/2018/04/artificial-intelligence-reveals-how-us-stereotypes-about-women-and-minorities-have
   near:
   - title: "Exchange banter with humans"
     url: https://www.weforum.org/agenda/2018/02/trash-talk-from-an-ai-could-help-humans-cooperate-better
@@ -763,6 +771,8 @@
   - title: "Move like a fish"
     url: https://thenextweb.com/artificial-intelligence/2018/03/21/mits-new-robot-fish-is-eerily-realistic/
   near:
+  - title: "Dance to any music"
+    url: https://www.nbcnews.com/mach/video/this-mobile-robot-is-learning-to-dance-1203388995569
   - title: "Ski an alpine slalom course"
     url: https://twitter.com/i/moments/963170538838376449
   - title: "Play table tennis"

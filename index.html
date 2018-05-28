@@ -28,14 +28,11 @@ updated: May 2018
       
       <p class="lead">Read on for {{ ai_apps }} examples of AI in action.</p>
      
-      <p>Something missing? Email <a href="mailto:hello@deepindex.org">hello@deepindex.org</a></p>
-    
-      <div class="social">
-        <div class="fb-like" data-href="{{ site.url }}" data-layout="button" data-action="like" data-show-faces="false" data-share="true"></div>         
-        <a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ ai_apps }} examples of artificial intelligence in action" data-url="{{ site.url }}" data-via="{{ site.twitter }}" data-hashtags="AI">Tweet</a>
-        <a href="https://twitter.com/{{ site.twitter }}?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @poodotai</a>
-        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </div>
+      <p>
+      <a target="_blank" class="btn btn-xs btn-fb" href="https://www.facebook.com/sharer/sharer.php?p[url]={{ page.url | prepend: site.url }}&[title]={{ page.title }}" title="Share on Facebook"><i class="fab fa-facebook"></i> Like</a>
+      <a target="_blank" class="btn btn-xs btn-tw" href="https://twitter.com/intent/tweet/?text={{ page.title }}&url={{ page.url | prepend: site.url }}&via={{ site.twitter }}" title="Share on Twitter"><i class="fab fa-twitter"></i> Tweet</a>
+      <a target="_blank" class="btn btn-xs btn-li" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url }}&title={{ page.title }}" title="Share on LinkedIn"><i class="fab fa-linkedin"></i> Share</a>
+      </p>
     
     </div>
     <div class="col-md-4 splash">
@@ -150,17 +147,9 @@ updated: May 2018
   
   <div class="row">
     <div class="col-md-12 splash">
-      <p class="text-muted"><small>Curated by <a href="https://twitter.com/clry2">@clry2</a> and last updated {{ page.updated }}.</small></p>
+      <p class="text-muted"><small>Contact: <a href="mailto:hello@deepindex.org">hello@deepindex.org</a> or <a href="https://twitter.com/deepindex">@deepindex</a><br />
+      Curated by <a href="https://twitter.com/clry2">@clry2</a> and last updated {{ page.updated }}</small></p>
     </div>
   </div>
     
 </div>
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>

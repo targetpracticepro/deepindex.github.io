@@ -73,14 +73,28 @@ h4 {
     vertical-align: baseline;
 }
 
-.poo {
-    width: 60px;
+
+
+// Social buttons
+
+.btn-fb, .btn-fb:hover {
+  color: #FFFFFF;
+  background-color: #4468B0;
 }
+
+.btn-tw, .btn-tw:hover {
+  color: #FFFFFF;
+  background-color: #2796DD;
+}
+
+.btn-li, .btn-li:hover {
+  color: #FFFFFF;
+  background-color: #1178B3;
+} 
 
 
 
 // Colours
-
 
 @media screen and (min-width: 992px) {
     .r-div {
@@ -123,18 +137,5 @@ h4 {
 
 .splash {
   margin-top: $spacing-unit / 2;
-  margin-bottom: $spacing-unit / 2;
-}
-
-// Social
-
-.social {
-    margin-top: $spacing-unit / 2;
-    margin-bottom: $spacing-unit / 2;
-    display: inline-block;
-    vertical-align: bottom !important;
-}
-
-.fb-like span {
-    vertical-align: baseline !important;
+  margin-bottom: $spacing-unit * 2/3;
 }

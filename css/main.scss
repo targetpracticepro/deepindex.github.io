@@ -77,20 +77,19 @@ h4 {
 
 // Social buttons
 
-.btn-fb, .btn-fb:hover {
+.btn-social, .btn-social:hover, .btn-social:active, .btn-social:visited {
   color: #FFFFFF;
+}
+
+.btn-fb, .btn-fb:hover {
   background-color: #4468B0;
 }
 
 .btn-tw, .btn-tw:hover {
-  color: #FFFFFF;
   background-color: #2796DD;
 }
 
 .btn-li, .btn-li:hover {
-  color: #FFFFFF;
-  background-color: #1178B3;
-} 
 
 
 

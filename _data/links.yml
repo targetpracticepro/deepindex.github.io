@@ -97,12 +97,14 @@
     url: https://www.theverge.com/2017/8/27/16197196/taryn-southern-album-artificial-intelligence-interview
   - title: "Write poetry"
     url: https://motherboard.vice.com/en_us/article/vvbxxd/the-poem-that-passed-the-turing-test
-  - title: "Write a film"
+  - title: "Write a screenplay"
     url: https://www.theguardian.com/technology/2016/jun/10/artificial-intelligence-screenplay-sunspring-silicon-valley-thomas-middleditch-ai
   - title: "Write a novel"
     url: https://www.digitaltrends.com/cool-tech/japanese-ai-writes-novel-passes-first-round-nationanl-literary-prize/
   - title: "Design personalised clothing"
     url: https://www.technologyreview.com/s/609469/this-ai-learns-your-fashion-sense-and-invents-your-next-outfit/
+  - title: "Direct a movie"
+    url: https://www.wired.com/story/ai-filmmaker-zone-out/
 
 - section: "Home & lifestyle"
   wins:
@@ -147,6 +149,8 @@
     url: https://www.engadget.com/2018/03/30/ai-predicts-your-lifespan-using-activity-tracking-apps/
   - title: "Choose your clothes"
     url: https://www.forbes.com/sites/forbes-finds/2018/04/02/personal-stylist-meets-artificial-intelligence-for-this-menswear-subscription-box/
+  - title: "Adjust appliances to reduce energy use"
+    url: https://www.bloomberg.com/news/articles/2018-06-11/ai-helps-africa-bypass-the-grid
   near:
   - title: "Personalise the flavour of your drinks and snacks"
     url: https://newfoodeconomy.org/artificial-intelligence-personalized-food-beverage/
@@ -208,6 +212,8 @@
     url: http://www.adweek.com/creativity/ibm-watsons-new-job-as-art-museum-guide-could-hint-at-lots-of-future-roles-with-brands/
   - title: "Price property insurance accurately" 
     url: https://www.forbes.com/sites/alexknapp/2018/04/02/this-data-startup-uses-artificial-intelligence-to-figure-out-if-your-roof-is-in-decent-shape/
+  - title: "Predict the winner of the football World Cup"
+    url: https://www.technologyreview.com/s/611397/machine-learning-predicts-world-cup-winner/
   near:
   - title: "Run a hotel reception desk"
     url: https://www.theverge.com/2016/3/9/11180418/hilton-ibm-connie-robot-watson-hotel-concierge
@@ -321,6 +327,9 @@
     url: https://www.theguardian.com/business/2017/jan/31/hand-ocado-robot-shopping-fruit-vegetables
   - title: "Assist the crew of the ISS"
     url: http://www.esa.int/Our_Activities/Human_Spaceflight/Elementary_my_dear_machine_intelligence
+  near:
+  - title: "Reduce injuries on construction sites"
+    url: https://www.technologyreview.com/s/611141/ai-could-help-the-construction-industry-work-faster-and-keep-its-workforce-accident-free/
     
 - section: "Agriculture"
   wins:
@@ -407,6 +416,10 @@
     url: https://www.roboticsbusinessreview.com/ai/ai-iot-smart-sensors-preserve-lake-george/
   - title: "Track the migration patterns of endangered whales"
     url: https://www.google.com/about/stories/soundwaves/
+  - title: "Find plastic waste in the ocean"
+    url: https://www.weforum.org/agenda/2018/06/this-ai-is-learning-to-recognize-ocean-plastic-using-drone-photos
+  - title: "Identify and count wildlife"
+    url: https://blog.conservation.org/2018/06/in-case-you-missed-it-3-big-stories-from-our-world-23/
   near:
   - title: "Predict court cases"
     url: https://www.ucl.ac.uk/news/news-articles/1016/241016-AI-predicts-outcomes-human-rights-trials
@@ -528,6 +541,10 @@
     url: https://www.parkerici.org/2018/03/05/predicting-childhood-leukemia-relapse-using-machine-learning/?linkId=48898025
   - title: "Interpret echocardiograms"
     url: https://www.nature.com/articles/s41746-017-0013-1
+  - title: "Smell illnesses in human breath"
+    url: http://uk.businessinsider.com/ai-artificial-intelligence-smell-detect-illness-human-breath-2018-6
+  - title: "Increase your longevity"
+    url: https://techcrunch.com/2018/06/11/insilico-medicine-longevity/
 
 - section: "Science"
   wins:
@@ -568,6 +585,8 @@
     url: https://www.nature.com/articles/d41586-018-03305-2
   - title: "Accelerate the discovery of metallic glass"
     url: https://phys.org/news/2018-04-artificial-intelligence-discovery-metallic-glass.html
+  - title: "Improve single molecule-localisation microscopy"
+    url: https://www.nature.com/articles/s41592-018-0028-9.epdf
   near:
   - title: "Predict life on other planets"
     url: https://www.firstpost.com/tech/news-analysis/artificial-intelligence-could-help-astronomers-predict-the-probability-of-life-on-other-planets-study-4418287.html
@@ -583,6 +602,8 @@
     url: https://www.princeton.edu/news/2017/12/15/artificial-intelligence-helps-accelerate-progress-toward-efficient-fusion-reactions
   - title: "Explore Mars"
     url: https://www.telegraph.co.uk/science/2018/04/01/bees-mars-nasa-funds-swarm-robotic-insects-exploring-red-planet/
+  - title: "Predict the phases of quantum systems"
+    url: https://physicsworld.com/a/machine-learning-reveals-quantum-phases-of-matter/
 
 - section: "Security"
   wins:
@@ -646,6 +667,10 @@
     url: http://www.newsweek.com/china-shows-unmanned-tanks-driven-remote-control-eye-toward-artificial-855696
   - title: "Increase military situational awareness"
     url: https://thebulletin.org/compass-new-ai-driven-situational-awareness-tool-pentagon11816
+  - title: "Build a virtual border wall"
+    url: https://www.theguardian.com/technology/2018/jun/13/mexico-us-border-wall-surveillance-artificial-intelligence-technology
+  - title: "Tell whether you are drunk from how you use your phone"
+    url: https://www.fastcompany.com/40583532/uber-wants-to-know-when-youre-drunk
 
 - section: "Computing"
   wins:
@@ -664,6 +689,8 @@
     url: https://techcrunch.com/2018/02/21/with-10m-in-funding-mabl-brings-machine-learning-to-software-testing/
   - title: "Speed up Microsoft Office"
     url: https://www.youtube.com/watch?v=rPVpjkU7TZ
+  - title: "Load your video games faster"
+    url: https://www.gamasutra.com/view/news/319761/Xbox_using_machine_learning_to_load_Game_Pass_titles_twice_as_fast.php
   near:
   - title: "Write AI software"
     url: https://www.technologyreview.com/s/603381/ai-software-learns-to-make-ai-software/
@@ -774,6 +801,8 @@
     url: https://www.weforum.org/agenda/2018/02/google-ai-algorithm-predicts-images-attractive-to-humans
   - title: "See in the dark"
     url: https://qz.com/1279913/artificial-intelligence-is-learning-to-see-in-the-dark/
+  - title: "Predict how you'll look when you're older"
+    url: https://www.sciencemag.org/news/2018/06/artificial-intelligence-can-predict-how-you-ll-look-decades-now
   near:
   - title: "Tell whether an image has been Photoshopped"
     url: https://minyoungg.github.io/selfconsistency/
@@ -787,8 +816,10 @@
     url: http://carlvondrick.com/tinyvideo/
   - title: "Recognise partially concealed faces"
     url: https://arxiv.org/abs/1708.09317
-  - title: "See through walls"
-    url: https://www.theregister.co.uk/2017/06/20/drones_and_wifi_see_thru_walls/  
+  - title: "Perform 3D imaging through walls"
+    url: https://www.theregister.co.uk/2017/06/20/drones_and_wifi_see_thru_walls/ 
+  - title: "Sense people though walls"
+    url: http://news.mit.edu/2018/artificial-intelligence-senses-people-through-walls-0612
   - title: "Tell black men and women apart"
     url: https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html
   - title: "Convert flat images to 3D"
@@ -819,6 +850,8 @@
     url: https://thenextweb.com/artificial-intelligence/2018/03/21/mits-new-robot-fish-is-eerily-realistic/
   - title: "Go for a jog in the park"
     url: https://www.theguardian.com/technology/2018/may/11/boston-dynamics-atlas-jog-humanoid-robot-run-through-park
+  - title: "Make and serve coffee"
+    url: http://uk.businessinsider.com/cafe-x-robotic-coffee-bar-automation-2018-6
   near:
   - title: "Dance to any music"
     url: https://www.nbcnews.com/mach/video/this-mobile-robot-is-learning-to-dance-1203388995569
@@ -828,6 +861,8 @@
     url: https://www.theverge.com/2017/10/9/16448488/table-tennis-playing-robot-ai-forpheus-omron
   - title: "Help robots teach themselves"
     url: https://thenextweb.com/artificial-intelligence/2018/03/02/deepminds-new-robots-learned-how-to-teach-themselves/
+  - title: "Put out fires"
+    url: https://www.weforum.org/agenda/2018/06/this-robotic-hose-dragon-could-jet-its-way-into-burning-buildings
     
 - section: "Other"
   wins:
@@ -844,6 +879,8 @@
     url: https://www.theguardian.com/commentisfree/2018/feb/13/facebook-coding-whole-new-class-system
   - title: "Navigate like a mammal"
     url: https://thenextweb.com/artificial-intelligence/2018/05/15/deepminds-ai-spontaneously-developed-the-ability-to-navigate-like-a-mammal/
+  - title: "See the world like a psychopath"
+    url: https://www.bbc.co.uk/news/technology-44040008
   near:
   - title: "Judge a beauty contest"
     url: https://www.wired.co.uk/article/robot-beauty-contest-beauty-ai

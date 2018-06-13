@@ -81,17 +81,29 @@ h4 {
   color: #FFFFFF;
 }
 
-.btn-fb, .btn-fb:hover {
+.btn-fb {
   background-color: #4468B0;
 }
 
-.btn-tw, .btn-tw:hover {
+.btn-fb:hover {
+  background-color: #5985db;  
+}
+
+.btn-tw {
   background-color: #2796DD;
 }
 
-.btn-li, .btn-li:hover {
+.btn-tw:hover {
+  background-color: #4eb4f4;
+}
+
+.btn-li {
   background-color: #1178B3;
 } 
+
+.btn-li:hover {
+  background-color: #3b8ebf;
+}  
 
 
 

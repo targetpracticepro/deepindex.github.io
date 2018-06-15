@@ -28,10 +28,6 @@ body {
 h1 {
   font-weight:    bold;  
   font-size:      $base-font-size * 3;
-  a, a:hover, a:active, a:visited {
-    color:        #0096ff;
-    text-decoration: none;
-    }
   small {
     font-size:    $base-font-size;
     }
@@ -59,6 +55,16 @@ h4 {
   line-height:    $base-line-height;
   margin-top:     $spacing-unit / 2;
 }
+
+a, a:active, a:visited {
+  color:        #A639DC;
+  text-decoration: none;
+  }
+a:hover {
+  color:        #C94CFD;
+  text-decoration: underline;
+}
+
 
 
 // Images

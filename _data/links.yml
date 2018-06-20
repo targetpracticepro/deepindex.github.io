@@ -174,6 +174,8 @@
   - title: "Spot errors in NDAs"
     url: https://mashable.com/2018/02/26/ai-beats-humans-at-contracts/#4l2v3pW49kqR
   does:
+  - title: "Figure out popular dishes at restaurants"
+    url: https://thenextweb.com/apps/2018/06/19/yelp-uses-machine-learning-to-create-popular-dishes-list/
   - title: "Sell your house"
     url: https://www.cnbc.com/2018/03/20/artificial-intelligence-the-latest-competition-for-real-estate-agents.html
   - title: "Made ad placement decisions"
@@ -336,6 +338,8 @@
   - title: "Spray pesticides"
     url: https://www.wired.com/2016/05/future-humanitys-food-supply-hands-ai/  
   does:
+  - title: "Help farmers grow better cassava"
+    url: https://blog.google/topics/ai/ai-takes-root-helping-farmers-identity-diseased-plants/
   - title: "Predict crop yields"
     url: https://www.theverge.com/2016/8/4/12369494/descartes-artificial-intelligence-crop-predictions-usda
   - title: "Sort cucumbers"
@@ -508,6 +512,8 @@
     url: https://www.nature.com/articles/s41746-017-0015-z.pdf
   - title: "Record your visit to the doctor"
     url: https://www.statnews.com/2018/05/18/artificial-intelligence-recording-doctor-visits/
+  - title: "Predict your chance of dying in hospital"
+    url: https://thenextweb.com/artificial-intelligence/2018/06/19/google-ai-predictions-death-hospitals/
   near:
   - title: "Enhance cancer pathology reports"
     url: https://techcrunch.com/2018/02/05/paige-ai-nabs-25m-inks-ip-deal-with-sloan-kettering-to-bring-machine-learning-to-cancer-pathology/
@@ -714,6 +720,8 @@
   - title: "Translate over 100 languages"
     url: https://translate.google.co.uk/          
   does:
+  - title: "Debate a human opponent"
+    url: https://www.theverge.com/2018/6/18/17477686/ibm-project-debater-ai
   - title: "Pass a reading comprehension test"
     url: https://www.ft.com/content/8763219a-f9bc-11e7-9b32-d7d59aace167
   - title: "Transcribe a conversation"
@@ -804,6 +812,8 @@
   - title: "Predict how you'll look when you're older"
     url: https://www.sciencemag.org/news/2018/06/artificial-intelligence-can-predict-how-you-ll-look-decades-now
   near:
+  - title: "Fix photos where someone is blinking"
+    url: https://slate.com/technology/2018/06/facebook-creates-an-ai-tool-to-correct-closed-eyes-in-photos.html
   - title: "Tell whether an image has been Photoshopped"
     url: https://minyoungg.github.io/selfconsistency/
   - title: "Guess your age"

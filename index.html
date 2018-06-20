@@ -8,7 +8,7 @@ updated: June 2018
   <div class="row">
     <div class="col-md-12">
     
-      <h1><a href="/"><img src="images/splash.png" class="logo" alt="DeepIndex"></a></h1>
+      <h1><a href="/"><img src="images/splash.png" class="logo" alt="DeepIndex" /></a></h1>
     
     </div>
   </div>
@@ -37,9 +37,9 @@ updated: June 2018
     </div>
     <div class="col-md-4 splash">
       <h4>Legend</h4>
-      <p><img src="images/moon-1-b.png" class="icon" alt=""> Getting there</p>
-      <p><img src="images/moon-2-b.png" class="icon" alt=""> Capable</p>
-      <p><img src="images/moon-3-b.png" class="icon" alt=""> Crushing it</p>
+      <p><img src="images/moon-3-b.png" class="icon" alt="" /> Crushing it</p>
+      <p><img src="images/moon-2-b.png" class="icon" alt="" /> Capable</p>      
+      <p><img src="images/moon-1-b.png" class="icon" alt="" /> Getting there</p>
       <p class="visible-xs visible-sm">&nbsp;</p>
     </div>
   </div>
@@ -69,45 +69,28 @@ updated: June 2018
 
     <h3>{{ block.section }} <small>{{ block_apps }}</small></h3>
 
-    {% assign items = block.does %}
-    {% if block.wins.size > 0 %}{% assign items = items | concat: block.wins %}{% endif %}
-    {% if block.near.size > 0 %}{% assign items = items | concat: block.near %}{% endif %}
+    {% if block.wins.size > 0 %}
+      {% assign items = block.wins | sort: "title" %}    
+      {% for item in items %}  
+        <p><img src="images/moon-3-w.png" class="icon" alt="" /> <a href="{{ item.url }}">{{ item.title }}</a></p>
+      {% endfor %}
+      <p>---</p>
+    {% endif %}
     
-    {% assign items = items | sort: "title" %}    
+    {% if block.does.size > 0 %}
+      {% assign items = block.does | sort: "title" %}    
+      {% for item in items %}  
+        <p><img src="images/moon-2-w.png" class="icon" alt="" /> <a href="{{ item.url }}">{{ item.title }}</a></p>
+      {% endfor %}
+      <p>---</p>
+    {% endif %}
     
-    {% for item in items %}
-    
-        <p>
-        
-        {% if block.wins.size > 0 %}
-          {% for test in block.wins %}
-            {% if item.title == test.title %}
-                <img src="images/moon-3-w.png" class="icon" alt=""> 
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-        
-        {% if block.does.size > 0 %}
-          {% for test in block.does %}
-            {% if item.title == test.title %}
-                <img src="images/moon-2-w.png" class="icon" alt=""> 
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-        
-        {% if block.near.size > 0 %}
-          {% for test in block.near %}
-            {% if item.title == test.title %}
-                <img src="images/moon-1-w.png" class="icon" alt=""> 
-            {% endif %}
-          {% endfor %}
-        {% endif %}        
-        
-        <a href="{{ item.url }}">{{ item.title }}</a>
-      
-        </p>
-  
-    {% endfor %}
+    {% if block.near.size > 0 %}
+      {% assign items = block.near | sort: "title" %}    
+      {% for item in items %}  
+        <p><img src="images/moon-1-w.png" class="icon" alt="" /> <a href="{{ item.url }}">{{ item.title }}</a></p>
+      {% endfor %}
+    {% endif %}
     
     </div>
     

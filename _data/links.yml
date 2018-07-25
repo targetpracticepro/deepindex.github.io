@@ -36,6 +36,8 @@
   near:
   - title: "Play Sonic the Hedgehog"
     url: https://techcrunch.com/2018/04/05/machine-learning-zone-openai-competition-takes-on-sonic-the-hedgehog/
+  - title: "Catch Xbox Live cheaters"
+    url: https://thenextweb.com/artificial-intelligence/2018/07/24/microsoft-developed-an-ai-to-catch-xbox-live-cheaters/
 
 - section: "Creative"
   wins:
@@ -46,6 +48,10 @@
   - title: "Spot forged artworks"
     url: https://www.technologyreview.com/s/609524/this-ai-can-spot-art-forgeries-by-looking-at-one-brushstroke/          
   does:
+  - title: "Help artists build virtual worlds"
+    url: https://venturebeat.com/2018/07/18/promethean-ai-uses-artificial-intelligence-to-help-artists-fill-out-game-worlds/
+  - title: "Write captions for memes"
+    url: https://blogs.nvidia.com/blog/2018/07/18/deep-learning-generating-memes/
   - title: "Fake your voice"
     url: https://www.npr.org/2018/04/04/599126774/can-you-believe-your-own-ears-with-new-fake-news-tech-not-necessarily
   - title: "Generate photorealistic faces"
@@ -90,6 +96,8 @@
     url: https://www.theverge.com/2017/12/12/16768582/harry-potter-ai-fanfiction
   - title: "Write a Grimm's fairytale"
     url: https://io9.gizmodo.com/created-with-artificial-intelligence-this-new-grimms-f-1825336802
+  - title: "Pick highlights for sports coverage"
+    url: https://www.bbc.co.uk/news/av/technology-44781898/how-artificial-intelligence-is-transforming-tennis
   near:
   - title: "Compose pop music"
     url: https://djmag.com/news/first-pop-song-composed-artificial-intelligence-available-stream
@@ -231,12 +239,16 @@
     url: https://futurism.com/ai-journalist-media-bias-news-knowhere/
   - title: "Schedule output for a TV channel"
     url: https://www.bbc.co.uk/rd/blog/2018-05-artificial-intelligence-broadcasting-television
+  - title: "Decide which movies get made"
+    url: https://variety.com/2018/artisans/news/artificial-intelligence-hollywood-1202865540/
 
 - section: "Finance"
   wins:
   - title: "Detect payment fraud"
     url: https://techcrunch.com/2017/01/16/fraugster/ 
   does:
+  - title: "Simulate financial markets"
+    url: https://www.ft.com/content/3ab7cbf4-8281-11e8-96dd-fa565ec55929
   - title: "Trade cryptocurrencies"
     url: https://www.awwwards.com/sites/crypton-trading-bot
   - title: "Manage a hedge fund"
@@ -292,6 +304,8 @@
     url: https://www.blog.google/products/g-suite/new-ways-help-teams-work-faster-and-smarter-g-suite/
   - title: "Spy on you at work"
     url: https://www.economist.com/news/leaders/21739658-artificial-intelligence-pushes-beyond-tech-industry-work-could-become-faireror-more
+  - title: "Map addresses to locations"
+    url: https://www.livemint.com/Companies/G12niFPALtvPjjrxVexopL/Heres-how-Flipkart-is-using-AI-to-resolve-Indias-address-p.html
   near:
   - title: "Phone to make an appointment"
     url: https://www.youtube.com/watch?v=bd1mEm2Fy08
@@ -405,7 +419,11 @@
     
 - section: "Government & nonprofit"
   wins:
+  - title: "Generate high resolution maps"
+    url: https://www.wired.com/story/how-artificial-intelligence-could-prevent-natural-disasters/
   does:
+  - title: "Simulate competing policies"
+    url: https://www.theatlantic.com/international/archive/2018/07/artificial-intelligence-religion-atheism/565076/
   - title: "Detect benefit fraud"
     url: http://www.telegraph.co.uk/news/2017/12/31/ministers-use-artificial-intelligence-target-mass-benefit-fraud/
   - title: "Reduce urban congestion"
@@ -424,6 +442,8 @@
     url: https://www.weforum.org/agenda/2018/06/this-ai-is-learning-to-recognize-ocean-plastic-using-drone-photos
   - title: "Identify and count wildlife"
     url: https://blog.conservation.org/2018/06/in-case-you-missed-it-3-big-stories-from-our-world-23/
+  - title: "Identify solar panels on buildings"
+    url: http://blog.digitalglobe.com/technologies/how-we-used-deep-learning-to-identify-solar-panels-on-15-million-buildings/
   near:
   - title: "Predict court cases"
     url: https://www.ucl.ac.uk/news/news-articles/1016/241016-AI-predicts-outcomes-human-rights-trials
@@ -448,6 +468,8 @@
   - title: "Help deaf students learn"
     url: https://blogs.microsoft.com/ai/ai-powered-captioning/
   near:
+  - title: "Improve how we measure intelligence"
+    url: https://qz.com/1329111/the-case-for-how-ai-could-kill-high-stakes-testing/
   - title: "Track the emotional state of students in classrooms"
     url: https://thenextweb.com/artificial-intelligence/2018/05/18/chinas-orwellian-surveillance-state-turns-its-ai-powered-gaze-on-students/
   - title: "Tutor kids in maths"
@@ -593,6 +615,8 @@
     url: https://phys.org/news/2018-04-artificial-intelligence-discovery-metallic-glass.html
   - title: "Improve single molecule-localisation microscopy"
     url: https://www.nature.com/articles/s41592-018-0028-9.epdf
+  - title: "Spot birds from their songs"
+    url: https://www.sciencemag.org/news/2018/07/watch-out-birders-artificial-intelligence-has-learned-spot-birds-their-songs
   near:
   - title: "Predict life on other planets"
     url: https://www.firstpost.com/tech/news-analysis/artificial-intelligence-could-help-astronomers-predict-the-probability-of-life-on-other-planets-study-4418287.html
@@ -610,6 +634,10 @@
     url: https://www.telegraph.co.uk/science/2018/04/01/bees-mars-nasa-funds-swarm-robotic-insects-exploring-red-planet/
   - title: "Predict the phases of quantum systems"
     url: https://physicsworld.com/a/machine-learning-reveals-quantum-phases-of-matter/
+  - title: "Accelerate drug development"
+    url: http://news.mit.edu/2018/automating-molecule-design-speed-drug-development-0706
+  - title: "Replace animal testing for toxic chemicals"
+    url: https://theconversation.com/artificial-intelligence-outperforms-the-repetitive-animal-tests-in-identifying-toxic-chemicals-99708
 
 - section: "Security"
   wins:
@@ -618,6 +646,8 @@
   - title: "Detect malware"
     url: https://www.networkworld.com/article/3043202/security/how-to-use-deep-learning-ai-to-detect-and-prevent-malware-and-apts-in-real-time.html  
   does:
+  - title: "Tell living and dead eyeballs apart"
+    url: https://thenextweb.com/science/2018/07/24/thieves-iris-scanner-biometric-mit-security-machine-learning/
   - title: "Staff a police station"
     url: https://www.weforum.org/agenda/2017/11/this-chinese-police-station-is-staffed-by-artificial-intelligence
   - title: "Verify your identity from a selfie"
@@ -740,6 +770,8 @@
     url: https://blog.openai.com/unsupervised-sentiment-neuron/
   - title: "Track stereotypes about women and minorities"
     url: http://www.sciencemag.org/news/2018/04/artificial-intelligence-reveals-how-us-stereotypes-about-women-and-minorities-have
+  - title: "Check your grammar"
+    url: https://www.firstpost.com/tech/news-analysis/google-testing-a-machine-learning-based-grammar-suggestions-feature-for-docs-4818771.html
   near:
   - title: "Finish your sentences"
     url: https://www.cnbc.com/2018/05/08/google-launches-smart-compose-for-gmail.html
@@ -768,6 +800,8 @@
     url: https://en.wikipedia.org/wiki/Facial_recognition_system
   - title: "Identify you from your walk"
     url: https://www.newscientist.com/article/mg21528835-600-cameras-know-you-by-your-walk/
+  - title: "Turn Josh Brolin into Thanos"
+    url: https://futurism.com/artificial-intelligence-automating-hollywood-art/
   does: 
   - title: "Categorise ramen by shop"
     url: https://www.theverge.com/tldr/2018/4/2/17189736/google-automl-vision-machine-learning-ramen

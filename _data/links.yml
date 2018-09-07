@@ -160,6 +160,8 @@
   - title: "Adjust appliances to reduce energy use"
     url: https://www.bloomberg.com/news/articles/2018-06-11/ai-helps-africa-bypass-the-grid
   near:
+  - title: "Optimise your skincare regime"
+    url: https://www.glossy.co/beauty/the-next-generation-of-beauty-devices-are-using-ai-and-iot-technology-to-entice-customers
   - title: "Personalise the flavour of your drinks and snacks"
     url: https://newfoodeconomy.org/artificial-intelligence-personalized-food-beverage/
   - title: "Cook your meals"
@@ -171,6 +173,8 @@
 
 - section: "Professional"
   wins:
+  - title: "Tag documents in a lawsuit"
+    url: https://techcrunch.com/2018/09/05/mccarthyfinch-ai-services-platform-automates-tedious-legal-tasks/
   - title: "Check commercial loan agreements"
     url: https://www.independent.co.uk/news/business/news/jp-morgan-software-lawyers-coin-contract-intelligence-parsing-financial-deals-seconds-legal-working-a7603256.html 
   - title: "Buy advertising inventory"
@@ -186,7 +190,7 @@
     url: https://thenextweb.com/apps/2018/06/19/yelp-uses-machine-learning-to-create-popular-dishes-list/
   - title: "Sell your house"
     url: https://www.cnbc.com/2018/03/20/artificial-intelligence-the-latest-competition-for-real-estate-agents.html
-  - title: "Made ad placement decisions"
+  - title: "Make ad placement decisions"
     url: https://techcrunch.com/2018/02/21/google-debuts-adsense-auto-ads-with-machine-learning-to-make-placement-and-monetization-choices/
   - title: "Review legal contracts"
     url: http://mitsloan.mit.edu/newsroom/articles/artificial-intelligence-enabled-klarity-helps-companies-identify-risks-in-contracts/
@@ -224,6 +228,8 @@
     url: https://www.forbes.com/sites/alexknapp/2018/04/02/this-data-startup-uses-artificial-intelligence-to-figure-out-if-your-roof-is-in-decent-shape/
   - title: "Predict the winner of the football World Cup"
     url: https://www.technologyreview.com/s/611397/machine-learning-predicts-world-cup-winner/
+  - title: "Track your basketball practice"
+    url: https://www.si.com/nba/2018/08/17/homecourt-app-steve-nash-jeremy-lin-mark-cuban-nets-duke
   near:
   - title: "Run a hotel reception desk"
     url: https://www.theverge.com/2016/3/9/11180418/hilton-ibm-connie-robot-watson-hotel-concierge
@@ -286,6 +292,8 @@
   - title: "Get parking tickets cancelled"
     url: http://www.ibtimes.co.uk/how-appeal-parking-ticket-this-ai-robot-lawyer-will-fight-fines-you-free-1567908     
   does:
+  - title: "Operate a telephone switchboard"
+    url: https://inews.co.uk/news/consumer/marks-spencer-replaces-call-centre-jobs-ai/
   - title: "Improve your writing"
     url: https://www.grammarly.com/about
   - title: "Make a staffing rota"
@@ -343,9 +351,13 @@
     url: https://www.theguardian.com/business/2017/jan/31/hand-ocado-robot-shopping-fruit-vegetables
   - title: "Assist the crew of the ISS"
     url: http://www.esa.int/Our_Activities/Human_Spaceflight/Elementary_my_dear_machine_intelligence
+  - title: "Detect faults in railway tracks"
+    url: https://www.forbes.com/sites/nvidia/2018/08/02/how-swiss-federal-railway-is-improving-passenger-safety-with-the-power-of-deep-learning/
   near:
   - title: "Reduce injuries on construction sites"
     url: https://www.technologyreview.com/s/611141/ai-could-help-the-construction-industry-work-faster-and-keep-its-workforce-accident-free/
+  - title: "Predict when trucks will break down"
+    url: https://www.defenseone.com/ideas/2018/08/how-artificial-intelligence-could-keep-us-army-vehicles-ready-action
     
 - section: "Agriculture"
   wins:
@@ -367,6 +379,8 @@
   - title: "Detect poachers"
     url: https://news.sky.com/story/google-and-zsl-set-up-ai-to-detect-poachers-11272178
   near:
+  - title: "Analyse soil samples"
+    url: https://www.zdnet.com/article/ibm-researchers-help-small-farmers-test-soil-with-ai/
   - title: "Pick apples"
     url: https://www.abundantrobotics.com/
   - title: "Thin lettuces"
@@ -387,6 +401,8 @@
   - title: "Give you driving directions"
     url: https://motherboard.vice.com/en_us/article/4x3pp9/the-simple-elegant-algorithm-that-makes-google-maps-possible    
   does:
+  - title: "Optimise charging for electric bike and scooter networks"
+    url: https://www.bikebiz.com/features/expanding-bike-share-with-artificial-intelligence
   - title: "Predict airline delays"
     url: https://techcrunch.com/2018/01/31/google-flights-will-now-predict-airline-delays-before-the-airlines-do/
   - title: "Predict how long you'll wait for a taxi"
@@ -404,6 +420,8 @@
   - title: "Predict parking availability"
     url: https://research.googleblog.com/2017/02/using-machine-learning-to-predict.html 
   near:
+  - title: "Compete against human pilots in drone races"
+    url: https://www.theverge.com/2018/9/5/17822384/ai-autonomous-drone-quadcopter-pilot-drl-drone-racing-league-2019
   - title: "Control traffic lights"
     url: https://thenextweb.com/artificial-intelligence/2018/05/17/ibm-files-patent-for-ai-managed-traffic-lights/
   - title: "Design a sports car"
@@ -444,6 +462,8 @@
     url: https://blog.conservation.org/2018/06/in-case-you-missed-it-3-big-stories-from-our-world-23/
   - title: "Identify solar panels on buildings"
     url: http://blog.digitalglobe.com/technologies/how-we-used-deep-learning-to-identify-solar-panels-on-15-million-buildings/
+  - title: "Help spot illegal fishing operations"
+    url: https://www.blog.google/products/earth/close-encounters-fishy-kind/
   near:
   - title: "Predict court cases"
     url: https://www.ucl.ac.uk/news/news-articles/1016/241016-AI-predicts-outcomes-human-rights-trials
@@ -468,6 +488,8 @@
   - title: "Help deaf students learn"
     url: https://blogs.microsoft.com/ai/ai-powered-captioning/
   near:
+  - title: "Teach people Chinese"
+    url: https://wtop.com/education/2018/09/virtual-learning-using-ai-immersion-to-teach-chinese/slide/1/
   - title: "Improve how we measure intelligence"
     url: https://qz.com/1329111/the-case-for-how-ai-could-kill-high-stakes-testing/
   - title: "Track the emotional state of students in classrooms"
@@ -537,6 +559,10 @@
   - title: "Predict your chance of dying in hospital"
     url: https://thenextweb.com/artificial-intelligence/2018/06/19/google-ai-predictions-death-hospitals/
   near:
+  - title: "Predict whether someone is depressed"
+    url: https://thenextweb.com/artificial-intelligence/2018/09/05/mits-depression-detecting-ai-might-be-its-scariest-creation-yet/
+  - title: "Read and assess mammograms"
+    url: https://qz.com/1367216/mammograms-are-seriously-flawed-the-way-we-use-them-now-ai-could-change-that/
   - title: "Enhance cancer pathology reports"
     url: https://techcrunch.com/2018/02/05/paige-ai-nabs-25m-inks-ip-deal-with-sloan-kettering-to-bring-machine-learning-to-cancer-pathology/
   - title: "Diagnose prostate cancer"
@@ -750,6 +776,8 @@
   - title: "Translate over 100 languages"
     url: https://translate.google.co.uk/          
   does:
+  - title: "Recognise children's voices"
+    url: https://techcrunch.com/2018/09/06/kadho-debuts-offline-speech-recognition-tech-that-understand-kids-kidsense-a-i/
   - title: "Debate a human opponent"
     url: https://www.theverge.com/2018/6/18/17477686/ibm-project-debater-ai
   - title: "Pass a reading comprehension test"
@@ -796,6 +824,8 @@
 
 - section: "Vision"
   wins:
+  - title: "Find Waldo"
+    url: https://www.theverge.com/circuitbreaker/2018/8/8/17665268/wheres-waldo-finding-robot-google-cloud-automl-ai
   - title: "Identify you from your face"
     url: https://en.wikipedia.org/wiki/Facial_recognition_system
   - title: "Identify you from your walk"
@@ -803,6 +833,8 @@
   - title: "Turn Josh Brolin into Thanos"
     url: https://futurism.com/artificial-intelligence-automating-hollywood-art/
   does: 
+  - title: "Identify types of coral"
+    url: https://www.inverse.com/article/48043-paul-allen-makes-amends-with-coral-reefs-with-artificial-intelligence-research
   - title: "Categorise ramen by shop"
     url: https://www.theverge.com/tldr/2018/4/2/17189736/google-automl-vision-machine-learning-ramen
   - title: "Locate emoji in the real world"
@@ -846,6 +878,8 @@
   - title: "Predict how you'll look when you're older"
     url: https://www.sciencemag.org/news/2018/06/artificial-intelligence-can-predict-how-you-ll-look-decades-now
   near:
+  - title: "Detect deepfakes"
+    url: https://medium.com/mit-technology-review/the-defense-department-has-produced-the-first-tools-for-catching-deepfakes-db03998f8b65
   - title: "Fix photos where someone is blinking"
     url: https://slate.com/technology/2018/06/facebook-creates-an-ai-tool-to-correct-closed-eyes-in-photos.html
   - title: "Tell whether an image has been Photoshopped"
@@ -926,6 +960,8 @@
   - title: "See the world like a psychopath"
     url: https://www.bbc.co.uk/news/technology-44040008
   near:
+  - title: "Develop prejudices"
+    url: https://www.engadget.com/2018/09/06/robots-prejudice-study-mit-cardiff/
   - title: "Judge a beauty contest"
     url: https://www.wired.co.uk/article/robot-beauty-contest-beauty-ai
   - title: "Learn common decency"

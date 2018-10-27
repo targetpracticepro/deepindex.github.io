@@ -34,6 +34,8 @@
   - title: "Create levels for Doom"
     url: https://arxiv.org/abs/1804.09154
   near:
+  - title: "Play Pac-Man without eating ghosts"
+    url: https://www.fastcompany.com/90255740/ibm-explores-the-intersection-of-ai-ethics-and-pac-man
   - title: "Play Sonic the Hedgehog"
     url: https://techcrunch.com/2018/04/05/machine-learning-zone-openai-competition-takes-on-sonic-the-hedgehog/
   - title: "Catch Xbox Live cheaters"
@@ -48,6 +50,10 @@
   - title: "Spot forged artworks"
     url: https://www.technologyreview.com/s/609524/this-ai-can-spot-art-forgeries-by-looking-at-one-brushstroke/          
   does:
+  - title: "Design terrifying Halloween masks"
+    url: https://www.newscientist.com/article/2183674-ai-designed-these-halloween-masks-and-they-are-absolutely-terrifying/
+  - title: "Cone up with Halloween costume ideas"
+    url: https://www.nytimes.com/interactive/2018/10/26/opinion/halloween-spooky-costumes-machine-learning-generator.html
   - title: "Help artists build virtual worlds"
     url: https://venturebeat.com/2018/07/18/promethean-ai-uses-artificial-intelligence-to-help-artists-fill-out-game-worlds/
   - title: "Write captions for memes"
@@ -90,8 +96,10 @@
     url: https://thenextweb.com/apps/2018/03/02/this-app-uses-ar-and-ai-to-teach-anyone-how-to-draw/
   - title: "Create anime characters"
     url: https://makegirlsmoe.github.io/main/2017/08/14/news-english.html
-  - title: "Paint a masterpiece"
-    url: https://www.pix18.com/about.html
+  - title: "Paint an oil painting"
+    url: http://www.pix18.com/
+  - title: "Paint a portrait"
+    url: https://www.bloomberg.com/news/articles/2018-10-25/ai-generated-portrait-is-sold-for-432-500-in-an-auction-first
   - title: "Write Harry Potter fanfiction"
     url: https://www.theverge.com/2017/12/12/16768582/harry-potter-ai-fanfiction
   - title: "Write a Grimm's fairytale"
@@ -99,16 +107,22 @@
   - title: "Pick highlights for sports coverage"
     url: https://www.bbc.co.uk/news/av/technology-44781898/how-artificial-intelligence-is-transforming-tennis
   near:
-  - title: "Compose pop music"
+  - title: "Compose indie music"
+    url: https://techcrunch.com/2018/09/17/mumford-sons-beware-an-ai-can-now-write-indie-music/
+  - title: "Compose harmonies and melodies"
     url: https://djmag.com/news/first-pop-song-composed-artificial-intelligence-available-stream
-  - title: "Write songs"
+  - title: "Compose melodies and lyrics"
+    url: https://www.digitalmusicnews.com/2018/10/23/song-ep-ai-lyrics-melody/
+  - title: "Compose and produce instrumentation"
     url: https://www.theverge.com/2017/8/27/16197196/taryn-southern-album-artificial-intelligence-interview
   - title: "Write poetry"
     url: https://motherboard.vice.com/en_us/article/vvbxxd/the-poem-that-passed-the-turing-test
   - title: "Write a screenplay"
     url: https://www.theguardian.com/technology/2016/jun/10/artificial-intelligence-screenplay-sunspring-silicon-valley-thomas-middleditch-ai
-  - title: "Write a novel"
+  - title: "Write a short story"
     url: https://www.digitaltrends.com/cool-tech/japanese-ai-writes-novel-passes-first-round-nationanl-literary-prize/
+  - title: "Write a novel"
+    url: https://singularityhub.com/2018/10/25/ai-wrote-a-road-trip-novel-is-it-a-good-read/
   - title: "Design personalised clothing"
     url: https://www.technologyreview.com/s/609469/this-ai-learns-your-fashion-sense-and-invents-your-next-outfit/
   - title: "Direct a movie"
@@ -159,6 +173,10 @@
     url: https://www.forbes.com/sites/forbes-finds/2018/04/02/personal-stylist-meets-artificial-intelligence-for-this-menswear-subscription-box/
   - title: "Adjust appliances to reduce energy use"
     url: https://www.bloomberg.com/news/articles/2018-06-11/ai-helps-africa-bypass-the-grid
+  - title: "Power a sex toy for men"
+    url: https://motherboard.vice.com/en_us/article/pa9nvv/the-blowjob-paper-scientists-processed-109-hours-of-oral-sex-to-develop-an-ai-that-sucks-dick-autoblow
+  - title: "Power a sex toy for women"
+    url: https://www.kickstarter.com/projects/68968237/vibease-smart-lipstick-the-worlds-first-ai-vibrato
   near:
   - title: "Optimise your skincare regime"
     url: https://www.glossy.co/beauty/the-next-generation-of-beauty-devices-are-using-ai-and-iot-technology-to-entice-customers
@@ -170,6 +188,8 @@
     url: https://techcrunch.com/2014/01/18/amazon-pre-ships/
   - title: "Control your entire house"
     url: https://techcrunch.com/2016/12/20/watch-mark-zuckerbergs-morgan-freeman-voiced-jarvis-ai-in-action/
+  - title: "Keep your jacket warm"
+    url: https://www.wsj.com/articles/this-jacket-fights-the-cold-with-ai-1540565700
 
 - section: "Professional"
   wins:
@@ -230,6 +250,8 @@
     url: https://www.technologyreview.com/s/611397/machine-learning-predicts-world-cup-winner/
   - title: "Track your basketball practice"
     url: https://www.si.com/nba/2018/08/17/homecourt-app-steve-nash-jeremy-lin-mark-cuban-nets-duke
+  - title: "Write legal papers and rulings"
+    url: https://www.bloomberg.com/news/articles/2018-10-26/this-ai-startup-generates-legal-papers-without-lawyers-and-suggests-a-ruling
   near:
   - title: "Run a hotel reception desk"
     url: https://www.theverge.com/2016/3/9/11180418/hilton-ibm-connie-robot-watson-hotel-concierge
@@ -247,6 +269,14 @@
     url: https://www.bbc.co.uk/rd/blog/2018-05-artificial-intelligence-broadcasting-television
   - title: "Decide which movies get made"
     url: https://variety.com/2018/artisans/news/artificial-intelligence-hollywood-1202865540/
+  - title: "Write advertising slogans"
+    url: https://www.theverge.com/tldr/2018/10/3/17931924/burger-king-ai-ads-confusion-misunderstanding
+  - title: "Design perfumes"
+    url: https://www.timeslive.co.za/sunday-times/lifestyle/fashion-and-beauty/2018-10-27-can-ai-make-more-unique-fragrances-than-a-human-nose/
+  - title: "Review job applications"
+    url: https://www.theverge.com/2018/10/10/17958784/ai-recruiting-tool-bias-amazon-report
+  - title: "Write fortune cookie messages" 
+    url: https://www.washingtonpost.com/technology/2018/10/15/bizarre-thing-that-happened-when-roboticist-trained-ai-tell-someone-their-fortune/
 
 - section: "Finance"
   wins:
@@ -284,6 +314,8 @@
   near:
   - title: "Price debt"
     url: https://www.economist.com/graphic-detail/2018/05/14/artificial-intelligence-may-change-the-way-companies-issue-debt
+  - title: "Power an ATM"
+    url: https://www.techcentral.ie/national-australia-bank-and-microsoft-design-ai-atm/
   
 - section: "Administrative"
   wins:
@@ -419,6 +451,8 @@
     url: https://www.technologyreview.com/s/603493/10-breakthrough-technologies-2017-self-driving-trucks/
   - title: "Predict parking availability"
     url: https://research.googleblog.com/2017/02/using-machine-learning-to-predict.html 
+  - title: "Track foot traffic"
+    url: https://venturebeat.com/2018/10/24/placer-ai-raises-4-million-to-use-ai-to-track-foot-traffic/
   near:
   - title: "Compete against human pilots in drone races"
     url: https://www.theverge.com/2018/9/5/17822384/ai-autonomous-drone-quadcopter-pilot-drl-drone-racing-league-2019
@@ -479,6 +513,8 @@
     url: http://bigthink.com/paul-ratner/ai-researchers-develop-neural-networks-to-predict-government-corruption
   - title: "Predict crime hotspots"
     url: https://www.smithsonianmag.com/innovation/artificial-intelligence-is-now-used-predict-crime-is-it-biased-180968337/
+  - title: "Give evidence to a Parliamentary committee"
+    url: https://www.theverge.com/2018/10/12/17967752/uk-parliament-pepper-robot-invited-evidence-select-committee
 
 - section: "Education"
   wins:
@@ -514,7 +550,9 @@
   - title: "Diagnose skin cancers"
     url: https://spectrum.ieee.org/the-human-os/biomedical/diagnostics/computer-diagnoses-skin-cancers   
   - title: "Predict autism"
-    url: https://spectrum.ieee.org/the-human-os/biomedical/imaging/ai-predicts-autism-from-infant-brain-scans       
+    url: https://spectrum.ieee.org/the-human-os/biomedical/imaging/ai-predicts-autism-from-infant-brain-scans
+  - title: "Identify metastatic breast cancer" 
+    url: https://www.technologyreview.com/the-download/612292/googles-ai-is-better-at-spotting-advanced-breast-cancer-than-pathologists/       
   does:
   - title: "Measure the severity of small vessel disease"
     url: https://www.imperial.ac.uk/news/186108/artificial-intelligence-improves-stroke-dementia-diagnosis/
@@ -532,6 +570,8 @@
     url: https://spectrum.ieee.org/the-human-os/robotics/artificial-intelligence/aipowered-microscope-counts-malaria-parasites
   - title: "Generate oncology treatment plans"
     url: https://www.ibm.com/watson/health/oncology-and-genomics/oncology/
+  - title: "Generate sepsis treatment plans"
+    url: https://www.imperial.ac.uk/news/188705/ai-doctor-could-boost-chance-survival/
   - title: "Predict sepsis"
     url: https://www.huffingtonpost.com/entry/using-ai-to-prevent-sepsis_us_5927f8f6e4b0d2a92f2f42e3
   - title: "Predict high blood pressure"
@@ -643,8 +683,10 @@
     url: https://www.nature.com/articles/s41592-018-0028-9.epdf
   - title: "Spot birds from their songs"
     url: https://www.sciencemag.org/news/2018/07/watch-out-birders-artificial-intelligence-has-learned-spot-birds-their-songs
+  - title: "Identify inorganic phosphors"
+    url: https://www.nature.com/articles/s41467-018-06625-z
   near:
-  - title: "Predict life on other planets"
+  - title: "Predict the probability of life on other planets"
     url: https://www.firstpost.com/tech/news-analysis/artificial-intelligence-could-help-astronomers-predict-the-probability-of-life-on-other-planets-study-4418287.html
   - title: "Simulate quantum systems"
     url: https://www.newscientist.com/article/2120856-ai-learns-to-solve-quantum-state-of-many-particles-at-once/
@@ -698,7 +740,11 @@
     url: https://www.nytimes.com/2018/02/20/technology/artificial-intelligence-risks.html
   - title: "Identify objects of interest in drone footage"
     url: http://www.defenseone.com/technology/2017/12/pentagons-new-artificial-intelligence-already-hunting-terrorists/144742/
+  - title: "Identify fake robbery reports"
+    url: https://inews.co.uk/news/science/how-artificial-intelligence-is-spotting-fake-police-reports/
   near:
+  - title: "Search CCTV by height, gender or clothing"
+    url: https://thenextweb.com/artificial-intelligence/2018/10/22/this-ai-can-search-for-people-by-height-gender-and-clothing-in-surveillance-videos/
   - title: "Find late passengers in airports"
     url: https://www.itnews.com.au/news/singapore-airport-looks-to-facial-recognition-to-find-late-passengers-490035
   - title: "Interview travellers at airports"
@@ -743,6 +789,8 @@
   - title: "Organise your Facebook news feed"
     url: https://sideways-view.com/2016/12/01/optimizing-the-news-feed/
   does:
+  - title: "Fix software bugs"
+    url: https://www.technologyreview.com/s/612336/a-bot-disguised-as-a-human-software-developer-fixes-bugs/
   - title: "Improve your UX design"
     url: http://www.eyequant.com/
   - title: "Predict hard drive failures"
@@ -776,6 +824,10 @@
   - title: "Translate over 100 languages"
     url: https://translate.google.co.uk/          
   does:
+  - title: "Convert sign language into text or speech"
+    url: https://economictimes.indiatimes.com/magazines/panache/meet-the-new-google-translator-an-ai-app-that-converts-sign-language-into-text-speech/articleshow/66379450.cms
+  - title: "Lip-sync animations"
+    url: https://theblog.adobe.com/announcing-adobe-animate-cc-2019/
   - title: "Recognise children's voices"
     url: https://techcrunch.com/2018/09/06/kadho-debuts-offline-speech-recognition-tech-that-understand-kids-kidsense-a-i/
   - title: "Debate a human opponent"
@@ -902,6 +954,8 @@
     url: https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html
   - title: "Convert flat images to 3D"
     url: https://thenextweb.com/artificial-intelligence/2018/03/08/try-this-ai-experiment-that-converts-2d-images-to-3d/
+  - title: "Give your voice assistant a realistic avatar"
+    url: https://www.rollingstone.com/culture/culture-news/mica-ai-assistant-lifelike-magic-leap-744244/
   
 - section: "Robotics"
   wins:
@@ -947,6 +1001,8 @@
   - title: "Animate the poo emoji"
     url: https://www.theverge.com/2017/9/12/16290210/new-iphone-emoji-animated-animoji-apple-ios-11-update 
   does:
+  - title: "Sketch a self-portrait"
+    url: https://www.zdnet.com/article/this-is-what-ai-looks-like-as-sketched-by-ai/
   - title: "Boost the brain's memory"
     url: https://www.wired.com/story/ml-brain-boost/
   - title: "Nail an IQ test"
@@ -960,6 +1016,8 @@
   - title: "See the world like a psychopath"
     url: https://www.bbc.co.uk/news/technology-44040008
   near:
+  - title: "Duplicate Will.i.am"
+    url: https://www.joe.co.uk/music/will-i-am-hints-hes-developing-his-very-own-a-i-called-will-a-i-205820
   - title: "Develop prejudices"
     url: https://www.engadget.com/2018/09/06/robots-prejudice-study-mit-cardiff/
   - title: "Judge a beauty contest"
@@ -972,3 +1030,5 @@
     url: http://www.iflscience.com/technology/amazon-ai-designed-to-create-phone-cases-goes-hilariously-wrong/
   - title: "Fold a t-shirt"
     url: https://www.theverge.com/2018/1/10/16865506/laundroid-laundry-folding-machine-foldimate-ces-2018
+  - title: "Learn common sense"
+    url: https://www.technologyreview.com/s/612263/the-us-military-wants-to-teach-ai-some-basic-common-sense/

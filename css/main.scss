@@ -126,10 +126,18 @@ a:hover {
         color: #FFFFFF
     }
     h3 {
+        padding-top: $spacing-unit / 3;
         padding-bottom: $spacing-unit / 5;
         border-bottom:  3px solid #FFF;
+        margin-bottom: $spacing-unit / 3;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0px;
     }
-  padding-top: $spacing-unit / 3;
+    p:first-of-type { 
+        padding-top: $spacing-unit / 3;
+    }
+  padding-top: $spacing-unit / 5;
   padding-bottom: $spacing-unit / 3;
 }
 

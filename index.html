@@ -67,7 +67,7 @@ updated: November 2018
     {% assign block_apps = block_apps | plus: block.does.size %}
     {% assign block_apps = block_apps | plus: block.near.size %}
 
-    <h3>{{ block.section }} <small>{{ block_apps }}</small></h3>
+    <h3 class="c-block-{{ block_count }}">{{ block.section }} <small>{{ block_apps }}</small></h3>
 
     {% if block.wins.size > 0 %}
       {% assign items = block.wins | sort: "title" %}    

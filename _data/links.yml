@@ -259,6 +259,8 @@
   - title: "Write legal papers and rulings"
     url: https://www.bloomberg.com/news/articles/2018-10-26/this-ai-startup-generates-legal-papers-without-lawyers-and-suggests-a-ruling
   near:
+  - title: "Run a hot pot restaurant"
+    url: https://www.scmp.com/video/technology/2171237/inside-chinas-first-ai-hot-pot-restaurant
   - title: "Run a hotel reception desk"
     url: https://www.theverge.com/2016/3/9/11180418/hilton-ibm-connie-robot-watson-hotel-concierge
   - title: "Predict box office performance"
@@ -582,6 +584,8 @@
   - title: "Identify metastatic breast cancer" 
     url: https://www.technologyreview.com/the-download/612292/googles-ai-is-better-at-spotting-advanced-breast-cancer-than-pathologists/       
   does:
+  - title: "Screen chest x-rays for a dozen diseases"
+    url: http://med.stanford.edu/news/all-news/2018/11/ai-outperformed-radiologists-in-screening-x-rays-for-certain-diseases.html
   - title: "Diagnose paediatric heart murmurs"
     url: https://www.medgadget.com/2018/11/artificial-intelligence-diagnoses-heart-murmurs-better-than-expert-cardiologists.html
   - title: "Monitor blood loss during childbirth"
@@ -843,6 +847,8 @@
   - title: "Organise your Facebook news feed"
     url: https://sideways-view.com/2016/12/01/optimizing-the-news-feed/
   does:
+  - title: "Remove fake likes, follows and comments"
+    url: https://thenextweb.com/insider/2018/11/20/instagram-is-using-machine-learning-to-kill-off-your-fake-followers/
   - title: "Fix software bugs"
     url: https://www.technologyreview.com/s/612336/a-bot-disguised-as-a-human-software-developer-fixes-bugs/
   - title: "Improve your UX design"
@@ -880,6 +886,8 @@
   - title: "Translate over 100 languages"
     url: https://translate.google.co.uk/          
   does:
+  - title: "Talk like a newsreader"
+    url: https://www.theverge.com/2018/11/20/18104413/amazon-alexa-speaking-style-machine-learning-neural-ntts-newscaster
   - title: "Convert sign language into text or speech"
     url: https://economictimes.indiatimes.com/magazines/panache/meet-the-new-google-translator-an-ai-app-that-converts-sign-language-into-text-speech/articleshow/66379450.cms
   - title: "Lip-sync animations"
@@ -1074,7 +1082,7 @@
   - title: "See the world like a psychopath"
     url: https://www.bbc.co.uk/news/technology-44040008
   near:
-  - title: "Read the news"
+  - title: "Anchor the news"
     url: https://www.cnbc.com/2018/11/16/experts-cast-doubt-on-whether-chinas-news-anchor-is-really-ai.html
   - title: "Duplicate Will.i.am"
     url: https://www.joe.co.uk/music/will-i-am-hints-hes-developing-his-very-own-a-i-called-will-a-i-205820

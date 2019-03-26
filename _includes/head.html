@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <title>{{ site.title }}{% if page.title %} &raquo; {{ page.title }}{% endif %}</title>
-  <meta name="description" content="{{ site.description }}">
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   
   {% include social-graph-tags.html %}
    

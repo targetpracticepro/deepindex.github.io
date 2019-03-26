@@ -2,6 +2,7 @@
 layout: splash
 permalink: history
 title: History
+description: "A brief history of artificial intelligence."
 ---
 
 <div class="container">
@@ -17,7 +18,7 @@ title: History
   <div class="row">
     <div class="col-md-12 splash">
       
-      <h2>A brief history of artificial intelligence</h2>
+      <h2>{{ page.description | remove: "." }}</h2>
       
       <p class="lead">Here are {{ site.data.links.size }} examples of AI in approximate chronological order.</p>
       

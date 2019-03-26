@@ -1,0 +1,38 @@
+- cat: "Games"
+  block: 1
+- cat: "Creative"
+  block: 2
+- cat: "Home & lifestyle"
+  block: 3
+- cat: "Professional"
+  block: 4
+- cat: "Finance"
+  block: 5
+- cat: "Administrative"
+  block: 6
+- cat: "Industrial"
+  block: 7
+- cat: "Agriculture"
+  block: 8
+- cat: "Transport"
+  block: 9
+- cat: "Government & nonprofit"
+  block: 10
+- cat: "Education"
+  block: 11
+- cat: "Medicine"
+  block: 12
+- cat: "Science"
+  block: 13
+- cat: "Security"
+  block: 14
+- cat: "Computing"
+  block: 15
+- cat: "Speech & language"
+  block: 16
+- cat: "Vision"
+  block: 17
+- cat: "Robotics"
+  block: 18
+- cat: "Other"
+  block: 19

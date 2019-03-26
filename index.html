@@ -1,6 +1,5 @@
 ---
 layout: splash
-updated: November 2018
 ---
 
 <div class="container">
@@ -15,18 +14,10 @@ updated: November 2018
 
   <div class="row">
     <div class="col-md-8 splash">
-
-      {% assign ai_apps = 0 %}
-  
-      {% for block in site.data.links %}
-        {% assign ai_apps = ai_apps | plus: block.wins.size %}
-        {% assign ai_apps = ai_apps | plus: block.does.size %}
-        {% assign ai_apps = ai_apps | plus: block.near.size %}
-      {% endfor %}
       
-      <h2>{{ site.description }}</h2>
+      <h2>{{ site.description | remove: "." }}</h2>
       
-      <p class="lead">Here are {{ ai_apps }} examples of AI in action.</p>
+      <p class="lead">Here are {{ site.data.links.size }} examples of AI in action.</p>
      
       <p>
       <a target="_blank" class="btn btn-xs btn-social btn-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url | url_encode }}" title="Share on Facebook"><i class="fab fa-facebook"></i> Like</a>
@@ -37,59 +28,57 @@ updated: November 2018
     </div>
     <div class="col-md-4 splash">
       <h4>Legend</h4>
-      <p><img src="images/moon-3-b.png" class="icon" alt="" /> Crushing it</p>
-      <p><img src="images/moon-2-b.png" class="icon" alt="" /> Capable</p>      
-      <p><img src="images/moon-1-b.png" class="icon" alt="" /> Getting there</p>
+      <p><img src="/images/moon-3-b.png" class="icon" alt="" /> Crushing it</p>
+      <p><img src="/images/moon-2-b.png" class="icon" alt="" /> Capable</p>      
+      <p><img src="/images/moon-1-b.png" class="icon" alt="" /> Getting there</p>
       <p class="visible-xs visible-sm">&nbsp;</p>
     </div>
   </div>
   
 
-  
+  {% assign counter = 0 %}
   
   {% assign col_count = 1 %}
   
   {% assign block_count = 1 %}
   
-  {% for block in site.data.links %}
+  {% for block in site.data.cats %}
   
     {% if col_count == 1 %}
   
       <div class="row r-div">
     
     {% endif %}
+    
+    {% assign group = site.data.links | where: "cat",block.cat %}
+    
+    {% assign counter = counter | plus: group.size %}
   
-    <div class="col-md-4 c-div c-block-{{ block_count }}">
+    <div class="col-md-4 c-div c-block-{{ block_count }}"><a name="{{ block.cat | truncatewords: 1, "" }}"></a>
+
+    <h3 class="c-block-{{ block_count }}"><a href="#{{ block.cat | truncatewords: 1, "" }}">{{ block.cat }}</a> <small>{{ group.size }}</small></h3>
+
+    {% assign entries = group | where: "status","wins" | sort_natural: "title" %}
+    {% if entries.size > 0 %}
+      {% for entry in entries %}
+        <p><img src="/images/moon-3-w.png" class="icon" alt="" /> <a href="{{ entry.url }}">{{ entry.title }}</a></p>
+      {% endfor %} 
+      <p>---</p>
+    {% endif %}    
     
-    {% assign block_apps = 0 %}
-
-    {% assign block_apps = block_apps | plus: block.wins.size %}
-    {% assign block_apps = block_apps | plus: block.does.size %}
-    {% assign block_apps = block_apps | plus: block.near.size %}
-
-    <h3 class="c-block-{{ block_count }}">{{ block.section }} <small>{{ block_apps }}</small></h3>
-
-    {% if block.wins.size > 0 %}
-      {% assign items = block.wins | sort: "title" %}    
-      {% for item in items %}  
-        <p><img src="images/moon-3-w.png" class="icon" alt="" /> <a href="{{ item.url }}">{{ item.title }}</a></p>
+    {% assign entries = group | where: "status","does" | sort_natural: "title" %}
+    {% if entries.size > 0 %}
+      {% for entry in entries %}
+        <p><img src="/images/moon-2-w.png" class="icon" alt="" /> <a href="{{ entry.url }}">{{ entry.title }}</a></p>
       {% endfor %}
       <p>---</p>
     {% endif %}
-    
-    {% if block.does.size > 0 %}
-      {% assign items = block.does | sort: "title" %}    
-      {% for item in items %}  
-        <p><img src="images/moon-2-w.png" class="icon" alt="" /> <a href="{{ item.url }}">{{ item.title }}</a></p>
-      {% endfor %}
-      <p>---</p>
-    {% endif %}
-    
-    {% if block.near.size > 0 %}
-      {% assign items = block.near | sort: "title" %}    
-      {% for item in items %}  
-        <p><img src="images/moon-1-w.png" class="icon" alt="" /> <a href="{{ item.url }}">{{ item.title }}</a></p>
-      {% endfor %}
+
+    {% assign entries = group | where: "status","near" | sort_natural: "title" %}
+    {% if entries.size > 0 %}
+      {% for entry in entries %}
+        <p><img src="/images/moon-1-w.png" class="icon" alt="" /> <a href="{{ entry.url }}">{{ entry.title }}</a></p>
+      {% endfor %}  
     {% endif %}
     
     </div>
@@ -130,8 +119,11 @@ updated: November 2018
   
   <div class="row">
     <div class="col-md-12 splash">
-      <p class="text-muted"><small>Contact: <a href="mailto:hello@deepindex.org">hello@deepindex.org</a><br />
-      Curated by <a href="https://twitter.com/clry2">@clry2</a> and last updated {{ page.updated }}</small></p>
+    
+    {% include footer.html %}
+    
+    {% if counter <> site.data.links.size %}<p><small>*</small></p>{% endif %}
+
     </div>
   </div>
     

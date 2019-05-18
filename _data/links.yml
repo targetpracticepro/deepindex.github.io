@@ -2903,3 +2903,247 @@
   cat: "Creative"
   status: "does"
   date: 2019-03-22
+- title: "Track and fire warehouse workers"
+  url: https://www.theverge.com/2019/4/25/18516004/amazon-warehouse-fulfillment-centers-productivity-firing-terminations
+  cat: "Administrative"
+  status: "does"
+  date: 2019-04-25
+- title: "Combine different styles of music"
+  url: https://openai.com/blog/musenet/
+  cat: "Creative"
+  status: "does"
+  date: 2019-04-25
+- title: "Turn thoughts into speech"
+  url: https://www.nature.com/articles/s41586-019-1119-1
+  cat: "Speech & language"
+  status: "near"
+  date: 2019-04-24
+- title: "Recognise a person carrying a colour printout"
+  url: https://www.technologyreview.com/f/613409/how-to-hide-from-the-ai-surveillance-state-with-a-color-printout/
+  cat: "Security"
+  status: "near"
+  date: 2019-04-23
+- title: "Predict all-cause premature mortality"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214365
+  cat: "Medicine"
+  status: "near"
+  date: 2019-03-27
+- title: "Monitor your kitchen bin"
+  url: https://www.bbc.co.uk/news/av/business-47708059/artificial-intelligence-used-in-kitchen-bin
+  cat: "Home & lifestyle"
+  status: "does"
+  date: 2019-03-28
+- title: "Adjudicate small claims disputes"
+  url: https://www.wired.com/story/can-ai-be-fair-judge-court-estonia-thinks-so/
+  cat: "Government & nonprofit"
+  status: "near"
+  date: 2019-03-25
+- title: "Deepfake satellite photos"
+  url: https://www.defenseone.com/technology/2019/03/next-phase-ai-deep-faking-whole-world-and-china-ahead/155944/
+  cat: "Security"
+  status: "does"
+  date: 2019-03-31
+- title: "Spot low-birthweight babies"
+  url: https://www.technologyreview.com/s/613210/how-artificial-intelligence-is-helping-farmers-and-babies-in-the-developing-world/
+  cat: "Government & nonprofit"
+  status: "does"
+  date: 2019-03-26
+- title: "Forecast demand for tractors"
+  url: https://www.hellotractor.com/about-us/
+  cat: "Agriculture"
+  status: "does"
+  date: 
+- title: "Manage McDonald's drive-thrus"
+  url: https://metro.co.uk/2019/03/27/mcdonalds-employing-artificial-intelligence-manage-drive-thrus-9036991/
+  cat: "Industrial"
+  status: "does"
+  date: 2019-03-27
+- title: "Analyse images of brain tumours"
+  url: https://medicalxpress.com/news/2019-04-artificial-intelligence-treatment-response-brain.html
+  cat: "Medicine"
+  status: "near"
+  date: 2019-04-03
+- title: "Help violinists improve their technique"
+  cat: "Professional"
+  status: "does"
+  date: 2019-04-03
+- title: "Monitor workers' emails and meetings"
+  url: https://www.theguardian.com/technology/2019/apr/07/uk-businesses-using-artifical-intelligence-to-monitor-staff-activity
+  cat: "Administrative"
+  status: "does"
+  date: 2019-04-07
+- title: "Deliver snacks"
+  url: https://www.forbes.com/sites/douglasyu/2019/01/22/pepsico-sees-future-in-artificial-intelligence-after-launching-snack-delivery-robot/amp/
+  cat: "Transport"
+  status: "does"
+  date: 2019-01-22
+- title: "Check the texture of potato crisps"
+  url: https://www.automationworld.com/how-frito-lay-applies-machine-learning
+  cat: "Industrial"
+  status: "does"
+  date: 2019-03-07
+- title: "Detect disturbances in power grids"
+  url: https://phys.org/news/2019-04-artificial-intelligence-automatically-disturbances-power.html
+  cat: "Industrial"
+  status: "does"
+  date: 2019-04-01
+- title: "Create and trade tokenised bonds"
+  url: https://icoexaminer.com/ico-news/xinfin-power-worlds-first-artificial-intelligence-bond-broker/
+  cat: "Finance"
+  status: "near"
+  date: 2019-04-05
+- title: "Optimise your e-bike performance"
+  url: https://mashable.com/video/ebike-artificial-intelligence/
+  cat: "Transport"
+  status: "near"
+  date: 2019-04-01
+- title: "Model cellular dynamics"
+  url: https://phys.org/news/2019-04-artificial-intelligence-cell-developmental-dynamics.html
+  cat: "Science" 
+  status: "does"
+  date: 2019-04-01
+- title: "Measure population health via social media"
+  url: https://globalnews.ca/news/5117599/university-of-alberta-machine-learning-twitter-health/
+  cat: "Government & nonprofit"
+  status: "near"
+  date: 2019-04-01
+- title: "Optimise embryo selection for IVF"
+  url: https://www.eurekalert.org/pub_releases/2019-04/wcm-aia040319.php
+  cat: "Medicine"
+  status: "near"
+  date: 2019-04-04
+- title: "Predict collisions and debris in orbit"
+  url: https://spacenews.com/air-force-selects-slingshot-aerospace-to-bring-artificial-intelligence-into-space-surveillance/
+  cat: "Government & nonprofit"
+  status: "does"
+  date: 2019-04-07
+- title: "Block or remove Facebook accounts"
+  url: https://newsroom.fb.com/news/2019/04/preparing-for-indian-elections/
+  cat: "Security"
+  status: "wins"
+  date: 2019-04-08
+- title: "Map population density around the world"
+  url: https://www.theverge.com/2019/4/9/18301738/facebook-artificial-intelligence-ai-map-world-population-density-humanitarian-efforts
+  cat: "Government & nonprofit"
+  status: "does"
+  date: 2019-04-09
+- title: "Bust a Bitcoin Ponzi scheme"
+  url: https://www.ccn.com/ai-korean-police-bust-19-million-bitcoin-ponzi
+  cat: "Security"
+  status: "does"
+  date: 2019-04-08
+- title: "Assess earthquake-damaged buildings"
+  url: https://www.reuters.com/article/us-disaster-tech-apps/tracking-goats-and-bleach-artificial-intelligence-helps-out-in-crises-idUSKCN1RN15M
+  cat: "Government & nonprofit"
+  status: "does"
+  date: 2019-04-11
+- title: "Trace the shape of active neurons"
+  url: https://www.ecnmag.com/news/2019/04/artificial-intelligence-singles-out-neurons-faster-human-can
+  cat: "Science"
+  status: "wins"
+  date: 2019-04-15
+- title: "Predict the outcome of clinical trials"
+  url: https://www.bloomberg.com/news/articles/2019-04-11/predicting-costly-pharma-flops-is-ai-aided-forecaster-s-goal
+  cat: "Medicine"
+  status: "does"
+  date: 2019-04-11
+- title: "Cut the cost of drilling for oil"
+  url: https://www.bloomberg.com/news/articles/2019-04-19/total-plans-to-use-artificial-intelligence-to-cut-drilling-costs
+  cat: "Industrial"
+  status: "near"
+  date: 2019-04-19
+- title: "Create a new outdoor sport"
+  url: https://www.washingtonpost.com/technology/2019/04/23/they-asked-artificial-intelligence-create-new-game-one-if-its-first-ideas-involved-an-exploding-frisbee/
+  cat: "Professional"
+  status: "does"
+  date: 2019-04-23
+- title: "Find enemy radars"
+  url: https://www.naval-technology.com/features/moonlight-artificial-intelligence-radars/
+  cat: "Security"
+  status: "does"
+  date: 2019-04-17
+- title: "Steer hypersonic vehicles"
+  url: https://newatlas.com/artificial-intelligence-hypersonic-vehicles/59378/
+  cat: "Transport"
+  status: "near"
+  date: 2019-04-22
+- title: "Design a chair"
+  url: https://www.sciencetimes.com/articles/20220/20190416/the-first-chair-made-by-artificial-intelligence-debuts-in-milan-s-design-week.htm
+  cat: "Creative"
+  status: "does"
+  date: 2019-04-16
+- title: "Help drivers avoid flooded roads"
+  url: https://news.stlpublicradio.org/post/missouri-st-engineers-use-artificial-intelligence-help-drivers-avoid-flooded-roads
+  cat: "Government & nonprofit"
+  status: "does"
+  date: 2019-04-19
+- title: "Make old videogames look like new"
+  url: https://www.theverge.com/2019/4/18/18311287/ai-upscaling-algorithms-video-games-mods-modding-esrgan-gigapixel
+  cat: "Games"
+  status: "wins"
+  date: 2019-04-18
+- title: "Detect corrosion on ships" 
+  url: https://www.marinelog.com/news/pilot-project-uses-artificial-intelligence-to-detect-corrosion-levels/
+  cat: "Industrial"
+  status: "near"
+  date: 2019-04-25
+- title: "Create never-ending death metal"
+  url: https://www.sciencefocus.com/news/artificial-intelligence-creates-never-ending-death-metal/
+  cat: "Creative"
+  status: "does"
+  date: 2019-04-27
+- title: "Write short poems"
+  url: https://artsexperiments.withgoogle.com/poemportraits
+  cat: "Creative"
+  status: "does"
+  date: 2019-05-02
+- title: "Prevent unneeded tests"
+  url: https://www.escardio.org/The-ESC/Press-Office/Press-releases/artificial-intelligence-could-prevent-unneeded-tests-in-patients-with-stable-che
+  cat: "Medicine"
+  status: "near"
+  date: 2019-05-12
+- title: "Predict future risk of breast cancer"
+  url: https://medicalxpress.com/news/2019-05-artificial-intelligence-method-future-breast.html
+  cat: "Medicine"
+  status: "near"
+  date: 2019-05-07
+- title: "Help you use more inclusive language"
+  url: https://blogs.microsoft.com/ai/microsoft-365-intelligent-workday-productivity/
+  cat: "Administrative"
+  status: "does"
+  date: 2019-05-06
+- title: "Predict outcomes of orthopaedic surgery"
+  url: https://www.prnewswire.com/news-releases/artificial-intelligence-may-lead-to-better-outcomes-after-joint-surgery-300851698.html
+  cat: "Medicine"
+  status: "near"
+  date: 2019-05-16
+- title: "Predict which clients will invest more money"
+  url: https://www.investmentnews.com/article/20190507/FREE/190509946/salesforce-has-new-artificial-intelligence-tools-for-advisers
+  cat: "Finance"
+  status: "does"
+  date: 2019-05-07
+- title: "Predict the function of proteins in the body"
+  url: https://phys.org/news/2019-05-artificial-intelligence-proteins.html
+  cat: "Science"
+  status: "near"
+  date: 2019-05-15
+- title: "Create market reports for used cars"
+  url: https://www.autonews.com/article/20180219/RETAIL04/180219804/ford-dealers-gain-access-to-ai-tool-for-used-car-sales
+  cat: "Professional"
+  status: "does"
+  date: 2019-02-19
+- title: "Simulate sports car performance"
+  url: https://www.forbes.com/sites/nvidia/2018/06/13/how-ai-powers-ford-motorsports-to-the-checkered-flag/
+  cat: "Transport"
+  status: "does"
+  date: 2018-06-13
+- title: "Detect wrinkles in car seats"
+  url: https://www.ciodive.com/news/ford-cto-AI-mobility-autonomous/552117/
+  cat: "Vision"
+  status: "does"
+  date: 2019-04-05
+- title: "Create images that monkeys love"
+  url: https://www.sciencemag.org/news/2019/05/artificial-intelligence-created-these-bizarre-faces-and-monkey-neurons-love-them
+  cat: "Science"
+  status: "does"
+  date: 2019-05-02

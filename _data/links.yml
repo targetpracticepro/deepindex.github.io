@@ -3147,3 +3147,93 @@
   cat: sci
   status: does
   date: 2019-05-02
+- title: "Blend whiskeys"
+  url: https://techcrunch.com/2019/05/15/oh-no-theres-a-i-whiskey-now/
+  cat: ind
+  status: does
+  date: 2019-05-15
+- title: "Fake Joe Rogan's voice"
+  url: https://www.theverge.com/2019/5/17/18629024/joe-rogan-ai-fake-voice-clone-deepfake-dessa
+  cat: cre
+  status: does
+  date: 2019-05-17
+- title: "Create talking heads from single photos"
+  url: https://www.sciencealert.com/samsung-s-ai-can-now-generate-talking-heads-from-a-single-image
+  cat: cre
+  status: does
+  date: 2019-05-26
+- title: "Make snap judgements about numbers"
+  url: https://www.scientificamerican.com/article/an-ai-system-spontaneously-develops-baby-like-ability-to-gauge-big-and-small/
+  cat: vis
+  status: near
+  date: 2019-05-08
+- title: "Work as a team in a FPS"
+  url: https://www.sciencemag.org/news/2019/05/artificial-intelligence-learns-teamwork-deadly-game-capture-flag
+  cat: gam
+  status: does
+  date: 2019-05-30
+- title: "Imagine a world without cars"
+  url: https://www.theverge.com/2019/5/7/18534538/ai-neural-net-car-free-biophilia-chris-harris
+  cat: vis
+  status: near
+  date: 2019-05-17
+- title: "Learn whilst keeping patient data private"
+  url: https://www.technologyreview.com/s/613520/how-ai-could-save-lives-without-spilling-secrets/
+  cat: med
+  status: near
+  date: 2019-05-14
+- title: "Identify lung lesions on CT scans"
+  url: https://www.telegraph.co.uk/technology/2019/05/07/google-says-ai-can-spot-lung-cancer-year-doctors/
+  cat: med
+  status: does
+  date: 2019-05-07
+- title: "Monitor pollution from the world's power plants"
+  url: https://earther.gizmodo.com/google-wants-to-use-ai-to-track-pollution-from-every-po-1834669673
+  cat: gov
+  status: near
+  date: 2019-05-10
+- title: "Diagnose Parkinson's disease"
+  url: https://www.ft.com/content/183c412a-6766-11e9-9adc-98bf1d35a056
+  cat: med
+  status: near
+  date: 2019-05-07
+- title: "Translate languages in your own voice"
+  url: https://www.technologyreview.com/s/613559/google-ai-language-translation/
+  cat: spe
+  status: near
+  date: 2019-05-20
+- title: "Generate ultra-realistic fashion models"
+  url: https://thenextweb.com/artificial-intelligence/2019/05/01/this-ai-generates-ultra-realistic-fashion-models-from-head-to-toe/
+  cat: cre
+  status: does
+  date: 2019-05-01
+- title: "Turn your face into a 'poem portrait'"
+  url: https://www.theverge.com/2019/5/2/18526783/google-ai-art-project-poem-portrait-es-devlin-ross-goodwin
+  cat: cre
+  status: does
+  date: 2019-05-02
+- title: "Predict the stock market"
+  url: https://metro.co.uk/2019/05/06/can-we-trust-machines-to-predict-the-stock-market-with-100-accuracy-9325480/
+  cat: fin
+  status: near
+  date: 2019-05-06
+- title: "Automate threat hunting"
+  url: https://techcrunch.com/2019/05/23/hunters-ai-raises-4-5m-for-its-autonomous-threat-hunting-solution/
+  cat: sec
+  status: near
+  date: 2019-05-23
+- title: "Check students wrote their own essays"
+  url: https://phys.org/news/2019-05-written-exam-artificial-intelligence-nab.html
+  cat: edu
+  status: does
+  date: 2019-05-30
+- title: "Tell you whether to go to A&E"
+  url: https://www.huffingtonpost.co.uk/entry/artificial-intelligence-could-soon-tell-you-whether-to-go-to-ae-or-not_uk_5ce7ae5be4b05c15deaa4c7c
+  cat: med
+  status: near
+  date: 2019-05-24
+- title: "Create a likeness of Salvador Dalí"
+  url: https://www.tampabay.com/visual-arts/first-look-salvador-dalxed-comes-back-to-life-in-artificial-intelligence-with-dalxed-lives-20190509/
+  cat: cre
+  status: does
+  date: 2019-05-10

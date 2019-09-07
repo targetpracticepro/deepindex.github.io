@@ -180,7 +180,7 @@
   date: 2018-07-18
 - title: "Fake your voice"
   url: https://www.npr.org/2018/04/04/599126774/can-you-believe-your-own-ears-with-new-fake-news-tech-not-necessarily
-  cat: cre
+  cat: spe
   status: does
   date: 2018-04-04
 - title: "Design logos"
@@ -693,7 +693,7 @@
   cat: pro
   status: near
   date: 2018-11-01
-- title: "Run a hotel reception desk"
+- title: "Staff a hotel reception desk"
   url: https://www.theverge.com/2016/3/9/11180418/hilton-ibm-connie-robot-watson-hotel-concierge
   cat: pro
   status: near
@@ -2348,7 +2348,7 @@
   cat: spe
   status: near
   date: 2016-07-06
-- title: "Spot fake news"
+- title: "Spot fake news on the Internet"
   url: http://uk.businessinsider.com/spotting-fake-news-with-ai-2017-12
   cat: spe
   status: near
@@ -3154,7 +3154,7 @@
   date: 2019-05-15
 - title: "Fake Joe Rogan's voice"
   url: https://www.theverge.com/2019/5/17/18629024/joe-rogan-ai-fake-voice-clone-deepfake-dessa
-  cat: cre
+  cat: spe
   status: does
   date: 2019-05-17
 - title: "Create talking heads from single photos"
@@ -3237,3 +3237,143 @@
   cat: cre
   status: does
   date: 2019-05-10
+- title: "Slowly forget a human face"
+  url: https://www.vice.com/en_us/article/evym4m/ai-told-me-human-face-neural-networks
+  cat: oth
+  status: does
+  date: 2019-06-03
+- title: "Tell police when suspects are hiding the truth"
+  url: https://www.bloomberg.com/news/articles/2019-06-29/face-reading-ai-will-tell-police-when-suspects-are-hiding-truth
+  cat: sec
+  status: near
+  date: 2019-06-29
+- title: "Simulate the evolution of the universe"
+  url: https://thenextweb.com/artificial-intelligence/2019/06/26/the-first-ai-capable-of-simulating-the-universe-works-so-well-its-scary/
+  cat: sci
+  status: wins
+  date: 2019-06-26
+- title: "Detect Photoshopped photos"
+  url: https://www.engadget.com/2019/06/14/adobe-ai-manipulated-images-faces-photoshop/
+  cat: vis
+  status: does
+  date: 2019-06-14
+- title: "Fake Bill Gates' voice"
+  url: https://www.theverge.com/2019/6/10/18659897/ai-voice-clone-bill-gates-facebook-melnet-speech-generation
+  cat: spe
+  status: does
+  date: 2019-06-10
+- title: "Coach you at PowerPoint presentations"
+  url: https://techcrunch.com/2019/06/18/microsofts-powerpoint-will-use-ai-to-make-you-a-better-public-speaker/
+  cat: adm
+  status: does
+  date: 2019-06-18
+- title: "Transcribe interviews and meetings"
+  url: https://www.forbes.com/sites/jeanbaptiste/2019/06/19/ceo-tech-talk-how-otter-ai-uses-artificial-intelligence-to-automatically-transcribe-speech-to-text/
+  cat: spe
+  status: does
+  date: 2019-06-19
+- title: "Guess your face from your voice"
+  url: https://www.fastcompany.com/90357561/this-ai-guesses-human-faces-based-only-on-their-voices
+  cat: sec
+  status: near
+  date: 2019-06-06
+- title: "Create complex sketches and paintings"
+  url: https://www.telegraph.co.uk/science/2019/06/02/meet-ai-da-robot-artist-giving-real-painters-run-money/
+  cat: rob
+  status: does
+  date: 2019-06-02
+- title: "Write and detect fake news"
+  url: https://techcrunch.com/2019/06/10/to-detect-fake-news-this-ai-first-learned-to-write-it/
+  cat: spe
+  status: does
+  date: 2019-06-10
+- title: "Detect penis doodles"
+  url: https://www.theverge.com/tldr/2019/6/17/18681733/google-ai-doodle-detector-penis-protest-moniker-mozilla
+  cat: vis
+  status: does
+  date: 2019-06-17
+- title: "Write fake UN speeches"
+  url: https://www.technologyreview.com/f/613645/ai-fake-news-deepfakes-misinformation-united-nations/
+  cat: spe
+  status: does
+  date: 2019-06-07
+- title: "Design clothes"
+  url: https://www.vice.com/en_us/article/vb9pgm/this-clothing-line-was-designed-by-ai
+  cat: cre
+  status: does
+  date: 2019-06-03
+- title: "Optimise the design of building developments" 
+  url: https://techcrunch.com/2019/06/09/spacemaker/
+  cat: pro
+  status: does
+  date: 2019-06-09
+- title: "Stop cats bringing in dead animals"
+  url: https://www.theverge.com/tldr/2019/6/30/19102430/amazon-engineer-ai-powered-catflap-prey-ben-hamm
+  cat: oth
+  status: does
+  date: 2019-06-30
+- title: "Make people in still images walk"
+  url: https://www.fastcompany.com/90362225/the-latest-leap-forward-in-visual-ai-is-downright-mesmerizing
+  cat: vis
+  status: does
+  date: 2019-06-12
+- title: "Stop you cheating at Monopoloy"
+  url: https://www.popularmechanics.com/technology/a28103370/monopoly-voice-activated-board-game/
+  cat: oth
+  status: does
+  date: 2019-06-19
+- title: "Detect thefts at checkouts"
+  url: https://www.bbc.co.uk/news/technology-48718198
+  cat: sec
+  status: does
+  date: 2019-06-21
+- title: "Give cats terrifying names"
+  url: https://www.cnet.com/news/this-ai-neural-network-gives-cats-the-terrifying-names-they-deserve/
+  cat: cre
+  status: does
+  date: 2019-06-06
+- title: "Predict gestures from audio recordings"
+  url: https://www.sciencemag.org/news/2019/06/watch-artificial-intelligence-predict-conan-o-brien-s-gestures-just-sound-his-voice
+  cat: spe
+  status: does
+  date: 2019-06-21
+- title: "Write short, high-level programs"
+  url: https://news.mit.edu/2019/toward-artificial-intelligence-that-learns-to-write-code-0614
+  cat: com
+  status: does
+  date: 2019-06-14
+- title: "Pack boxes more efficiently"
+  url: https://techxplore.com/news/2019-06-artificial-intelligence-robotic-arm.html
+  cat: rob
+  status: near
+  date: 2019-06-27
+- title: "Organise ideas and feedback from employees"
+  url: https://www.computerweekly.com/news/252464850/Etihad-Airways-uses-artificial-intelligence-to-source-ideas-from-staff
+  cat: adm
+  status: near
+  date: 2019-06-10
+- title: "Monitor changes to tax laws and regulation"
+  url: https://www.prnewswire.com/news-releases/deloitte-and-signal-ai-collaborate-to-digitize-tax-regulation-monitoring-with-artificial-intelligence-300865683.html
+  cat: fin
+  status: does
+  date: 2019-06-12
+- title: "Predict thunder and lightning"
+  url: https://www.eurekalert.org/pub_releases/2019-06/su-csp062619.php
+  cat: sci
+  status: near
+  date: 2016-06-26
+- title: "Improve the performance of 3D printers"
+  url: https://techxplore.com/news/2019-06-d-printer-powered-machine-vision.html
+  cat: rob
+  status: near
+  date: 2019-06-04
+- title: "Create images of pizza before and after cooking"
+  url: https://thenextweb.com/artificial-intelligence/2019/06/18/mit-built-a-neural-network-to-understand-pizza/
+  cat: vis
+  status: does
+  date: 2019-06-18
+- title: "Staff a bank branch"
+  url: https://www.wlrn.org/post/new-artificial-intelligence-robot-brickell-banks-newest-hire
+  cat: pro
+  status: near
+  date: 2019-06-07

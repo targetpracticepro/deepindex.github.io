@@ -54,9 +54,9 @@ layout: splash
     
     {% assign counter = counter | plus: group.size %}
   
-    <div class="col-md-4 c-div c-block-{{ block_count }}"><a name="{{ block.cat | truncatewords: 1, "" }}"></a>
+    <div class="col-md-4 c-div c-block-{{ block_count }}"><a name="{{ block.name | truncatewords: 1, "" }}"></a>
 
-    <h3 class="c-block-{{ block_count }}"><a href="#{{ block.cat | truncatewords: 1, "" }}">{{ block.cat }}</a> <small>{{ group.size }}</small></h3>
+    <h3 class="c-block-{{ block_count }}"><a href="#{{ block.name | truncatewords: 1, "" }}">{{ block.name }}</a> <small>{{ group.size }}</small></h3>
 
     {% assign entries = group | where: "status","wins" | sort_natural: "title" %}
     {% if entries.size > 0 %}

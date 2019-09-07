@@ -1,38 +1,57 @@
-- cat: "Games"
+- cat: gam
+  name: "Games"
   block: 1
-- cat: "Creative"
+- cat: cre
+  name: "Creative"
   block: 2
-- cat: "Home & lifestyle"
+- cat: hom
+  name: "Home & lifestyle"
   block: 3
-- cat: "Professional"
+- cat: pro
+  name: "Professional"
   block: 4
-- cat: "Finance"
+- cat: fin
+  name: "Finance"
   block: 5
-- cat: "Administrative"
+- cat: adm
+  name: "Administrative"
   block: 6
-- cat: "Industrial"
+- cat: ind
+  name: "Industrial"
   block: 7
-- cat: "Agriculture"
+- cat: agr
+  name: "Agriculture"
   block: 8
-- cat: "Transport"
+- cat: tra
+  name: "Transport"
   block: 9
-- cat: "Government & nonprofit"
+- cat: gov
+  name: "Government & nonprofit"
   block: 10
-- cat: "Education"
+- cat: edu
+  name: "Education"
   block: 11
-- cat: "Medicine"
+- cat: med
+  name: "Medicine"
   block: 12
-- cat: "Science"
+- cat: sci
+  name: "Science"
   block: 13
-- cat: "Security"
+- cat: sec
+  name: "Security"
   block: 14
-- cat: "Computing"
+- cat: com
+  name: "Computing"
   block: 15
-- cat: "Speech & language"
+- cat: spe
+  name: "Speech & language"
   block: 16
-- cat: "Vision"
+- cat: vis
+  name: "Vision"
   block: 17
-- cat: "Robotics"
+- cat: rob
+  name: "Robotics"
   block: 18
-- cat: "Other"
+- cat: oth
+  name: "Other"
   block: 19

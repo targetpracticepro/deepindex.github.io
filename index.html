@@ -74,7 +74,7 @@ layout: splash
       <p>---</p>
     {% endif %}
 
-    {% assign entries = group | where: "status","near" | sort_natural: "title" %}
+    {% assign entries = group | where: "status","prog" | sort_natural: "title" %}
     {% if entries.size > 0 %}
       {% for entry in entries %}
         <p><img src="/images/moon-1-w.png" class="icon" alt="" /> <a href="{{ entry.url }}">{{ entry.title }}</a></p>

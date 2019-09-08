@@ -81,42 +81,42 @@
 - title: "Play Pictionary"
   url: https://www.theverge.com/2019/2/5/18211799/pictionary-computers-ai-allen-institute-for-artificial-intelligence-iconary-common-sense
   cat: gam
-  status: near
+  status: prog
   date: 2019-02-05
 - title: "Play Mahjong"
   url: https://syncedreview.com/2019/03/18/ai-tackles-mahjong/
   cat: gam
-  status: near
+  status: prog
   date: 2019-03-18
 - title: "Play Pac-Man without eating ghosts"
   url: https://www.fastcompany.com/90255740/ibm-explores-the-intersection-of-ai-ethics-and-pac-man
   cat: gam
-  status: near
+  status: prog
   date: 2018-10-25
 - title: "Play Sonic the Hedgehog"
   url: https://techcrunch.com/2018/04/05/machine-learning-zone-openai-competition-takes-on-sonic-the-hedgehog/
   cat: gam
-  status: near
+  status: prog
   date: 2018-04-05
 - title: "Catch Xbox Live cheaters"
   url: https://thenextweb.com/artificial-intelligence/2018/07/24/microsoft-developed-an-ai-to-catch-xbox-live-cheaters/
   cat: gam
-  status: near
+  status: prog
   date: 2018-07-24
 - title: "Recruit new players"
   url: https://futurism.com/this-game-uses-artificial-intelligence-to-recruit-new-players
   cat: gam
-  status: near
+  status: prog
   date: 2018-11-16
 - title: "Orchestrate believable virtual worlds"
   url: https://www.vg247.com/2018/10/23/red-dead-redemption-2-physics-ai-euphoria-phil-hooker-interview/
   cat: gam
-  status: near
+  status: prog
   date: 2018-10-23
 - title: "Automate video game development"
   url: https://www.theverge.com/2019/3/6/18222203/video-game-ai-future-procedural-generation-deep-learning
   cat: gam
-  status: near
+  status: prog
   date: 2019-03-06
 - title: "Fake a video of someone talking"
   url: https://www.theverge.com/2017/7/12/15957844/ai-fake-video-audio-speech-obama
@@ -296,62 +296,62 @@
 - title: "Generate cat photos from scratch"
   url: https://www.livescience.com/64771-ai-generated-cats-from-hell.html
   cat: cre
-  status: near
+  status: prog
   date: 2019-02-14
 - title: "Write and produce entire songs"
   url: https://musically.com/2019/03/18/ai-music-startup-boomy-is-the-magic-instant-music-robot/
   cat: cre
-  status: near
+  status: prog
   date: 2019-03-18
 - title: "Compose indie music"
   url: https://techcrunch.com/2018/09/17/mumford-sons-beware-an-ai-can-now-write-indie-music/
   cat: cre
-  status: near
+  status: prog
   date: 2018-09-17
 - title: "Compose harmonies and melodies"
   url: https://djmag.com/news/first-pop-song-composed-artificial-intelligence-available-stream
   cat: cre
-  status: near
+  status: prog
   date: 2016-09-23
 - title: "Compose melodies and lyrics"
   url: https://www.digitalmusicnews.com/2018/10/23/song-ep-ai-lyrics-melody/
   cat: cre
-  status: near
+  status: prog
   date: 2018-10-23
 - title: "Compose and produce instrumentation"
   url: https://www.theverge.com/2017/8/27/16197196/taryn-southern-album-artificial-intelligence-interview
   cat: cre
-  status: near
+  status: prog
   date: 2017-08-27
 - title: "Write poetry"
   url: https://motherboard.vice.com/en_us/article/vvbxxd/the-poem-that-passed-the-turing-test
   cat: cre
-  status: near
+  status: prog
   date: 2015-02-15
 - title: "Write a screenplay"
   url: https://www.theguardian.com/technology/2016/jun/10/artificial-intelligence-screenplay-sunspring-silicon-valley-thomas-middleditch-ai
   cat: cre
-  status: near
+  status: prog
   date: 2016-06-10
 - title: "Write a short story"
   url: https://www.digitaltrends.com/cool-tech/japanese-ai-writes-novel-passes-first-round-nationanl-literary-prize/
   cat: cre
-  status: near
+  status: prog
   date: 2016-03-23
 - title: "Write a novel"
   url: https://singularityhub.com/2018/10/25/ai-wrote-a-road-trip-novel-is-it-a-good-read/
   cat: cre
-  status: near
+  status: prog
   date: 2018-10-25
 - title: "Design personalised clothing"
   url: https://www.technologyreview.com/s/609469/this-ai-learns-your-fashion-sense-and-invents-your-next-outfit/
   cat: cre
-  status: near
+  status: prog
   date: 2017-11-16
 - title: "Direct a movie"
   url: https://www.wired.com/story/ai-filmmaker-zone-out/
   cat: cre
-  status: near
+  status: prog
   date: 2018-11-06
 - title: "Recommend stuff to buy"
   url: https://www.wired.com/2016/05/amazons-giving-away-ai-behind-product-recommendations/
@@ -481,32 +481,32 @@
 - title: "Optimise your skincare regime"
   url: https://www.glossy.co/beauty/the-next-generation-of-beauty-devices-are-using-ai-and-iot-technology-to-entice-customers
   cat: hom
-  status: near
+  status: prog
   date: 2018-09-07
 - title: "Personalise your drinks and snacks"
   url: https://newfoodeconomy.org/artificial-intelligence-personalized-food-beverage/
   cat: hom
-  status: near
+  status: prog
   date: 2018-05-04
 - title: "Cook your meals"
   url: https://www.forbes.com/sites/eustaciahuen/2016/10/31/the-worlds-first-home-robotic-chef-can-cook-over-100-meals/
   cat: hom
-  status: near
+  status: prog
   date: 2016-10-31
 - title: "Buy stuff on your behalf"
   url: https://techcrunch.com/2014/01/18/amazon-pre-ships/
   cat: hom
-  status: near
+  status: prog
   date: 2014-01-18
 - title: "Control your entire house"
   url: https://techcrunch.com/2016/12/20/watch-mark-zuckerbergs-morgan-freeman-voiced-jarvis-ai-in-action/
   cat: hom
-  status: near
+  status: prog
   date: 2016-12-20
 - title: "Keep your jacket warm"
   url: https://www.wsj.com/articles/this-jacket-fights-the-cold-with-ai-1540565700
   cat: hom
-  status: near
+  status: prog
   date: 2018-10-26
 - title: "Tag documents in a lawsuit"
   url: https://techcrunch.com/2018/09/05/mccarthyfinch-ai-services-platform-automates-tedious-legal-tasks/
@@ -671,97 +671,97 @@
 - title: "Design better golf clubs"
   url: https://www.forbes.com/sites/erikmatuszewski/2019/01/04/callaways-new-530-epic-flash-driver-used-ai-to-design-club-face/
   cat: pro
-  status: near
+  status: prog
   date: 2019-01-04
 - title: "Coach a football team"
   url: https://www.independent.co.uk/life-style/gadgets-and-tech/news/football-ai-coach-artificial-intelligence-wingate-finchley-fc-big-bang-fair-a8742466.html
   cat: pro
-  status: near
+  status: prog
   date: 2019-01-23
 - title: "Pen rough drafts of articles"
   url: https://venturebeat.com/2019/01/03/forbes-writers-will-use-ai-to-pen-their-rough-drafts/
   cat: pro
-  status: near
+  status: prog
   date: 2019-01-03
 - title: "Come up with new product ideas"
   url: https://www.campaignlive.co.uk/article/ai-helped-unilever-discover-breakfast-dessert/1522441
   cat: pro
-  status: near
+  status: prog
   date: 2019-01-09
 - title: "Run a hot pot restaurant"
   url: https://www.scmp.com/video/technology/2171237/inside-chinas-first-ai-hot-pot-restaurant
   cat: pro
-  status: near
+  status: prog
   date: 2018-11-01
 - title: "Staff a hotel reception desk"
   url: https://www.theverge.com/2016/3/9/11180418/hilton-ibm-connie-robot-watson-hotel-concierge
   cat: pro
-  status: near
+  status: prog
   date: 2016-03-09
 - title: "Predict box office performance"
   url: https://www.vaultml.com/what-we-do.html
   cat: pro
-  status: near
+  status: prog
   date: 
 - title: "Predict fashion trends"
   url: https://www.economist.com/news/business/21725599-technology-may-be-disrupting-peculiar-business-can-data-predict-fashion-trends
   cat: pro
-  status: near
+  status: prog
   date: 2017-07-27
 - title: "Match art to potential buyers"
   url: https://www.bloomberg.com/news/articles/2018-01-25/sotheby-s-buys-machine-learning-firm-to-discern-the-art-you-love
   cat: pro
-  status: near
+  status: prog
   date: 2018-01-25
 - title: "Evaluate the performance of sportspeople"
   url: https://www.sporttechie.com/nvidia-deep-learning-video-analytics-automate-future-player-scouting/
   cat: pro
-  status: near
+  status: prog
   date: 2018-02-02
 - title: "Rewrite the news to remove bias"
   url: https://futurism.com/ai-journalist-media-bias-news-knowhere/
   cat: pro
-  status: near
+  status: prog
   date: 2018-04-06
 - title: "Schedule output for a TV channel"
   url: https://www.bbc.co.uk/rd/blog/2018-05-artificial-intelligence-broadcasting-television
   cat: pro
-  status: near
+  status: prog
   date: 2018-05-17
 - title: "Decide which movies get made"
   url: https://variety.com/2018/artisans/news/artificial-intelligence-hollywood-1202865540/
   cat: pro
-  status: near
+  status: prog
   date: 2018-07-05
 - title: "Write advertising slogans"
   url: https://www.theverge.com/tldr/2018/10/3/17931924/burger-king-ai-ads-confusion-misunderstanding
   cat: pro
-  status: near
+  status: prog
   date: 2018-10-03
 - title: "Design perfumes"
   url: https://www.timeslive.co.za/sunday-times/lifestyle/fashion-and-beauty/2018-10-27-can-ai-make-more-unique-fragrances-than-a-human-nose/
   cat: pro
-  status: near
+  status: prog
   date: 2018-10-27
 - title: "Review job applications"
   url: https://www.theverge.com/2018/10/10/17958784/ai-recruiting-tool-bias-amazon-report
   cat: pro
-  status: near
+  status: prog
   date: 2018-10-10
 - title: "Write fortune cookie messages" 
   url: https://www.washingtonpost.com/technology/2018/10/15/bizarre-thing-that-happened-when-roboticist-trained-ai-tell-someone-their-fortune/
   cat: pro
-  status: near
+  status: prog
   date: 2018-10-15
 - title: "Write a car advert"
   url: https://www.thedrum.com/news/2018/11/16/lexus-reveals-ad-created-ai-it-gimmick-no-will-it-win-any-awards-probably-not
   cat: pro
-  status: near
+  status: prog
   date: 2018-11-16
 - title: "Host a museum"
   url: https://www.nytimes.com/2018/10/25/arts/artificial-intelligence-museums.html
   cat: pro
-  status: near
+  status: prog
   date: 2018-10-25
 - title: "Detect payment fraud"
   url: https://techcrunch.com/2017/01/16/fraugster/ 
@@ -851,22 +851,22 @@
 - title: "Spot suspected money laundering"
   url: https://www.weforum.org/agenda/2019/01/how-ai-can-knock-the-starch-out-of-money-laundering/
   cat: fin
-  status: near
+  status: prog
   date: 2019-01-17
 - title: "Prepare contracts to transition from LIBOR"
   url: https://www.cbronline.com/opinion/end-of-libor
   cat: fin
-  status: near
+  status: prog
   date: 2019-03-18
 - title: "Price debt"
   url: https://www.economist.com/graphic-detail/2018/05/14/artificial-intelligence-may-change-the-way-companies-issue-debt
   cat: fin
-  status: near
+  status: prog
   date: 2018-05-14
 - title: "Power an ATM"
   url: https://www.techcentral.ie/national-australia-bank-and-microsoft-design-ai-atm/
   cat: fin
-  status: near
+  status: prog
   date: 2018-10-26
 - title: "Organise your photos"
   url: https://betanews.com/2017/06/03/google-photos-ai-archiving/ 
@@ -936,7 +936,7 @@
 - title: "Phone to make an appointment"
   url: https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html
   cat: adm
-  status: near
+  status: prog
   date: 2018-05-08
 - title: "Reduce industrial energy consumption"
   url: http://uk.businessinsider.com/google-deepmind-ai-in-every-company-data-centre-end-of-year-2016-7
@@ -1026,17 +1026,17 @@
 - title: "Run a dry cleaning business"
   url: https://futurism.com/the-byte/japanese-dry-cleaner-neural-network-business
   cat: ind
-  status: near
+  status: prog
   date: 2018-11-13
 - title: "Reduce injuries on construction sites"
   url: https://www.technologyreview.com/s/611141/ai-could-help-the-construction-industry-work-faster-and-keep-its-workforce-accident-free/
   cat: ind
-  status: near
+  status: prog
   date: 2018-06-12
 - title: "Predict when trucks will break down"
   url: https://www.defenseone.com/ideas/2018/08/how-artificial-intelligence-could-keep-us-army-vehicles-ready-action/150461/
   cat: ind
-  status: near
+  status: prog
   date: 2018-08-11
 - title: "Spray pesticides"
   url: https://www.wired.com/2016/05/future-humanitys-food-supply-hands-ai/  
@@ -1081,52 +1081,52 @@
 - title: "Manage an entire farm"
   url: https://www.forbes.com/sites/bernardmarr/2019/03/15/the-amazing-ways-john-deere-uses-ai-and-machine-vision-to-help-feed-10-billion-people/
   cat: agr
-  status: near
+  status: prog
   date: 2019-03-15
 - title: "Predict wildfires"
   url: https://www.nationalobserver.com/2019/03/18/news/researchers-look-artificial-intelligence-programs-predict-wildfires
   cat: agr
-  status: near
+  status: prog
   date: 2019-03-18
 - title: "Analyse soil samples"
   url: https://www.zdnet.com/article/ibm-researchers-help-small-farmers-test-soil-with-ai/
   cat: agr
-  status: near
+  status: prog
   date: 2018-09-05
 - title: "Pick apples"
   url: https://www.abundantrobotics.com/
   cat: agr
-  status: near
+  status: prog
   date: 
 - title: "Thin lettuces"
   url: http://about.bluerivertechnology.com/
   cat: agr
-  status: near
+  status: prog
   date: 
 - title: "Seed, water and care for plants"
   url: http://ironox.com/about.html
   cat: agr
-  status: near
+  status: prog
   date: 
 - title: "Harvest strawberries"
   url: http://www.dogtoothtech.com/about-us.html
   cat: agr
-  status: near
+  status: prog
   date: 
 - title: "Reduce the cost of fish farming"
   url: https://www.forbes.com/sites/alexknapp/2018/01/30/this-startup-is-raising-3-5-million-to-add-machine-learning-to-fish-farms/
   cat: agr
-  status: near
+  status: prog
   date: 2018-01-30
 - title: "Pollinate crops"
   url: https://www.weforum.org/agenda/2018/03/autonomous-robot-bees-are-being-patented-by-walmart
   cat: agr
-  status: near
+  status: prog
   date: 2018-03-19
 - title: "Save the bees"
   url: https://www.bbc.co.uk/news/business-46131255
   cat: agr
-  status: near
+  status: prog
   date: 2018-11-12
 - title: "Dispatch taxis"
   url: https://eng.uber.com/engineering-an-efficient-route/  
@@ -1201,42 +1201,42 @@
 - title: "Control on-demand bus services"
   url: https://www.cnbc.com/2019/03/13/artificial-intelligence-to-control-on-demand-bus-services-in-japan.html
   cat: tra
-  status: near
+  status: prog
   date: 2019-03-13
 - title: "Compete against human pilots in drone races"
   url: https://www.theverge.com/2018/9/5/17822384/ai-autonomous-drone-quadcopter-pilot-drl-drone-racing-league-2019
   cat: tra
-  status: near
+  status: prog
   date: 2018-09-05
 - title: "Control traffic lights"
   url: https://thenextweb.com/artificial-intelligence/2018/05/17/ibm-files-patent-for-ai-managed-traffic-lights/
   cat: tra
-  status: near
+  status: prog
   date: 2018-05-17
 - title: "Design a sports car"
   url: https://www.fastcompany.com/3054028/inside-the-hack-rod-the-worlds-first-ai-designed-car
   cat: tra
-  status: near
+  status: prog
   date: 2015-01-12
 - title: "Predict where you want to go"
   url: http://www.datacenterknowledge.com/machine-learning/how-mercedes-benz-uses-ai-predict-where-you-want-go
   cat: tra
-  status: near
+  status: prog
   date: 2017-09-28
 - title: "Help pilots cope with emergencies"
   url: https://www.wired.com/2017/03/ai-wields-power-make-flying-safer-maybe-even-pleasant/
   cat: tra
-  status: near
+  status: prog
   date: 2017-03-28
 - title: "Deliver pizza"
   url: http://uk.businessinsider.com/toyota-pizza-hut-team-up-for-self-driving-pizza-delivery-2018-1
   cat: tra
-  status: near
+  status: prog
   date: 2017-03-28
 - title: "Alert distracted or drowsy drivers"
   url: https://thenextweb.com/artificial-intelligence/2018/03/23/affectivas-automotive-ai-could-keep-distracted-and-drowsy-drivers-from-causing-accidents/
   cat: tra
-  status: near
+  status: prog
   date: 2018-03-23
 - title: "Generate high resolution maps"
   url: https://www.wired.com/story/how-artificial-intelligence-could-prevent-natural-disasters/
@@ -1321,62 +1321,62 @@
 - title: "Find hidden patterns in global datasets"
   url: https://techcrunch.com/2019/01/07/darpa-wants-to-build-an-ai-to-find-the-patterns-hidden-in-global-chaos/
   cat: gov
-  status: near
+  status: prog
   date: 2019-01-07
 - title: "Reduce bias in police stations and courtrooms"
   url: https://www.cnbc.com/2019/03/16/artificial-intelligence-algorithms-in-the-criminal-justice-system.html
   cat: gov
-  status: near
+  status: prog
   date: 2019-03-16
 - title: "Target care inspections"
   url: https://www.hsj.co.uk/policy-and-regulation/artificial-intelligence-to-help-cqc-spot-care-failures-/7023776.article
   cat: gov
-  status: near
+  status: prog
   date: 2018-11-13
 - title: "Help people interviewing trauma victims"
   url: https://eurekalert.org/pub_releases/2018-11/uosc-cai111518.php
   cat: gov
-  status: near
+  status: prog
   date: 2018-11-15
 - title: "Predict court cases"
   url: https://www.ucl.ac.uk/news/news-articles/1016/241016-AI-predicts-outcomes-human-rights-trials
   cat: gov
-  status: near
+  status: prog
   date: 2016-10-24
 - title: "Suggest ways to reduce pollution"
   url: https://betakit.com/tech-for-good-how-machine-learning-and-rich-data-can-help-prevent-pollution/
   cat: gov
-  status: near
+  status: prog
   date: 2018-01-11
 - title: "Triage natural disaster aerial imagery"
   url: https://www.forbes.com/sites/kalevleetaru/2018/01/20/using-ai-for-good-a-new-data-challenge-to-use-ai-to-triage-natural-disaster-aerial-imagery/#1e39b4fbd26e
   cat: gov
-  status: near
+  status: prog
   date: 2018-01-20
 - title: "Find the best place to resettle refugees"
   url: https://www.theverge.com/2018/1/18/16905962/algorithm-resettle-refugees-machine-learning-research-employment
   cat: gov
-  status: near
+  status: prog
   date: 2018-01-18
 - title: "Rate school performance"
   url: https://www.wired.co.uk/article/nudge-unit-machine-learning-algorithms-schools-ofsted-doctors-behavioural-insights
   cat: gov
-  status: near
+  status: prog
   date: 2017-12-14
 - title: "Predict government corruption"
   url: http://bigthink.com/paul-ratner/ai-researchers-develop-neural-networks-to-predict-government-corruption
   cat: gov
-  status: near
+  status: prog
   date: 2018-01-31
 - title: "Predict crime hotspots"
   url: https://www.smithsonianmag.com/innovation/artificial-intelligence-is-now-used-predict-crime-is-it-biased-180968337/
   cat: gov
-  status: near
+  status: prog
   date: 2018-03-05
 - title: "Give evidence to a Parliamentary committee"
   url: https://www.theverge.com/2018/10/12/17967752/uk-parliament-pepper-robot-invited-evidence-select-committee
   cat: gov
-  status: near
+  status: prog
   date: 2018-10-12
 - title: "Check class attendance rates"
   url: https://www.scmp.com/tech/policy/article/3002107/chinese-university-uses-ai-check-class-attendance-rates-and-find
@@ -1401,42 +1401,42 @@
 - title: "Teach people Chinese"
   url: https://wtop.com/education/2018/09/virtual-learning-using-ai-immersion-to-teach-chinese/slide/1/
   cat: edu
-  status: near
+  status: prog
   date: 2018-09-07
 - title: "Improve how we measure intelligence"
   url: https://qz.com/1329111/the-case-for-how-ai-could-kill-high-stakes-testing/
   cat: edu
-  status: near
+  status: prog
   date: 2018-07-24
 - title: "Track students' emotional states"
   url: https://thenextweb.com/artificial-intelligence/2018/05/18/chinas-orwellian-surveillance-state-turns-its-ai-powered-gaze-on-students/
   cat: edu
-  status: near
+  status: prog
   date: 2018-05-18
 - title: "Tutor kids in maths"
   url: http://hellothinkster.com/
   cat: edu
-  status: near
+  status: prog
   date: 
 - title: "Create personalised learning plans"
   url: https://www.theverge.com/2016/4/25/11492102/bill-gates-interview-education-software-artificial-intelligence
   cat: edu
-  status: near
+  status: prog
   date: 2016-04-25
 - title: "Create custom textbooks"
   url: http://contenttechnologiesinc.com/
   cat: edu
-  status: near
+  status: prog
   date: 
 - title: "Be a teaching assistant"
   url: https://www.washingtonpost.com/news/innovations/wp/2016/05/11/this-professor-stunned-his-students-when-he-revealed-the-secret-identity-of-his-teaching-assistant/
   cat: edu
-  status: near
+  status: prog
   date: 2016-05-11
 - title: "Answer any question by talking to books"
   url: https://qz.com/1252664/talk-to-books-at-ted-2018-ray-kurzweil-unveils-googles-astounding-new-search-tool-will-answer-any-question-by-reading-thousands-of-books/
   cat: edu
-  status: near
+  status: prog
   date: 2018-04-14
 - title: "Diagnose pneumonia"
   url: https://qz.com/1130687/stanford-trained-ai-to-diagnose-pneumonia-better-than-a-radiologist-in-just-two-months/
@@ -1596,122 +1596,122 @@
 - title: "Identify genetic disorders from your face"
   url: https://edition.cnn.com/2019/01/08/health/ai-technology-to-identify-genetic-disorder-from-facial-image-intl/index.html
   cat: med
-  status: near
+  status: prog
   date: 2019-01-08
 - title: "Predict cognitive ability from birth to age two"
   url: https://www.genengnews.com/news/ai-and-mri-at-birth-shown-to-predict-cognitive-ability-by-age-of-two/
   cat: med
-  status: near
+  status: prog
   date: 2019-03-18
 - title: "Turn brain activity into speech"
   url: https://www.sciencemag.org/news/2019/01/artificial-intelligence-turns-brain-activity-speech
   cat: med
-  status: near
+  status: prog
   date: 2019-01-02
 - title: "Predict whether someone is depressed"
   url: https://thenextweb.com/artificial-intelligence/2018/09/05/mits-depression-detecting-ai-might-be-its-scariest-creation-yet/
   cat: med
-  status: near
+  status: prog
   date: 2018-09-05
 - title: "Read and assess mammograms"
   url: https://qz.com/1367216/mammograms-are-seriously-flawed-the-way-we-use-them-now-ai-could-change-that/
   cat: med
-  status: near
+  status: prog
   date: 2018-09-06
 - title: "Enhance cancer pathology reports"
   url: https://techcrunch.com/2018/02/05/paige-ai-nabs-25m-inks-ip-deal-with-sloan-kettering-to-bring-machine-learning-to-cancer-pathology/
   cat: med
-  status: near
+  status: prog
   date: 2018-02-05
 - title: "Diagnose prostate cancer"
   url: https://cloud.google.com/customers/maxwell-mri/
   cat: med
-  status: near
+  status: prog
   date: 
 - title: "Diagnose common conditions"
   url: https://spectrum.ieee.org/the-human-os/biomedical/diagnostics/doc-1-apps-0
   cat: med
-  status: near
+  status: prog
   date: 2016-10-10
 - title: "Monitor outpatients"
   url: http://sensely.com/features/
   cat: med
-  status: near
+  status: prog
   date: 
 - title: "Suture a wound"
   url: https://spectrum.ieee.org/the-human-os/robotics/medical-robots/autonomous-robot-surgeon-bests-human-surgeons-in-world-first
   cat: med
-  status: near
+  status: prog
   date: 2016-05-04
 - title: "Make precise incisions"
   url: https://spectrum.ieee.org/the-human-os/biomedical/devices/in-fleshcutting-task-autonomous-robot-surgeon-beats-human-surgeons
   cat: med
-  status: near
+  status: prog
   date: 2017-10-13
 - title: "Detect falls in the home"
   url: https://www.theengineer.co.uk/radar-ai-vulnerable-healthcare/
   cat: med
-  status: near
+  status: prog
   date: 2017-12-14
 - title: "Screen for cervical cancer"
   url: https://pratt.duke.edu/news/ditch-the-speculum
   cat: med
-  status: near
+  status: prog
   date: 2017-05-31
 - title: "Predict hospital readmissions"
   url: http://hitconsultant.net/2017/12/12/partners-connected-health-ai-hospital-readmissions/
   cat: med
-  status: near
+  status: prog
   date: 2017-12-12
 - title: "Improve palliative care"
   url: https://arxiv.org/abs/1711.06402
   cat: med
-  status: near
+  status: prog
   date: 2017-11-17
 - title: "Detect suicidal thoughts"
   url: https://www.seeker.com/tech/artificial-intelligence/brain-imaging-technology-uses-machine-learning-to-identify-suicidal-thoughts
   cat: med
-  status: near
+  status: prog
   date: 2017-10-31
 - title: "Talk to people with depression"
   url: https://futurism.com/new-app-for-depression-uses-artificial-intelligence-for-therapy-treatments/
   cat: med
-  status: near
+  status: prog
   date: 2018-01-31
 - title: "Organise clinical trials"
   url: https://www.wired.com/story/meet-the-company-trying-to-democratize-clinical-trials-with-ai
   cat: med
-  status: near
+  status: prog
   date: 2018-01-30
 - title: "Detect potassium in your blood"
   url: https://www.theverge.com/2018/3/12/17109036/apple-watch-kardiaband-alivecor-ekg-reader-hyperkalemia-health-artificial-intelligence
   cat: med
-  status: near
+  status: prog
   date: 2018-03-12
 - title: "Predict leukaemia relapse"
   url: https://www.parkerici.org/2018/03/05/predicting-childhood-leukemia-relapse-using-machine-learning/?linkId=48898025
   cat: med
-  status: near
+  status: prog
   date: 2018-03-05
 - title: "Interpret echocardiograms"
   url: https://www.nature.com/articles/s41746-017-0013-1
   cat: med
-  status: near
+  status: prog
   date: 2018-03-01
 - title: "Smell illnesses in human breath"
   url: http://uk.businessinsider.com/ai-artificial-intelligence-smell-detect-illness-human-breath-2018-6
   cat: med
-  status: near
+  status: prog
   date: 2018-06-12
 - title: "Increase your longevity"
   url: https://techcrunch.com/2018/06/11/insilico-medicine-longevity/
   cat: med
-  status: near
+  status: prog
   date: 2018-06-11
 - title: "Scan your poop"
   url: https://www.cnet.com/news/ai-toilets-scan-your-poop-to-diagnose-medical-ailments/
   cat: med
-  status: near
+  status: prog
   date: 2018-11-12
 - title: "Hunt for subatomic particles"
   url: https://futurism.com/ai-is-changing-everything-even-science-itself/
@@ -1846,52 +1846,52 @@
 - title: "Predict the probability of life on other planets"
   url: https://www.firstpost.com/tech/news-analysis/artificial-intelligence-could-help-astronomers-predict-the-probability-of-life-on-other-planets-study-4418287.html
   cat: sci
-  status: near
+  status: prog
   date: 2018-04-04
 - title: "Simulate quantum systems"
   url: https://www.newscientist.com/article/2120856-ai-learns-to-solve-quantum-state-of-many-particles-at-once/
   cat: sci
-  status: near
+  status: prog
   date: 2017-02-09
 - title: "Predict earthquakes"
   url: https://www.scientificamerican.com/article/can-artificial-intelligence-predict-earthquakes/
   cat: sci
-  status: near
+  status: prog
   date: 2017-02-15
 - title: "Draft research papers"
   url: https://www.timeshighereducation.com/news/rise-research-bots-ai-software-writes-your-papers-you#survey-answer
   cat: sci
-  status: near
+  status: prog
   date: 2017-11-22
 - title: "Invent alternatives to meat"
   url: http://www.bbc.com/future/story/20171214-could-ai-help-create-a-meat-free-world
   cat: sci
-  status: near
+  status: prog
   date: 2017-12-15
 - title: "Predict disruptions in fusion reactions"
   url: https://www.princeton.edu/news/2017/12/15/artificial-intelligence-helps-accelerate-progress-toward-efficient-fusion-reactions
   cat: sci
-  status: near
+  status: prog
   date: 2017-12-15
 - title: "Explore Mars"
   url: https://www.telegraph.co.uk/science/2018/04/01/bees-mars-nasa-funds-swarm-robotic-insects-exploring-red-planet/
   cat: sci
-  status: near
+  status: prog
   date: 2018-04-01
 - title: "Predict the phases of quantum systems"
   url: https://physicsworld.com/a/machine-learning-reveals-quantum-phases-of-matter/
   cat: sci
-  status: near
+  status: prog
   date: 2018-06-12
 - title: "Accelerate drug development"
   url: http://news.mit.edu/2018/automating-molecule-design-speed-drug-development-0706
   cat: sci
-  status: near
+  status: prog
   date: 2018-07-06
 - title: "Replace animal testing for toxic chemicals"
   url: https://theconversation.com/artificial-intelligence-outperforms-the-repetitive-animal-tests-in-identifying-toxic-chemicals-99708
   cat: sci
-  status: near
+  status: prog
   date: 2018-07-25
 - title: "Enhance pixellated images"
   url: https://www.theguardian.com/technology/2017/feb/08/google-ai-system-pixelated-faces-csi
@@ -2006,122 +2006,122 @@
 - title: "Catch shoplifters in the act"
   url: https://www.nbcnews.com/mach/science/here-s-how-ai-could-help-catch-shoplifters-act-ncna984566
   cat: sec
-  status: near
+  status: prog
   date: 2019-03-18
 - title: "Spot violent online content"
   url: https://edition.cnn.com/2019/03/16/tech/ai-video-spotting-terror-violence-new-zealand/index.html
   cat: sec
-  status: near
+  status: prog
   date: 2019-03-16
 - title: "Charge people with jaywalking"
   url: https://www.caixinglobal.com/2018-11-22/ai-mistakes-bus-side-ad-for-famous-ceo-charges-her-with-jaywalkingdo-101350772.html
   cat: sec
-  status: near
+  status: prog
   date: 2018-11-22
 - title: "Predict Yakuza attacks"
   url: https://www.japantimes.co.jp/news/2018/11/03/national/media-national/fukuoka-enlists-artificial-intelligence-fight-organized-crime/
   cat: sec
-  status: near
+  status: prog
   date: 2018-11-03
 - title: "Defeat biometric security systems"
   url: https://thenextweb.com/artificial-intelligence/2018/11/15/researchers-create-master-key-fingerprints-that-can-fool-biometric-databases/
   cat: sec
-  status: near
+  status: prog
   date: 2018-11-15
 - title: "Search CCTV by height, gender or clothing"
   url: https://thenextweb.com/artificial-intelligence/2018/10/22/this-ai-can-search-for-people-by-height-gender-and-clothing-in-surveillance-videos/
   cat: sec
-  status: near
+  status: prog
   date: 2018-10-22
 - title: "Find late passengers in airports"
   url: https://www.itnews.com.au/news/singapore-airport-looks-to-facial-recognition-to-find-late-passengers-490035
   cat: sec
-  status: near
+  status: prog
   date: 2018-05-02
 - title: "Interview travellers at airports"
   url: https://www.cnbc.com/2018/05/15/lie-detectors-with-artificial-intelligence-are-future-of-border-security.html
   cat: sec
-  status: near
+  status: prog
   date: 2018-05-15
 - title: "Enhance real-time police surveillance"
   url: https://www.wsj.com/articles/artificial-intelligence-could-soon-enhance-real-time-police-surveillance-1522761813
   cat: sec
-  status: near
+  status: prog
   date: 2018-04-03
 - title: "Flag suspicious people at border crossings"
   url: https://www.fastcompany.com/40539812/new-unisys-tool-brings-machine-learning-to-border-security
   cat: sec
-  status: near
+  status: prog
   date: 2018-06-03
 - title: "Threaten our digital, physical and political security"
   url: https://maliciousaireport.com/
   cat: sec
-  status: near
+  status: prog
   date: 
 - title: "Direct drone surveillance"
   url: https://www.siliconrepublic.com/machines/scorpion-us-army-scengen-drones-uavs
   cat: sec
-  status: near
+  status: prog
   date: 2018-01-18
 - title: "Predict protests and riots"
   url: http://www.ibtimes.co.uk/cia-using-deep-learning-neural-networks-predict-social-unrest-five-days-before-it-happens-1585115
   cat: sec
-  status: near
+  status: prog
   date: 2016-10-06
 - title: "Predict who is going to commit a crime"
   url: https://futurism.com/chinas-minority-report-style-plans-will-use-ai-to-predict-who-will-commit-crimes/
   cat: sec
-  status: near
+  status: prog
   date: 2017-07-25
 - title: "Monitor the border"
   url: http://www.firstpost.com/tech/news-analysis/us-developing-system-to-protect-borders-with-artificial-intelligence-drones-and-self-driving-cars-3835915.html
   cat: sec
-  status: near
+  status: prog
   date: 2017-07-10
 - title: "Detect child abuse images"
   url: http://www.telegraph.co.uk/technology/2017/12/18/artificial-intelligence-will-detect-child-abuse-images-save/  
   cat: sec
-  status: near
+  status: prog
   date: 2017-12-18
 - title: "Help run a nuclear submarine"
   url: https://sputniknews.com/asia/201802051061362280-china-ai-subs/
   cat: sec
-  status: near
+  status: prog
   date: 2018-02-05
 - title: "Drive a police car"
   url: https://www.digitaltrends.com/cars/ford-patent-filing-outlines-a-self-driving-police-car/
   cat: sec
-  status: near
+  status: prog
   date: 2018-01-25
 - title: "Detect drug smuggling"
   url: https://english.alarabiya.net/en/News/gulf/2018/03/11/Dubai-Police-considers-using-of-artificial-intelligence-to-fight-drug-smuggling.html
   cat: sec
-  status: near
+  status: prog
   date: 2018-03-11
 - title: "Drive a tank"
   url: http://www.newsweek.com/china-shows-unmanned-tanks-driven-remote-control-eye-toward-artificial-855696
   cat: sec
-  status: near
+  status: prog
   date: 2018-03-21
 - title: "Increase military situational awareness"
   url: https://thebulletin.org/compass-new-ai-driven-situational-awareness-tool-pentagon11816
   cat: sec
-  status: near
+  status: prog
   date: 2018-05-10
 - title: "Build a virtual border wall"
   url: https://www.theguardian.com/technology/2018/jun/13/mexico-us-border-wall-surveillance-artificial-intelligence-technology
   cat: sec
-  status: near
+  status: prog
   date: 2018-06-13
 - title: "Tell if you are drunk from your phone"
   url: https://www.fastcompany.com/40583532/uber-wants-to-know-when-youre-drunk
   cat: sec
-  status: near
+  status: prog
   date: 2018-06-11
 - title: "Detect liars at border control"
   url: https://www.zdnet.com/article/artificial-intelligence-will-expose-liars-at-eu-borders/
   cat: sec
-  status: near
+  status: prog
   date: 2018-11-01
 - title: "Block spam emails"
   url: https://techcrunch.com/2017/05/31/google-says-its-machine-learning-tech-now-blocks-99-9-of-gmail-spam-and-phishing-messages/      
@@ -2186,37 +2186,37 @@
 - title: "Write AI software"
   url: https://www.technologyreview.com/s/603381/ai-software-learns-to-make-ai-software/
   cat: com
-  status: near
+  status: prog
   date: 2017-01-18
 - title: "Write unit tests"
   url: http://www.diffblue.com/
   cat: com
-  status: near
+  status: prog
   date: 
 - title: "Turn wireframes into working apps"
   url: https://thenextweb.com/apps/2017/05/26/ai-raw-design-turn-source-code/
   cat: com
-  status: near
+  status: prog
   date: 2017-05-26
 - title: "Learn how to use encryption"
   url: https://www.wired.co.uk/article/google-artificial-intelligence-encryption
   cat: com
-  status: near
+  status: prog
   date: 2016-10-31
 - title: "Learn how to use a computer"
   url: https://www.wired.com/2016/12/openais-universe-computers-learn-use-apps-like-humans/
   cat: com
-  status: near
+  status: prog
   date: 2016-12-05
 - title: "Improve your WiFi performance"
   url: https://www.networkworld.com/article/3211528/mobile-wireless/mist-uses-ai-to-improve-wireless-network-performance.html
   cat: com
-  status: near
+  status: prog
   date: 2017-07-27
 - title: "Control quantum computers"
   url: https://www.sciencedaily.com/releases/2018/10/181025113215.htm
   cat: com
-  status: near
+  status: prog
   date: 2018-10-25
 - title: "Read your lips"
   url: https://www.technologyreview.com/s/602949/ai-has-beaten-humans-at-lip-reading/
@@ -2321,57 +2321,57 @@
 - title: "Guess whether text was produced by AI"
   url: https://boingboing.net/2019/03/08/gpt-2-vs-gpt-2.html
   cat: spe
-  status: near
+  status: prog
   date: 2019-03-08
 - title: "Finish your sentences"
   url: https://www.cnbc.com/2018/05/08/google-launches-smart-compose-for-gmail.html
   cat: spe
-  status: near
+  status: prog
   date: 2018-05-08
 - title: "Exchange banter with humans"
   url: https://www.weforum.org/agenda/2018/02/trash-talk-from-an-ai-could-help-humans-cooperate-better
   cat: spe
-  status: near
+  status: prog
   date: 2018-02-05
 - title: "Translate like a native speaker"
   url: https://venturebeat.com/2017/06/27/why-ai-powered-translation-needs-a-lot-of-work/
   cat: spe
-  status: near
+  status: prog
   date: 2017-06-27
 - title: "Recognise emotions in speech"
   url: https://www.prnewswire.com/news-releases/beyond-verbal-introduces-the-empath-app-identifying-and-tracking-emotional-wellbeing-via-smartphones-300015719.html
   cat: spe
-  status: near
+  status: prog
   date: 2015-01-06
 - title: "Learn to speak like someone else"
   url: https://arstechnica.co.uk/information-technology/2016/07/luka-ai-chatbot-speaking-to-the-dead-mind-uploading/
   cat: spe
-  status: near
+  status: prog
   date: 2016-07-06
 - title: "Spot fake news on the Internet"
   url: http://uk.businessinsider.com/spotting-fake-news-with-ai-2017-12
   cat: spe
-  status: near
+  status: prog
   date: 2017-12-17
 - title: "Tell British and American accents apart"
   url: https://thenextweb.com/artificial-intelligence/2018/01/11/test-your-fake-british-or-american-accent-with-this-ai/
   cat: spe
-  status: near
+  status: prog
   date: 2018-01-11
 - title: "Decipher an ancient manuscript"
   url: https://gizmodo.com/artificial-intelligence-may-have-cracked-freaky-600-yea-1822519232
   cat: spe
-  status: near
+  status: prog
   date: 2018-01-29
 - title: "Detect toxic comments in online discussions"
   url: http://www.perspectiveapi.com/#/
   cat: spe
-  status: near
+  status: prog
   date: 
 - title: "Resist creepy laughing"
   url: https://www.theverge.com/circuitbreaker/2018/3/7/17092334/amazon-alexa-devices-strange-laughter
   cat: spe
-  status: near
+  status: prog
   date: 2018-03-07
 - title: "Find Waldo"
   url: https://www.theverge.com/circuitbreaker/2018/8/8/17665268/wheres-waldo-finding-robot-google-cloud-automl-ai
@@ -2506,72 +2506,72 @@
 - title: "Remaster old video recordings to HD"
   url: https://www.trustedreviews.com/news/ai-hd-remaster-demo-deep-space-nine-3679357
   cat: vis
-  status: near
+  status: prog
   date: 2019-03-18
 - title: "Detect deepfakes"
   url: https://medium.com/mit-technology-review/the-defense-department-has-produced-the-first-tools-for-catching-deepfakes-db03998f8b65
   cat: vis
-  status: near
+  status: prog
   date: 2018-08-09
 - title: "Fix photos where someone is blinking"
   url: https://slate.com/technology/2018/06/facebook-creates-an-ai-tool-to-correct-closed-eyes-in-photos.html
   cat: vis
-  status: near
+  status: prog
   date: 2018-06-19
 - title: "Tell whether an image has been Photoshopped"
   url: https://minyoungg.github.io/selfconsistency/
   cat: vis
-  status: near
+  status: prog
   date: 2018-09-05
 - title: "Guess your age"
   url: https://www.theverge.com/2015/4/30/8522649/microsoft-how-old-do-i-look
   cat: vis
-  status: near
+  status: prog
   date: 2015-04-30
 - title: "Recognise emotions in pictures"
   url: https://www.wired.co.uk/article/microsoft-predict-emotions-artificial-intelligence
   cat: vis
-  status: near
+  status: prog
   date: 2015-11-11
 - title: "Tell chihuahuas and muffins apart"
   url: https://medium.freecodecamp.org/chihuahua-or-muffin-my-search-for-the-best-computer-vision-api-cbda4d6b425d
   cat: vis
-  status: near
+  status: prog
   date: 2017-10-12
 - title: "Turn photos into videos"
   url: http://carlvondrick.com/tinyvideo/
   cat: vis
-  status: near
+  status: prog
   date: 2016-12-05
 - title: "Recognise partially concealed faces"
   url: https://arxiv.org/abs/1708.09317
   cat: vis
-  status: near
+  status: prog
   date: 2017-08-30
 - title: "Perform 3D imaging through walls"
   url: https://www.theregister.co.uk/2017/06/20/drones_and_wifi_see_thru_walls/ 
   cat: vis
-  status: near
+  status: prog
   date: 2017-06-20
 - title: "Sense people though walls"
   url: http://news.mit.edu/2018/artificial-intelligence-senses-people-through-walls-0612
   cat: vis
-  status: near
+  status: prog
   date: 2018-06-12
 - title: "Tell black men and women apart"
   url: https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html
   cat: vis
-  status: near
+  status: prog
   date: 2018-02-09
 - title: "Convert flat images to 3D"
   url: https://thenextweb.com/artificial-intelligence/2018/03/08/try-this-ai-experiment-that-converts-2d-images-to-3d/
   cat: vis
-  status: near
+  status: prog
   date: 2018-03-08
 - title: "Give your voice assistant a realistic avatar"
   url: https://www.rollingstone.com/culture/culture-news/mica-ai-assistant-lifelike-magic-leap-744244/
   cat: vis
-  status: near
+  status: prog
   date: 2018-10-18
 - title: "Juggle balls in mid-air"
   url: https://gizmodo.com/5786711/quadrotor-drones-can-juggle-balls-with-each-other   
@@ -2636,32 +2636,32 @@
 - title: "Use a hand to manipulate objects"
   url: https://www.engadget.com/2019/02/28/robot-hand-ai-object-manipulation/
   cat: rob
-  status: near
+  status: prog
   date: 2019-02-28
 - title: "Dance to any music"
   url: https://www.nbcnews.com/mach/video/this-mobile-robot-is-learning-to-dance-1203388995569
   cat: rob
-  status: near
+  status: prog
   date: 2018-04-05
 - title: "Ski an alpine slalom course"
   url: https://twitter.com/i/moments/963170538838376449
   cat: rob
-  status: near
+  status: prog
   date: 2018-02-12
 - title: "Play table tennis"
   url: https://www.theverge.com/2017/10/9/16448488/table-tennis-playing-robot-ai-forpheus-omron
   cat: rob
-  status: near
+  status: prog
   date: 2017-10-09
 - title: "Help robots teach themselves"
   url: https://thenextweb.com/artificial-intelligence/2018/03/02/deepminds-new-robots-learned-how-to-teach-themselves/
   cat: rob
-  status: near
+  status: prog
   date: 2018-03-02
 - title: "Put out fires"
   url: https://www.weforum.org/agenda/2018/06/this-robotic-hose-dragon-could-jet-its-way-into-burning-buildings
   cat: rob
-  status: near
+  status: prog
   date: 2018-06-12
 - title: "Animate the poo emoji"
   url: https://www.theverge.com/2017/9/12/16290210/new-iphone-emoji-animated-animoji-apple-ios-11-update 
@@ -2711,67 +2711,67 @@
 - title: "Anchor the news"
   url: https://www.cnbc.com/2018/11/16/experts-cast-doubt-on-whether-chinas-news-anchor-is-really-ai.html
   cat: oth
-  status: near
+  status: prog
   date: 2018-11-16
 - title: "Duplicate Will.i.am"
   url: https://www.joe.co.uk/music/will-i-am-hints-hes-developing-his-very-own-a-i-called-will-a-i-205820
   cat: oth
-  status: near
+  status: prog
   date: 2018-09-07
 - title: "Develop prejudices"
   url: https://www.engadget.com/2018/09/06/robots-prejudice-study-mit-cardiff/
   cat: oth
-  status: near
+  status: prog
   date: 2018-09-06
 - title: "Judge a beauty contest"
   url: https://www.wired.co.uk/article/robot-beauty-contest-beauty-ai
   cat: oth
-  status: near
+  status: prog
   date: 2017-03-02
 - title: "Learn common decency"
   url: https://techcrunch.com/2016/03/24/microsoft-silences-its-new-a-i-bot-tay-after-twitter-users-teach-it-racism/
   cat: oth
-  status: near
+  status: prog
   date: 2016-03-24
 - title: "See what you are thinking"
   url: https://www.biorxiv.org/content/biorxiv/early/2017/12/30/240317.full.pdf
   cat: oth
-  status: near
+  status: prog
   date: 2017-12-28
 - title: "Design smartphone cases"
   url: http://www.iflscience.com/technology/amazon-ai-designed-to-create-phone-cases-goes-hilariously-wrong/
   cat: oth
-  status: near
+  status: prog
   date: 2017-07-10
 - title: "Fold a t-shirt"
   url: https://www.theverge.com/2018/1/10/16865506/laundroid-laundry-folding-machine-foldimate-ces-2018
   cat: oth
-  status: near
+  status: prog
   date: 2018-01-10
 - title: "Learn common sense"
   url: https://www.technologyreview.com/s/612263/the-us-military-wants-to-teach-ai-some-basic-common-sense/
   cat: oth
-  status: near
+  status: prog
   date: 2018-10-11
 - title: "Be your friend"
   url: https://www.digitaltrends.com/cool-tech/xiaoice-microsoft-future-of-ai-assistants/
   cat: oth
-  status: near
+  status: prog
   date: 2018-11-18
 - title: "Monitor a football stadium"
   url: https://www.zdnet.com/article/corinthians-kicks-off-transformation-with-artificial-intelligence/
   cat: sec
-  status: near
+  status: prog
   date: 2018-12-21
 - title: "Analyse historial sources"
   url: https://www.qmul.ac.uk/media/news/2018/hss/analysing-history-using-artificial-intelligence.html
   cat: edu
-  status: near
+  status: prog
   date: 2018-12-19
 - title: "Assist cyber-policing operations"
   url: https://www.moneycontrol.com/news/technology/new-centre-to-help-delhi-police-use-artificial-intelligence-in-tackling-crimes-3251161.html
   cat: sec
-  status: near
+  status: prog
   date: 2018-12-04
 - title: "See clearly in difficult conditions"
   url: https://www.cambridgenetwork.co.uk/news/artificial-intelligence-moves-beyond-human-vision/
@@ -2806,32 +2806,32 @@
 - title: "Train on medical records without leaking data"
   url: https://www.technologyreview.com/the-download/612567/a-new-ai-method-can-train-on-medical-records-without-revealing-patient-data/
   cat: med
-  status: near
+  status: prog
   date: 2018-12-11
 - title: "Reliably measure flavour"
   url: https://www.theatlantic.com/health/archive/2018/12/gastrograph-flavor-goes-digital/577270/
   cat: pro
-  status: near
+  status: prog
   date: 2018-12-04
 - title: "Improve electronic health records"
   url: https://hbr.org/2018/12/using-ai-to-improve-electronic-health-records
   cat: med
-  status: near
+  status: prog
   date: 2018-12-13
 - title: "Administer the welfare state"
   url: https://foreignpolicy.com/2018/12/25/the-welfare-state-is-committing-suicide-by-artificial-intelligence/
   cat: gov
-  status: near
+  status: prog
   date: 2018-12-25
 - title: "Help nurses care for dementia patients"
   url: https://www.forbes.com/sites/japan/2018/12/19/can-ai-play-a-useful-role-in-nursing-care-this-tokyo-startup-is-leading-the-way/
   cat: med
-  status: near
+  status: prog
   date: 2018-12-19
 - title: "Use facial expressions to control a wheelchair"
   url: https://www.engadget.com/2018/12/04/intels-ai-wheelchair-can-be-controlled-by-facial-expressions/
   cat: rob
-  status: near
+  status: prog
   date: 2018-12-04
 - title: "Predict protein folding structures"
   url: https://www.bloomberg.com/news/articles/2018-12-03/alphabet-s-deepmind-ai-algorithm-wins-protein-folding-contest
@@ -2861,7 +2861,7 @@
 - title: "Help detect mental health problems"
   url: https://www.forbes.com/sites/lucysherriff/2019/03/25/how-one-company-is-using-ai-to-address-mental-health/#3c00975a1319
   cat: med
-  status: near
+  status: prog
   date: 2019-03-25
 - title: "Detect packaging errors"
   url: https://www.packagingdigest.com/inspection/ai-pkg-capq-inspection1903
@@ -2871,12 +2871,12 @@
 - title: "Predict battery life"
   url: https://techxplore.com/news/2019-03-team-life-batteries-ai.html
   cat: ind
-  status: near
+  status: prog
   date: 2019-03-25
 - title: "Allocate students to internships"
   url: https://techxplore.com/news/2019-03-ai-based-internship-placements.html
   cat: edu
-  status: near
+  status: prog
   date: 2019-03-25
 - title: "Catch rogue traders"
   url: https://www.ft.com/content/be7a5584-2ee7-11e9-80d2-7b637a9e1ba1
@@ -2891,12 +2891,12 @@
 - title: "Recommend insulin dosages"
   url: https://www.uq.edu.au/news/article/2019/03/artificial-intelligence-breakthrough-helps-diabetics-and-aviation-engines
   cat: med
-  status: near
+  status: prog
   date: 2019-03-25
 - title: "Reduce food waste"
   url: https://www.independent.co.uk/news/business/news/ai-bin-launched-food-waste-restaurants-winnow-vision-a8835736.html
   cat: ind
-  status: near
+  status: prog
   date: 2019-03-23
 - title: "Harmonise melodies"
   url: https://www.forbes.com/sites/nicolemartin1/2019/03/22/googles-new-doodle-opens-debate-about-ai-in-music/#31525bcc4b5d
@@ -2916,17 +2916,17 @@
 - title: "Turn thoughts into speech"
   url: https://www.nature.com/articles/s41586-019-1119-1
   cat: spe
-  status: near
+  status: prog
   date: 2019-04-24
 - title: "Recognise a person carrying a colour printout"
   url: https://www.technologyreview.com/f/613409/how-to-hide-from-the-ai-surveillance-state-with-a-color-printout/
   cat: sec
-  status: near
+  status: prog
   date: 2019-04-23
 - title: "Predict all-cause premature mortality"
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214365
   cat: med
-  status: near
+  status: prog
   date: 2019-03-27
 - title: "Monitor your kitchen bin"
   url: https://www.bbc.co.uk/news/av/business-47708059/artificial-intelligence-used-in-kitchen-bin
@@ -2936,7 +2936,7 @@
 - title: "Adjudicate small claims disputes"
   url: https://www.wired.com/story/can-ai-be-fair-judge-court-estonia-thinks-so/
   cat: gov
-  status: near
+  status: prog
   date: 2019-03-25
 - title: "Deepfake satellite photos"
   url: https://www.defenseone.com/technology/2019/03/next-phase-ai-deep-faking-whole-world-and-china-ahead/155944/
@@ -2961,7 +2961,7 @@
 - title: "Analyse images of brain tumours"
   url: https://medicalxpress.com/news/2019-04-artificial-intelligence-treatment-response-brain.html
   cat: med
-  status: near
+  status: prog
   date: 2019-04-03
 - title: "Help violinists improve their technique"
   cat: pro
@@ -2990,12 +2990,12 @@
 - title: "Create and trade tokenised bonds"
   url: https://icoexaminer.com/ico-news/xinfin-power-worlds-first-artificial-intelligence-bond-broker/
   cat: fin
-  status: near
+  status: prog
   date: 2019-04-05
 - title: "Optimise your e-bike performance"
   url: https://mashable.com/video/ebike-artificial-intelligence/
   cat: tra
-  status: near
+  status: prog
   date: 2019-04-01
 - title: "Model cellular dynamics"
   url: https://phys.org/news/2019-04-artificial-intelligence-cell-developmental-dynamics.html
@@ -3005,12 +3005,12 @@
 - title: "Measure population health via social media"
   url: https://globalnews.ca/news/5117599/university-of-alberta-machine-learning-twitter-health/
   cat: gov
-  status: near
+  status: prog
   date: 2019-04-01
 - title: "Optimise embryo selection for IVF"
   url: https://www.eurekalert.org/pub_releases/2019-04/wcm-aia040319.php
   cat: med
-  status: near
+  status: prog
   date: 2019-04-04
 - title: "Predict collisions and debris in orbit"
   url: https://spacenews.com/air-force-selects-slingshot-aerospace-to-bring-artificial-intelligence-into-space-surveillance/
@@ -3050,7 +3050,7 @@
 - title: "Cut the cost of drilling for oil"
   url: https://www.bloomberg.com/news/articles/2019-04-19/total-plans-to-use-artificial-intelligence-to-cut-drilling-costs
   cat: ind
-  status: near
+  status: prog
   date: 2019-04-19
 - title: "Create a new outdoor sport"
   url: https://www.washingtonpost.com/technology/2019/04/23/they-asked-artificial-intelligence-create-new-game-one-if-its-first-ideas-involved-an-exploding-frisbee/
@@ -3065,7 +3065,7 @@
 - title: "Steer hypersonic vehicles"
   url: https://newatlas.com/artificial-intelligence-hypersonic-vehicles/59378/
   cat: tra
-  status: near
+  status: prog
   date: 2019-04-22
 - title: "Design a chair"
   url: https://www.sciencetimes.com/articles/20220/20190416/the-first-chair-made-by-artificial-intelligence-debuts-in-milan-s-design-week.htm
@@ -3085,7 +3085,7 @@
 - title: "Detect corrosion on ships" 
   url: https://www.marinelog.com/news/pilot-project-uses-artificial-intelligence-to-detect-corrosion-levels/
   cat: ind
-  status: near
+  status: prog
   date: 2019-04-25
 - title: "Create never-ending death metal"
   url: https://www.sciencefocus.com/news/artificial-intelligence-creates-never-ending-death-metal/
@@ -3100,12 +3100,12 @@
 - title: "Prevent unneeded tests"
   url: https://www.escardio.org/The-ESC/Press-Office/Press-releases/artificial-intelligence-could-prevent-unneeded-tests-in-patients-with-stable-che
   cat: med
-  status: near
+  status: prog
   date: 2019-05-12
 - title: "Predict future risk of breast cancer"
   url: https://medicalxpress.com/news/2019-05-artificial-intelligence-method-future-breast.html
   cat: med
-  status: near
+  status: prog
   date: 2019-05-07
 - title: "Help you use more inclusive language"
   url: https://blogs.microsoft.com/ai/microsoft-365-intelligent-workday-productivity/
@@ -3115,7 +3115,7 @@
 - title: "Predict outcomes of orthopaedic surgery"
   url: https://www.prnewswire.com/news-releases/artificial-intelligence-may-lead-to-better-outcomes-after-joint-surgery-300851698.html
   cat: med
-  status: near
+  status: prog
   date: 2019-05-16
 - title: "Predict which clients will invest more money"
   url: https://www.investmentnews.com/article/20190507/FREE/190509946/salesforce-has-new-artificial-intelligence-tools-for-advisers
@@ -3125,7 +3125,7 @@
 - title: "Predict the function of proteins in the body"
   url: https://phys.org/news/2019-05-artificial-intelligence-proteins.html
   cat: sci
-  status: near
+  status: prog
   date: 2019-05-15
 - title: "Create market reports for used cars"
   url: https://www.autonews.com/article/20180219/RETAIL04/180219804/ford-dealers-gain-access-to-ai-tool-for-used-car-sales
@@ -3165,7 +3165,7 @@
 - title: "Make snap judgements about numbers"
   url: https://www.scientificamerican.com/article/an-ai-system-spontaneously-develops-baby-like-ability-to-gauge-big-and-small/
   cat: vis
-  status: near
+  status: prog
   date: 2019-05-08
 - title: "Work as a team in a FPS"
   url: https://www.sciencemag.org/news/2019/05/artificial-intelligence-learns-teamwork-deadly-game-capture-flag
@@ -3175,12 +3175,12 @@
 - title: "Imagine a world without cars"
   url: https://www.theverge.com/2019/5/7/18534538/ai-neural-net-car-free-biophilia-chris-harris
   cat: vis
-  status: near
+  status: prog
   date: 2019-05-17
 - title: "Learn whilst keeping patient data private"
   url: https://www.technologyreview.com/s/613520/how-ai-could-save-lives-without-spilling-secrets/
   cat: med
-  status: near
+  status: prog
   date: 2019-05-14
 - title: "Identify lung lesions on CT scans"
   url: https://www.telegraph.co.uk/technology/2019/05/07/google-says-ai-can-spot-lung-cancer-year-doctors/
@@ -3190,17 +3190,17 @@
 - title: "Monitor pollution from the world's power plants"
   url: https://earther.gizmodo.com/google-wants-to-use-ai-to-track-pollution-from-every-po-1834669673
   cat: gov
-  status: near
+  status: prog
   date: 2019-05-10
 - title: "Diagnose Parkinson's disease"
   url: https://www.ft.com/content/183c412a-6766-11e9-9adc-98bf1d35a056
   cat: med
-  status: near
+  status: prog
   date: 2019-05-07
 - title: "Translate languages in your own voice"
   url: https://www.technologyreview.com/s/613559/google-ai-language-translation/
   cat: spe
-  status: near
+  status: prog
   date: 2019-05-20
 - title: "Generate ultra-realistic fashion models"
   url: https://thenextweb.com/artificial-intelligence/2019/05/01/this-ai-generates-ultra-realistic-fashion-models-from-head-to-toe/
@@ -3215,12 +3215,12 @@
 - title: "Predict the stock market"
   url: https://metro.co.uk/2019/05/06/can-we-trust-machines-to-predict-the-stock-market-with-100-accuracy-9325480/
   cat: fin
-  status: near
+  status: prog
   date: 2019-05-06
 - title: "Automate threat hunting"
   url: https://techcrunch.com/2019/05/23/hunters-ai-raises-4-5m-for-its-autonomous-threat-hunting-solution/
   cat: sec
-  status: near
+  status: prog
   date: 2019-05-23
 - title: "Check students wrote their own essays"
   url: https://phys.org/news/2019-05-written-exam-artificial-intelligence-nab.html
@@ -3230,7 +3230,7 @@
 - title: "Tell you whether to go to A&E"
   url: https://www.huffingtonpost.co.uk/entry/artificial-intelligence-could-soon-tell-you-whether-to-go-to-ae-or-not_uk_5ce7ae5be4b05c15deaa4c7c
   cat: med
-  status: near
+  status: prog
   date: 2019-05-24
 - title: "Create a likeness of Salvador Dalí"
   url: https://www.tampabay.com/visual-arts/first-look-salvador-dalxed-comes-back-to-life-in-artificial-intelligence-with-dalxed-lives-20190509/
@@ -3245,7 +3245,7 @@
 - title: "Tell police when suspects are hiding the truth"
   url: https://www.bloomberg.com/news/articles/2019-06-29/face-reading-ai-will-tell-police-when-suspects-are-hiding-truth
   cat: sec
-  status: near
+  status: prog
   date: 2019-06-29
 - title: "Simulate the evolution of the universe"
   url: https://thenextweb.com/artificial-intelligence/2019/06/26/the-first-ai-capable-of-simulating-the-universe-works-so-well-its-scary/
@@ -3275,7 +3275,7 @@
 - title: "Guess your face from your voice"
   url: https://www.fastcompany.com/90357561/this-ai-guesses-human-faces-based-only-on-their-voices
   cat: sec
-  status: near
+  status: prog
   date: 2019-06-06
 - title: "Create complex sketches and paintings"
   url: https://www.telegraph.co.uk/science/2019/06/02/meet-ai-da-robot-artist-giving-real-painters-run-money/
@@ -3345,12 +3345,12 @@
 - title: "Pack boxes more efficiently"
   url: https://techxplore.com/news/2019-06-artificial-intelligence-robotic-arm.html
   cat: rob
-  status: near
+  status: prog
   date: 2019-06-27
 - title: "Organise ideas and feedback from employees"
   url: https://www.computerweekly.com/news/252464850/Etihad-Airways-uses-artificial-intelligence-to-source-ideas-from-staff
   cat: adm
-  status: near
+  status: prog
   date: 2019-06-10
 - title: "Monitor changes to tax laws and regulation"
   url: https://www.prnewswire.com/news-releases/deloitte-and-signal-ai-collaborate-to-digitize-tax-regulation-monitoring-with-artificial-intelligence-300865683.html
@@ -3360,12 +3360,12 @@
 - title: "Predict thunder and lightning"
   url: https://www.eurekalert.org/pub_releases/2019-06/su-csp062619.php
   cat: sci
-  status: near
+  status: prog
   date: 2016-06-26
 - title: "Improve the performance of 3D printers"
   url: https://techxplore.com/news/2019-06-d-printer-powered-machine-vision.html
   cat: rob
-  status: near
+  status: prog
   date: 2019-06-04
 - title: "Create images of pizza before and after cooking"
   url: https://thenextweb.com/artificial-intelligence/2019/06/18/mit-built-a-neural-network-to-understand-pizza/
@@ -3375,12 +3375,12 @@
 - title: "Staff a bank branch"
   url: https://www.wlrn.org/post/new-artificial-intelligence-robot-brickell-banks-newest-hire
   cat: pro
-  status: near
+  status: prog
   date: 2019-06-07
 - title: "Figure out which Beatle wrote which song"
   url: https://www.independent.co.uk/news/science/beatles-ai-lennon-mccartney-machine-learning-song-writing-a8991436.html
   cat: pro
-  status: near
+  status: prog
   date: 2019-07-06
 - title: "Remove moving objects from videos"
   url: https://thenextweb.com/apps/2019/07/17/ai-removes-moving-objects-video/
@@ -3405,22 +3405,22 @@
 - title: "Type your thoughts"
   url: https://www.bbc.co.uk/news/technology-49165713
   cat: adm
-  status: near
+  status: prog
   date: 2019-07-31
 - title: "Classify naturally confusing images"
   url: https://www.theverge.com/2019/7/19/20700481/ai-machine-learning-vision-system-naturally-occuring-adversarial-examples
   cat: vis
-  status: near
+  status: prog
   date: 2019-07-19
 - title: "Mimic the human brain"
   url: https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-ai-openai-microsoft-artificial-intelligence-funding-a9016736.html
   cat: com
-  status: near
+  status: prog
   date: 2019-07-23
 - title: "Recognise emotions from a selfie"
   url: https://thenextweb.com/artificial-intelligence/2019/07/30/this-ai-detects-11-types-of-emotions-from-a-selfie/
   cat: vis
-  status: near
+  status: prog
   date: 2019-07-30
 - title: "Speed up crowdsourced mapping"
   url: https://thenextweb.com/apps/2019/07/24/facebook-releases-ai-powered-tools-to-map-the-world/
@@ -3450,17 +3450,17 @@
 - title: "Spec and manage software projects"
   url: https://techcrunch.com/2019/07/01/tara-ai-which-uses-machine-learning-to-spec-out-and-manage-engineering-projects-nabs-10m/
   cat: com
-  status: near
+  status: prog
   date: 2019-07-01
 - title: "Translate long-lost languages"
   url: https://bigthink.com/technology-innovation/a-i-is-translating-messages-of-long-lost-languages
   cat: spe
-  status: near
+  status: prog
   date: 2019-07-14
 - title: "Autocomplete lines of source code"
   url: https://www.theregister.co.uk/2019/07/22/ai_coding_bot/
   cat: com
-  status: near
+  status: prog
   date: 2019-07-22
 - title: "Design cool t-shirts"
   url: https://www.wired.com/story/artificial-intelligence-in-fashion-design/
@@ -3475,7 +3475,7 @@
 - title: "Detect guns on CCTV"
   url: https://techcrunch.com/2019/07/01/aegis-ai/
   cat: sec
-  status: near
+  status: prog
   date: 2019-07-10
 - title: "Discourage hurtful comments on Instagram"
   url: https://www.theguardian.com/technology/2019/jul/09/instagram-bullying-new-feature-do-you-want-to-post-this
@@ -3520,7 +3520,7 @@
 - title: "Detect suicide risk online"
   url: https://www.theatlantic.com/technology/archive/2019/07/google-partners-lgbt-suicide-prevention-nonprofit/593821/
   cat: gov
-  status: near
+  status: prog
   date: 2019-07-12
 - title: "Show you an otherworldly reflection"
   url: https://www.dezeen.com/2019/07/12/ultravioletto-neural-mirror-ai-reflection-design/
@@ -3530,7 +3530,7 @@
 - title: "Design an invisibility cloak"
   url: https://futurism.com/the-byte/ai-helping-develop-invisibility-cloaks
   cat: sci
-  status: near
+  status: prog
   date: 2019-07-16
 - title: "Make sure vines get watered right"
   url: https://qz.com/1673837/artificial-intelligence-is-changing-the-way-we-farm/
@@ -3540,72 +3540,72 @@
 - title: "Detect unfair discrimination"
   url: https://www.sciencedaily.com/releases/2019/07/190710121649.htm
   cat: pro
-  status: near
+  status: prog
   date: 2019-07-10
 - title: "Predict hurricanes and cyclones"
   url: https://www.livemint.com/science/news/now-artificial-intelligence-can-help-predict-storms-cyclones-1562506841575.html
   cat: sci
-  status: near
+  status: prog
   date: 2019-07-07
 - title: "Use Twitter to see who's exercising"
   url: https://www.news-medical.net/news/20190718/Researchers-use-Twitter-and-artificial-intelligence-to-see-whoe28099s-exercising.aspx
   cat: gov
-  status: near
+  status: prog
   date: 2019-07-18
 - title: "Edit objects inside photos"
   url: https://techxplore.com/news/2019-07-artificial-intelligence-visuals-common.html
   cat: vis
-  status: near
+  status: prog
   date: 2019-07-01
 - title: "Predict acute kidney injury in burns patients"
   url: https://www.eurekalert.org/pub_releases/2019-07/uoc--rki071219.php
   cat: med
-  status: near
+  status: prog
   date: 2019-07-12
 - title: "Monitor volcanoes from space"
   url: https://phys.org/news/2019-07-artificial-intelligence-volcanoes.html
   cat: gov
-  status: near
+  status: prog
   date: 2019-07-16
 - title: "Have a hunch about business strategy"
   url: https://fortune.com/2019/07/11/artificial-intuition-node-ai-business-decisions/
   cat: pro
-  status: near
+  status: prog
   date: 2019-07-11
 - title: "Optimise crop cutting experiments"
   url: https://www.financialexpress.com/india-news/pmfby-ai-powered-agriculture-govt-uses-artificial-intelligence-to-boost-farming/1657742/
   cat: agr
-  status: near
+  status: prog
   date: 2019-07-26
 - title: "See inside living cells"
   url: https://www.quantamagazine.org/greg-johnsons-artificial-intelligence-sees-inside-living-cells-20190724/
   cat: sci
-  status: near
+  status: prog
   date: 2019-07-24
 - title: "Predict dangers on our roads"
   url: https://www.wxyz.com/getting-around-metro-detroit/sensors-artificial-intellenge-aim-to-predict-dangers-on-the-road-before-crashes
   cat: tra
-  status: near
+  status: prog
   date: 2019-07-25
 - title: "Predict traffic jams months in advance"
   url: https://www.autoexpress.co.uk/car-news/107731/artificial-intelligence-to-prevent-traffic-jams-months-in-advance
   cat: tra
-  status: near
+  status: prog
   date: 2019-08-27
 - title: "Help combat the spread of tuberculosis"
   url: https://www.livemint.com/science/health/government-explores-artificial-intelligence-to-combat-tb-1567174491650.html
   cat: med
-  status: near
+  status: prog
   date: 2019-08-30
 - title: "Talk to lonely seniors"
   url: https://www.boston25news.com/news/trending-now/feeling-lonely-artificial-intelligence-chat-bot-could-help-seniors/974893166
   cat: gov
-  status: near
+  status: prog
   date: 2019-08-10
 - title: "Give us 12-hour work weeks"
   url: https://www.cnbc.com/2019/08/30/jack-ma-ai-could-give-us-12-hour-work-weeks.html
   cat: oth
-  status: near
+  status: prog
   date: 2019-08-30
 - title: "Uncover new details about old paintings"
   url: https://techxplore.com/news/2019-08-ai-uncovers-master.html
@@ -3620,42 +3620,42 @@
 - title: "Estimate physiologic age from ECGs"
   url: https://www.tctmd.com/news/artificial-intelligence-mines-ecg-data-estimate-physiologic-age
   cat: med
-  status: near
+  status: prog
   date: 2019-08-27
 - title: "Give basic medical advice"
   url: https://www.forbes.com/sites/bernardmarr/2019/08/16/the-amazing-ways-babylon-health-is-using-artificial-intelligence-to-make-healthcare-universally-accessible/
   cat: med
-  status: near
+  status: prog
   date: 2019-08-16
 - title: "Automate feature engineering in medical datasets"
   url: https://scitechdaily.com/mit-automates-artificial-intelligence-for-medical-decision-making/
   cat: med
-  status: near
+  status: prog
   date: 2019-08-08
 - title: "Help business leaders make decisions"
   url: https://www.newsobserver.com/news/technology/article233343102.html
   cat: pro
-  status: near
+  status: prog
   date: 2019-08-05
 - title: "Schedule data center activities more efficiently"
   url: https://scienceblog.com/509769/artificial-intelligence-could-help-data-centers-run-far-more-efficiently/
   cat: com
-  status: near
+  status: prog
   date: 2019-08-22
 - title: "Be recognised as an inventor"
   url: https://www.bbc.co.uk/news/technology-49191645
   cat: oth
-  status: near
+  status: prog
   date: 2019-08-01
 - title: "Automate app production"
   url: https://www.theverge.com/2019/8/14/20805676/engineer-ai-artificial-intelligence-startup-app-development-outsourcing-humans
   cat: com
-  status: near
+  status: prog
   date: 2019-08-14
 - title: "Make machine voices sound less robotic"
   url: https://techcrunch.com/2019/08/01/dasha-ai-is-calling-so-you-dont-have-to/
   cat: spe
-  status: near
+  status: prog
   date: 2019-08-01
 - title: "Generate large, labelled training datasets"
   url: https://www.bloomberg.com/news/articles/2019-08-05/scale-ai-is-silicon-valley-s-latest-unicorn
@@ -3665,12 +3665,12 @@
 - title: "Stop people queuejumping in bars"
   url: https://www.engadget.com/2019/08/01/ai-bar-system-makes-sure-patrons-are-served-in-the-right-order/
   cat: adm
-  status: near
+  status: prog
   date: 2019-08-01
 - title: "Turn sign language gestures into speech"
   url: https://www.bbc.co.uk/news/technology-49410945
   cat: spe
-  status: near
+  status: prog
   date: 2019-08-20
 - title: "Design and create knitted garments"
   url: https://www.engadget.com/2019/08/05/ai-automated-knitting-system/
@@ -3680,37 +3680,37 @@
 - title: "Analyse everything on your screen"
   url: https://techcrunch.com/2019/08/12/polarity-raises-8-1m-for-its-ai-software-that-constantly-analyzes-employee-screens-and-highlights-key-info/
   cat: com
-  status: near
+  status: prog
   date: 2019-08-12
 - title: "Read books out loud in their authors' voices"
   url: https://www.bbc.co.uk/news/technology-49329650
   cat: spe
-  status: near
+  status: prog
   date: 2019-08-13
 - title: "Detect fake whiskies"
   url: https://www.theguardian.com/society/2019/aug/06/scientists-develop-artificial-tongue-to-detect-fake-whiskies
   cat: ind
-  status: near
+  status: prog
   date: 2019-08-06
 - title: "Mediate disputes"
   url: https://www.ft.com/content/187525d2-9e6e-11e9-9c06-a4640c9feebb
   cat: pro
-  status: near
+  status: prog
   date: 2019-08-14
 - title: "Help people play Minecraft"
   url: https://www.forbes.com/sites/mnunez/2019/08/30/facebook-is-building-an-ai-assistant-inside-minecraft/
   cat: gam
-  status: near
+  status: prog
   date: 2019-08-30
 - title: "Play football video games"
   url: https://www.technologyreview.com/s/614049/having-mastered-space-invaders-chess-and-go-ai-tackles-video-soccer/
   cat: gam
-  status: near
+  status: prog
   date: 2019-08-13
 - title: "Compose melodies from lyrics"
   url: https://venturebeat.com/2019/08/30/ai-generates-melodies-from-lyrics/
   cat: cre
-  status: near
+  status: prog
   date: 2019-08-30
 - title: "Drive a bus"
   url: https://www.ft.com/content/72bf3046-bca0-11e9-b350-db00d509634e
@@ -3720,17 +3720,17 @@
 - title: "Automate the production of small molecules"
   url: https://news.mit.edu/2019/automate-molecule-production-ai-0808
   cat: sci
-  status: near
+  status: prog
   date: 2019-08-08
 - title: "Generate kick-drum tracks"
   url: https://www.engadget.com/2019/08/05/sony-kickdrum-machine-learning-artifical-intelligence/
   cat: cre
-  status: near
+  status: prog
   date: 2019-08-05
 - title: "Make speech recognition more inclusive"
   url: https://techcrunch.com/2019/08/13/google-details-ai-work-behind-project-euphonias-more-inclusive-speech-recognition/
   cat: spe
-  status: near
+  status: prog
   date: 2019-08-13
 - title: "Turn you into an anime character"
   url: https://www.vice.com/en_us/article/evjgda/this-ai-turns-you-into-an-anime-character
@@ -3750,5 +3750,5 @@
 - title: "See through magic tricks"
   url: https://venturebeat.com/2019/08/21/researchers-attempt-to-fool-ai-with-magic-tricks/
   cat: vis
-  status: near
+  status: prog
   date: 2019-08-21

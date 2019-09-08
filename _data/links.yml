@@ -2269,10 +2269,10 @@
   status: does
   date: 2018-06-18
 - title: "Pass a reading comprehension test"
-  url: https://www.ft.com/content/8763219a-f9bc-11e7-9b32-d7d59aace167
+  url: https://www.technologyreview.com/f/613931/alibaba-has-claimed-a-new-record-in-ai-language-understanding/
   cat: spe
   status: does
-  date: 2018-01-15
+  date: 2019-07-09
 - title: "Transcribe a conversation"
   url: https://blogs.microsoft.com/ai/2016/10/18/historic-achievement-microsoft-researchers-reach-human-parity-conversational-speech-recognition
   cat: spe
@@ -2733,7 +2733,7 @@
   cat: oth
   status: near
   date: 2016-03-24
-- title: "Read your mind"
+- title: "See what you are thinking"
   url: https://www.biorxiv.org/content/biorxiv/early/2017/12/30/240317.full.pdf
   cat: oth
   status: near
@@ -3377,3 +3377,378 @@
   cat: pro
   status: near
   date: 2019-06-07
+- title: "Figure out which Beatle wrote which song"
+  url: https://www.independent.co.uk/news/science/beatles-ai-lennon-mccartney-machine-learning-song-writing-a8991436.html
+  cat: pro
+  status: near
+  date: 2019-07-06
+- title: "Remove moving objects from videos"
+  url: https://thenextweb.com/apps/2019/07/17/ai-removes-moving-objects-video/
+  cat: vis
+  status: does
+  date: 2019-07-17
+- title: "Solve a Rubik's Cube"
+  url: https://www.bbc.co.uk/news/technology-49003996
+  cat: rob
+  status: does
+  date: 2019-07-16
+- title: "Recognise numbers using a sheet of glass"
+  url: https://www.newscientist.com/article/2208975-ai-made-from-a-sheet-of-glass-can-recognise-numbers-just-by-looking/
+  cat: vis
+  status: does
+  date: 2019-07-08
+- title: "Play Poker"
+  url: https://www.theverge.com/2019/7/11/20690078/ai-poker-pluribus-facebook-cmu-texas-hold-em-six-player-no-limit
+  cat: gam
+  status: wins
+  date: 2019-07-11
+- title: "Type your thoughts"
+  url: https://www.bbc.co.uk/news/technology-49165713
+  cat: adm
+  status: near
+  date: 2019-07-31
+- title: "Classify naturally confusing images"
+  url: https://www.theverge.com/2019/7/19/20700481/ai-machine-learning-vision-system-naturally-occuring-adversarial-examples
+  cat: vis
+  status: near
+  date: 2019-07-19
+- title: "Mimic the human brain"
+  url: https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-ai-openai-microsoft-artificial-intelligence-funding-a9016736.html
+  cat: com
+  status: near
+  date: 2019-07-23
+- title: "Recognise emotions from a selfie"
+  url: https://thenextweb.com/artificial-intelligence/2019/07/30/this-ai-detects-11-types-of-emotions-from-a-selfie/
+  cat: vis
+  status: near
+  date: 2019-07-30
+- title: "Speed up crowdsourced mapping"
+  url: https://thenextweb.com/apps/2019/07/24/facebook-releases-ai-powered-tools-to-map-the-world/
+  cat: gov
+  status: does
+  date: 2019-07-24
+- title: "Turn your selfies into classical portraits"
+  url: https://www.theverge.com/tldr/2019/7/22/20703810/ai-classical-portrait-apps-selfie-web-transformation
+  cat: cre
+  status: does
+  date: 2019-07-22
+- title: "Tag the contents of your Facebook photos"
+  url: https://www.theverge.com/2019/7/3/20681231/facebook-outage-image-tags-captions-ai-machine-learning-revealed
+  cat: vis
+  status: does
+  date: 2019-07-03
+- title: "Spot AI-generated articles and tweets"
+  url: https://thenextweb.com/artificial-intelligence/2019/07/29/this-ai-tool-is-smart-enough-to-spot-ai-generated-articles-and-tweets/
+  cat: spe
+  status: does
+  date: 2019-07-29
+- title: "Tell whether a Twitter account is a bot"
+  url: https://techcrunch.com/2017/10/25/botometer-twitter-bot-hunting-probabot/
+  cat: sec
+  status: does
+  date: 2017-10-25
+- title: "Spec and manage software projects"
+  url: https://techcrunch.com/2019/07/01/tara-ai-which-uses-machine-learning-to-spec-out-and-manage-engineering-projects-nabs-10m/
+  cat: com
+  status: near
+  date: 2019-07-01
+- title: "Translate long-lost languages"
+  url: https://bigthink.com/technology-innovation/a-i-is-translating-messages-of-long-lost-languages
+  cat: spe
+  status: near
+  date: 2019-07-14
+- title: "Autocomplete lines of source code"
+  url: https://www.theregister.co.uk/2019/07/22/ai_coding_bot/
+  cat: com
+  status: near
+  date: 2019-07-22
+- title: "Design cool t-shirts"
+  url: https://www.wired.com/story/artificial-intelligence-in-fashion-design/
+  cat: cre
+  status: does
+  date: 2019-07-11
+- title: "Land a plane by sight alone"
+  url: https://www.bbc.co.uk/news/technology-48908346
+  cat: tra
+  status: does
+  date: 2019-07-08
+- title: "Detect guns on CCTV"
+  url: https://techcrunch.com/2019/07/01/aegis-ai/
+  cat: sec
+  status: near
+  date: 2019-07-10
+- title: "Discourage hurtful comments on Instagram"
+  url: https://www.theguardian.com/technology/2019/jul/09/instagram-bullying-new-feature-do-you-want-to-post-this
+  cat: adm
+  status: does
+  date: 2019-07-09
+- title: "Develop flu vaccines"
+  url: https://www.sciencealert.com/the-world-s-first-ai-developed-vaccine-could-prevent-another-horror-flu-season
+  cat: sci
+  status: does
+  date: 2019-07-13
+- title: "Protect rhinos and their caretakers"
+  url: https://www.scientificamerican.com/podcast/episode/rhinos-and-their-gamekeepers-benefit-from-a-i/
+  cat: gov
+  status: does
+  date: 2019-07-11
+- title: "Umpire a baseball game"
+  url: https://thenextweb.com/artificial-intelligence/2019/07/19/pro-baseball-league-uses-ai-umpire-for-the-first-time-coach-gets-ejected-for-arguing-with-it/
+  cat: pro
+  status: does
+  date: 2019-07-19
+- title: "Make patent attorneys more effective"
+  url: https://www.ft.com/content/80ae35aa-7711-11e9-b0ec-7dff87b9a4a2
+  cat: pro
+  status: does
+  date: 2019-07-09
+- title: "Create a 3D render from a video"
+  url: https://thenextweb.com/artificial-intelligence/2019/07/29/watch-samsungs-ai-render-photorealistic-scenes-from-video/
+  cat: vis
+  status: does
+  date: 2019-07-29
+- title: "Waste telemarketers' time"
+  url: https://thenextweb.com/shareables/2019/07/25/listen-to-this-ai-chat-up-a-frustrated-telemarketer-for-15-minutes/
+  cat: adm
+  status: does
+  date: 2019-07-25
+- title: "Preserve endangered languages and artifacts"
+  url: https://www.zdnet.com/article/now-microsoft-wants-to-use-ai-to-save-history/
+  cat: gov
+  status: does
+  date: 2019-07-12
+- title: "Detect suicide risk online"
+  url: https://www.theatlantic.com/technology/archive/2019/07/google-partners-lgbt-suicide-prevention-nonprofit/593821/
+  cat: gov
+  status: near
+  date: 2019-07-12
+- title: "Show you an otherworldly reflection"
+  url: https://www.dezeen.com/2019/07/12/ultravioletto-neural-mirror-ai-reflection-design/
+  cat: cre
+  status: does
+  date: 2019-07-12
+- title: "Design an invisibility cloak"
+  url: https://futurism.com/the-byte/ai-helping-develop-invisibility-cloaks
+  cat: sci
+  status: near
+  date: 2019-07-16
+- title: "Make sure vines get watered right"
+  url: https://qz.com/1673837/artificial-intelligence-is-changing-the-way-we-farm/
+  cat: agr
+  status: does
+  date: 2019-07-24
+- title: "Detect unfair discrimination"
+  url: https://www.sciencedaily.com/releases/2019/07/190710121649.htm
+  cat: pro
+  status: near
+  date: 2019-07-10
+- title: "Predict hurricanes and cyclones"
+  url: https://www.livemint.com/science/news/now-artificial-intelligence-can-help-predict-storms-cyclones-1562506841575.html
+  cat: sci
+  status: near
+  date: 2019-07-07
+- title: "Use Twitter to see who's exercising"
+  url: https://www.news-medical.net/news/20190718/Researchers-use-Twitter-and-artificial-intelligence-to-see-whoe28099s-exercising.aspx
+  cat: gov
+  status: near
+  date: 2019-07-18
+- title: "Edit objects inside photos"
+  url: https://techxplore.com/news/2019-07-artificial-intelligence-visuals-common.html
+  cat: vis
+  status: near
+  date: 2019-07-01
+- title: "Predict acute kidney injury in burns patients"
+  url: https://www.eurekalert.org/pub_releases/2019-07/uoc--rki071219.php
+  cat: med
+  status: near
+  date: 2019-07-12
+- title: "Monitor volcanoes from space"
+  url: https://phys.org/news/2019-07-artificial-intelligence-volcanoes.html
+  cat: gov
+  status: near
+  date: 2019-07-16
+- title: "Have a hunch about business strategy"
+  url: https://fortune.com/2019/07/11/artificial-intuition-node-ai-business-decisions/
+  cat: pro
+  status: near
+  date: 2019-07-11
+- title: "Optimise crop cutting experiments"
+  url: https://www.financialexpress.com/india-news/pmfby-ai-powered-agriculture-govt-uses-artificial-intelligence-to-boost-farming/1657742/
+  cat: agr
+  status: near
+  date: 2019-07-26
+- title: "See inside living cells"
+  url: https://www.quantamagazine.org/greg-johnsons-artificial-intelligence-sees-inside-living-cells-20190724/
+  cat: sci
+  status: near
+  date: 2019-07-24
+- title: "Predict dangers on our roads"
+  url: https://www.wxyz.com/getting-around-metro-detroit/sensors-artificial-intellenge-aim-to-predict-dangers-on-the-road-before-crashes
+  cat: tra
+  status: near
+  date: 2019-07-25
+- title: "Predict traffic jams months in advance"
+  url: https://www.autoexpress.co.uk/car-news/107731/artificial-intelligence-to-prevent-traffic-jams-months-in-advance
+  cat: tra
+  status: near
+  date: 2019-08-27
+- title: "Help combat the spread of tuberculosis"
+  url: https://www.livemint.com/science/health/government-explores-artificial-intelligence-to-combat-tb-1567174491650.html
+  cat: med
+  status: near
+  date: 2019-08-30
+- title: "Talk to lonely seniors"
+  url: https://www.boston25news.com/news/trending-now/feeling-lonely-artificial-intelligence-chat-bot-could-help-seniors/974893166
+  cat: gov
+  status: near
+  date: 2019-08-10
+- title: "Give us 12-hour work weeks"
+  url: https://www.cnbc.com/2019/08/30/jack-ma-ai-could-give-us-12-hour-work-weeks.html
+  cat: oth
+  status: near
+  date: 2019-08-30
+- title: "Uncover new details about old paintings"
+  url: https://techxplore.com/news/2019-08-ai-uncovers-master.html
+  cat: vis
+  status: does
+  date: 2019-08-30
+- title: "Predict wildfires"
+  url: https://www.pressherald.com/2019/08/10/artificial-intelligence-and-bionic-eyes-help-contain-raging-wildfires/
+  cat: gov
+  status: does
+  date: 2019-08-10
+- title: "Estimate physiologic age from ECGs"
+  url: https://www.tctmd.com/news/artificial-intelligence-mines-ecg-data-estimate-physiologic-age
+  cat: med
+  status: near
+  date: 2019-08-27
+- title: "Give basic medical advice"
+  url: https://www.forbes.com/sites/bernardmarr/2019/08/16/the-amazing-ways-babylon-health-is-using-artificial-intelligence-to-make-healthcare-universally-accessible/
+  cat: med
+  status: near
+  date: 2019-08-16
+- title: "Automate feature engineering in medical datasets"
+  url: https://scitechdaily.com/mit-automates-artificial-intelligence-for-medical-decision-making/
+  cat: med
+  status: near
+  date: 2019-08-08
+- title: "Help business leaders make decisions"
+  url: https://www.newsobserver.com/news/technology/article233343102.html
+  cat: pro
+  status: near
+  date: 2019-08-05
+- title: "Schedule data center activities more efficiently"
+  url: https://scienceblog.com/509769/artificial-intelligence-could-help-data-centers-run-far-more-efficiently/
+  cat: com
+  status: near
+  date: 2019-08-22
+- title: "Be recognised as an inventor"
+  url: https://www.bbc.co.uk/news/technology-49191645
+  cat: oth
+  status: near
+  date: 2019-08-01
+- title: "Automate app production"
+  url: https://www.theverge.com/2019/8/14/20805676/engineer-ai-artificial-intelligence-startup-app-development-outsourcing-humans
+  cat: com
+  status: near
+  date: 2019-08-14
+- title: "Make machine voices sound less robotic"
+  url: https://techcrunch.com/2019/08/01/dasha-ai-is-calling-so-you-dont-have-to/
+  cat: spe
+  status: near
+  date: 2019-08-01
+- title: "Generate large, labelled training datasets"
+  url: https://www.bloomberg.com/news/articles/2019-08-05/scale-ai-is-silicon-valley-s-latest-unicorn
+  cat: com
+  status: does
+  date: 2019-08-05
+- title: "Stop people queuejumping in bars"
+  url: https://www.engadget.com/2019/08/01/ai-bar-system-makes-sure-patrons-are-served-in-the-right-order/
+  cat: adm
+  status: near
+  date: 2019-08-01
+- title: "Turn sign language gestures into speech"
+  url: https://www.bbc.co.uk/news/technology-49410945
+  cat: spe
+  status: near
+  date: 2019-08-20
+- title: "Design and create knitted garments"
+  url: https://www.engadget.com/2019/08/05/ai-automated-knitting-system/
+  cat: rob
+  status: does
+  date: 2019-08-05
+- title: "Analyse everything on your screen"
+  url: https://techcrunch.com/2019/08/12/polarity-raises-8-1m-for-its-ai-software-that-constantly-analyzes-employee-screens-and-highlights-key-info/
+  cat: com
+  status: near
+  date: 2019-08-12
+- title: "Read books out loud in their authors' voices"
+  url: https://www.bbc.co.uk/news/technology-49329650
+  cat: spe
+  status: near
+  date: 2019-08-13
+- title: "Detect fake whiskies"
+  url: https://www.theguardian.com/society/2019/aug/06/scientists-develop-artificial-tongue-to-detect-fake-whiskies
+  cat: ind
+  status: near
+  date: 2019-08-06
+- title: "Mediate disputes"
+  url: https://www.ft.com/content/187525d2-9e6e-11e9-9c06-a4640c9feebb
+  cat: pro
+  status: near
+  date: 2019-08-14
+- title: "Help people play Minecraft"
+  url: https://www.forbes.com/sites/mnunez/2019/08/30/facebook-is-building-an-ai-assistant-inside-minecraft/
+  cat: gam
+  status: near
+  date: 2019-08-30
+- title: "Play football video games"
+  url: https://www.technologyreview.com/s/614049/having-mastered-space-invaders-chess-and-go-ai-tackles-video-soccer/
+  cat: gam
+  status: near
+  date: 2019-08-13
+- title: "Compose melodies from lyrics"
+  url: https://venturebeat.com/2019/08/30/ai-generates-melodies-from-lyrics/
+  cat: cre
+  status: near
+  date: 2019-08-30
+- title: "Drive a bus"
+  url: https://www.ft.com/content/72bf3046-bca0-11e9-b350-db00d509634e
+  cat: tra
+  status: does
+  date: 2019-08-14
+- title: "Automate the production of small molecules"
+  url: https://news.mit.edu/2019/automate-molecule-production-ai-0808
+  cat: sci
+  status: near
+  date: 2019-08-08
+- title: "Generate kick-drum tracks"
+  url: https://www.engadget.com/2019/08/05/sony-kickdrum-machine-learning-artifical-intelligence/
+  cat: cre
+  status: near
+  date: 2019-08-05
+- title: "Make speech recognition more inclusive"
+  url: https://techcrunch.com/2019/08/13/google-details-ai-work-behind-project-euphonias-more-inclusive-speech-recognition/
+  cat: spe
+  status: near
+  date: 2019-08-13
+- title: "Turn you into an anime character"
+  url: https://www.vice.com/en_us/article/evjgda/this-ai-turns-you-into-an-anime-character
+  cat: cre
+  status: does
+  date: 2019-08-01
+- title: "Play Honor of Kings"
+  url: https://venturebeat.com/2019/08/02/tencents-honor-of-kings-ai-beats-a-team-of-pros/
+  cat: gam
+  status: wins
+  date: 2019-08-02
+- title: "Turn emojis into horrible nightmares"
+  url: https://www.popularmechanics.com/technology/a28834442/ai-photoreal-emojis/
+  cat: cre
+  status: does
+  date: 2019-08-28
+- title: "See through magic tricks"
+  url: https://venturebeat.com/2019/08/21/researchers-attempt-to-fool-ai-with-magic-tricks/
+  cat: vis
+  status: near
+  date: 2019-08-21

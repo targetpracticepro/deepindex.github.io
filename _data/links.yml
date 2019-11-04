@@ -428,6 +428,11 @@
   cat: hom
   status: does
   date: 2016-08-29
+  - title: "Deconstruct why some songs just make us feel so good"
+  url: https://dl.acm.org/citation.cfm?id=3343031.3350867
+  cat: hom
+  status: does
+  date: 2019-11-04
 - title: "Predict what kind of lighting you want"
   url: https://www.thestar.com.my/tech/tech-news/2018/11/12/this-us$700-smart-lamp-comes-with-artificial-intelligence/
   cat: hom

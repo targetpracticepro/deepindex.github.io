@@ -1365,7 +1365,7 @@
   date: 2018-01-18
 - title: "Rate school performance"
   url: https://www.wired.co.uk/article/nudge-unit-machine-learning-algorithms-schools-ofsted-doctors-behavioural-insights
-  cat: gov
+  cat: edu
   status: prog
   date: 2017-12-14
 - title: "Predict government corruption"
@@ -1548,7 +1548,7 @@
   cat: med
   status: does
   date: 2017-11-14
-- title: "Predict schizophrenia"
+- title: "Predict schizophrenia from blood flow in the brain"
   url: https://www.engadget.com/2017/07/20/ibms-ai-can-predict-schizophrenia-by-looking-at-the-brains-blo/
   cat: med
   status: does
@@ -3762,3 +3762,138 @@
   cat: med
   status: does
   date: 2019-09-05
+- title: "Predict future scientific discoveries"
+  url: https://theconversation.com/how-an-ai-trained-to-read-scientific-papers-could-predict-future-discoveries-122353
+  cat: sci
+  status: near
+  date: 2019-09-23
+- title: "Pass a 12th grade science test"
+  url: https://www.vox.com/future-perfect/2019/9/13/20863269/ai-aristo-science-test-allen-institute
+  cat: sci
+  status: does
+  date: 2019-09-13
+- title: "Simulate basketball plays"
+  url: https://www.sciencemag.org/news/2019/09/watch-ai-help-basketball-coaches-outmaneuver-opposing-team
+  cat: pro
+  status: does
+  date: 2019-09-27
+- title: "Replace car headlights with drones"
+  url: https://www.dezeen.com/2019/09/26/audi-ai-trail-concept-car-design/
+  cat: tra
+  status: near
+  date: 2019-09-26
+- title: "Compose classical music live in concert"
+  url: https://www.classicfm.com/music-news/ai-concert-hosted-wcit-first-time-orchestra/
+  cat: cre
+  status: does
+  date: 2019-09-30
+- title: "Play hide-and-seek"
+  url: https://openai.com/blog/emergent-tool-use/
+  cat: gam
+  status: does
+  date: 2019-09-17
+- title: "Check for drug-supplement interactions"
+  url: https://techcrunch.com/2019/09/19/is-that-supplement-safe-to-take-this-ai-tool-scours-research-to-find-out/
+  cat: med
+  status: near
+  date: 2019-09-19
+- title: "Detect and delete penis photos"
+  url: https://www.bbc.co.uk/news/technology-49611951
+  cat: vis
+  status: near
+  date: 2019-09-06
+- title: "Predict schizophrenia from a video"
+  url: https://www.newscientist.com/article/2217018-ai-is-learning-to-diagnose-schizophrenia-from-a-smartphone-video/
+  cat: med
+  status: near
+  date: 2019-09-23
+- title: "Curate your professional network"
+  url: https://www.forbes.com/sites/frederickdaso/2019/09/27/lunchclub-an-ai-relationship-curator-startup-raises-4m-from-a16z-to-connect-professionals-offline/
+  cat: adm
+  status: near
+  date: 2019-09-27
+- title: "Detect ultra-early-stage dementia"
+  url: https://www.digitalhealth.net/2019/09/using-ai-assessment-tackle-dementia-ultra-early-stages/
+  cat: med
+  status: near
+  date: 2019-09-09
+- title: "Recognise and track primate faces in the wild"
+  url: https://www.newscientist.com/article/2215359-ai-facial-recognition-software-now-works-for-wild-chimpanzees-too/
+  cat: vis
+  status: does
+  date: 2019-09-04
+- title: "Turn you into a movie star"
+  url: https://www.technologyreview.com/f/614258/ai-app-in-china-makes-you-movie-star-risks-privacy/
+  cat: vis
+  status: does
+  date: 2019-09-04
+- title: "Fake your voice and steal your money"
+  url: https://www.itpro.co.uk/social-engineering/34308/fraudsters-use-ai-voice-manipulation-to-steal-200000
+  cat: spe
+  status: does
+  date: 2019-09-02
+- title: "Diagnose heart disease from MRI scans"
+  url: https://www.telegraph.co.uk/news/2019/09/24/ai-can-now-diagnose-heart-disease-just-four-seconds-study-shows/
+  cat: med
+  status: wins
+  date: 2019-09-24
+- title: "Detect bullying and self-harm"
+  url: https://news.sky.com/story/artificial-intelligence-being-used-in-schools-to-detect-self-harm-and-bullying-11815865
+  cat: edu
+  status: near
+  date: 2019-09-21
+- title: "Design molecules with drug-like qualities"
+  url: https://www.wired.com/story/molecule-designed-ai-exhibits-druglike-qualities/
+  cat: sci
+  status: near
+  date: 2019-09-02
+- title: "Take control of our nukes"
+  url: https://metro.co.uk/2019/09/04/artificial-intelligence-given-control-nuclear-weapons-experts-say-10686003/
+  cat: sec
+  status: near
+  date: 2019-09-04
+- title: "Improve biomedical imaging"
+  url: https://www.sciencedaily.com/releases/2019/09/190930101259.htm
+  cat: med
+  status: near
+  date: 2019-09-30
+- title: "Generate ultra-high resolution maps"
+  url: https://www.ndtv.com/india-news/using-drones-artificial-intelligence-big-data-india-to-draw-up-digital-map-with-10-cms-resolution-2101833
+  cat: gov
+  status: near
+  date: 2019-09-16
+- title: "Predict the views of social media users"
+  url: https://www.edinburghnews.scotsman.com/news/artificial-intelligence-could-predict-views-scottish-social-media-users-642095
+  cat: oth
+  status: near
+  date: 2019-09-11
+- title: "Speed up photodynamics simulations"
+  url: https://phys.org/news/2019-09-artificial-intelligence-photodynamics-simulations.html
+  cat: sci
+  status: does
+  date: 2019-09-11
+- title: "Detect romance in your text messages"
+  url: https://observer.com/2019/09/artificial-intelligence-mei-message-scanning-love/
+  cat: hom
+  status: near
+  date: 2019-09-20
+- title: "Sell you theatre tickets"
+  url: https://observer.com/2019/09/broadwai-micah-hollingworth-artificial-intelligence-theater-tickets/
+  cat: pro
+  status: near
+  date: 2019-09-18
+- title: "Improve cannabis yields"
+  url: https://www.forbes.com/sites/tomtaulli/2019/09/08/what-ai-artificial-intelligence-will-mean-for-the-cannabis-space/
+  cat: agr
+  status: near
+  date: 2019-09-08
+- title: "Predict hybrid nanoparticle structures"
+  url: https://phys.org/news/2019-09-artificial-intelligence-hybrid-nanoparticle.html
+  cat: sci
+  status: near
+  date: 2019-09-05
+- title: "Forecast manufacturing demand"
+  url: https://www.remi.ai/case-study-manufacturing-df-f100
+  cat: ind
+  status: does
+  date: 2019-09-01

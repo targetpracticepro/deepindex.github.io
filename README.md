@@ -16,4 +16,4 @@ The data is stored in [YAML](https://yaml.org/start.html) format, and each entry
 
 ## Questions?
 
-Email: [hello@deepindex.org](mailto:hello@deepindex.org])
+Email: [hello@deepindex.org](mailto:hello@deepindex.org)

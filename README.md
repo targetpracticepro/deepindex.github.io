@@ -4,7 +4,7 @@ This is the [GitHub Pages](https://pages.github.com/) repository for [deepindex.
 
 ## Adding new examples
 
-To propose a new example for inclusion on the site, first create an entry for it in [links.yml](https://github.com/deepindex/deepindex.github.io/blob/master/_data/links.yml).
+To propose a new example for inclusion on the site, first create an entry for it in our [data file](https://github.com/deepindex/deepindex.github.io/blob/master/_data/links.yml) and then [send us a pull request](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-another-users-repository).
 
 The data is stored in [YAML](https://yaml.org/start.html) format, and each entry requires the following fields:
 

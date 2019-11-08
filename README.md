@@ -11,7 +11,7 @@ The data is stored in [YAML](https://yaml.org/start.html) format, and each entry
 - `title`: How the example will be listed on the site
 - `url`: Link to a supporting paper, article or case study
 - `cat`: Code to assign a category (see the [available options](https://github.com/deepindex/deepindex.github.io/blob/master/_data/cats.yml))
-- `status`: choose from "wins", "does" or "near"
+- `status`: Choose from "wins", "does" or "near"
 - `date`: Datestamp for the supporting link, in the format YYYY-MM-DD
 
 ## Questions?

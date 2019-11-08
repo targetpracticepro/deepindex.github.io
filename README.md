@@ -1,8 +1,8 @@
 ![DeepIndex](https://raw.githubusercontent.com/deepindex/deepindex.github.io/master/images/splash.png)
 
-This is the GitHub Pages repository for [deepindex.org](https://deepindex.org).
+This is the GitHub Pages repository for [deepindex.org](https://deepindex.org)
 
-## Adding entries
+## Adding new examples
 
 To add a new example to the site, create an entry for it in [links.yml](https://github.com/deepindex/deepindex.github.io/blob/master/_data/links.yml).
 

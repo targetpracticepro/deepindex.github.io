@@ -1,10 +1,10 @@
 ![DeepIndex](https://raw.githubusercontent.com/deepindex/deepindex.github.io/master/images/splash.png)
 
-This is the GitHub Pages repository for [deepindex.org](https://deepindex.org)
+This is the [GitHub Pages](https://pages.github.com/) repository for [deepindex.org](https://deepindex.org).
 
 ## Adding new examples
 
-To add a new example to the site create an entry for it in [links.yml](https://github.com/deepindex/deepindex.github.io/blob/master/_data/links.yml).
+To propose a new example for inclusion on the site, first create an entry for it in [links.yml](https://github.com/deepindex/deepindex.github.io/blob/master/_data/links.yml).
 
 The data is stored in [YAML](https://yaml.org/start.html) format, and each entry requires the following fields:
 
@@ -14,8 +14,10 @@ The data is stored in [YAML](https://yaml.org/start.html) format, and each entry
 - `status`: Choose from "wins", "does" or "near"
 - `date`: Datestamp for the supporting link, in the format YYYY-MM-DD
 
-To help avoid duplicates please do a quick check that your example isn't already listed before you add it! 😊
+To help avoid duplicates please do a [quick check](https://deepindex.org) to make sure your example isn't already listed before you submit it! 😊
+
+Once you're done send us a pull request and we'll review it ASAP.
 
 ## Questions?
 
-Email: [hello@deepindex.org](mailto:hello@deepindex.org)
+Email: [hello@deepindex.org](mailto:hello@deepindex.org).

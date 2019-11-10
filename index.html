@@ -34,9 +34,11 @@ layout: splash
     </div>
     <div class="col-md-4 splash">
       <h4>Legend</h4>
-      <p><img src="/images/moon-3-b.png" class="icon" alt="" /> Crushing it</p>
-      <p><img src="/images/moon-2-b.png" class="icon" alt="" /> Capable</p>      
-      <p><img src="/images/moon-1-b.png" class="icon" alt="" /> Getting there</p>
+      
+      {% for stat in site.data.stats %}
+      <p><img src="/images/moon-{{ stat.level }}-b.png" class="icon" alt="" /> {{ stat.title }}</p>
+      {% endfor %}
+
       <p class="visible-xs visible-sm">&nbsp;</p>
     </div>
   </div>

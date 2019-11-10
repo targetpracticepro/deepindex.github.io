@@ -39,7 +39,7 @@
   status: wins
   date: 2018-03-01
 - title: "Play StarCraft"
-  url: https://thenextweb.com/artificial-intelligence/2019/01/25/how-deepminds-ai-defeated-top-players-at-starcraft-ii/
+  url: https://www.theverge.com/2019/10/30/20939147/deepmind-google-alphastar-starcraft-2-research-grandmaster-level
   cat: gam
   status: wins
   date: 2019-01-25
@@ -3897,3 +3897,133 @@
   cat: hom
   status: does
   date: 2019-11-04
+- title: "Restore ancient Greek texts"
+  url: https://techcrunch.com/2019/10/18/ai-is-helping-scholars-restore-ancient-greek-texts-on-stone-tablets/
+  cat: spe
+  status: does
+  date: 2019-10-19
+- title: "Count the size of large crowds"
+  url: https://www.newscientist.com/article/2220546-ai-could-help-work-out-how-many-people-are-in-large-crowds/
+  cat: vis
+  status: near
+  date: 2019-10-21
+- title: "Post comments on news articles"
+  url: https://www.vice.com/en_us/article/d3a4mk/microsoft-used-machine-learning-to-make-a-bot-that-comments-on-news-articles-for-some-reason
+  cat: spe
+  status: does
+  date: 2019-10-04
+- title: "Solve the three-body problem"
+  url: https://www.newscientist.com/article/2221399-ai-could-solve-baffling-three-body-problem-that-stumped-isaac-newton/
+  cat: sci
+  status: near
+  date: 2019-10-29
+- title: "Win a climate change essay contest"
+  url: https://www.vox.com/future-perfect/2019/10/4/20895836/ai-climate-change-economist-essay-contest-gpt2
+  cat: spe
+  status: near
+  date: 2019-10-04
+- title: "Help a paralysed person walk"
+  url: https://www.telegraph.co.uk/science/2019/10/03/exoskeleton-driven-ai-helps-paralysed-man-walk/
+  cat: rob
+  status: near
+  date: 2019-10-03
+- title: "Put real-time captions on your phone"
+  url: https://www.independent.co.uk/life-style/gadgets-and-tech/news/google-pixel-4-android-10-features-live-caption-release-date-ai-a9127651.html
+  cat: spe
+  status: does
+  date: 2019-10-01
+- title: "Allow a paralysed person to handwrite"
+  url: https://www.sciencemag.org/news/2019/10/ai-allows-paralyzed-person-handwrite-his-mind
+  cat: oth
+  status: near
+  date: 2019-10-23
+- title: "Filter out trash talk on Xbox live"
+  url: https://www.bbc.co.uk/news/technology-50054725
+  cat: gam
+  status: does
+  date: 2019-10-15
+- title: "Develop new protein therapeutics"
+  url: https://techcrunch.com/2019/10/22/labgenius/
+  cat: sci
+  status: near
+  date: 2019-10-23
+- title: "Monitor extreme ultraviolet energy from the sun"
+  url: https://www.theregister.co.uk/2019/10/03/nasa_sun_ai/
+  cat: sci
+  status: does
+  date: 2019-10-03
+- title: "Help you brush your teeth properly"
+  url: https://www.theverge.com/circuitbreaker/2019/10/25/20932250/oral-b-genius-x-connected-toothbrush-ai-artificial-intelligence
+  cat: hom
+  status: does
+  date: 2019-10-25
+- title: "Optimise radio access networks"
+  url: https://www.ericsson.com/en/news/2019/10/ericsson-ai-to-boost-ran
+  cat: com
+  status: does
+  date: 2019-10-21
+- title: "Filter UK visa applications"
+  url: https://www.theguardian.com/uk-news/2019/oct/29/ai-system-for-granting-uk-visas-is-biased-rights-groups-claim
+  cat: gov
+  status: near
+  date: 2019-10-29
+- title: "Recognise smells"
+  url: https://www.engadget.com/2019/10/24/google-researchers-train-ai-smells/
+  cat: oth
+  status: near
+  date: 2019-10-24
+- title: "Track customer service in restaurants"
+  url: https://www.cnbc.com/2019/10/16/outback-steakhouse-is-testing-ai-to-help-improve-customer-service.html
+  cat: pro
+  status: near
+  date: 2019-10-16
+- title: "Monitor examination centres"
+  url: https://economictimes.indiatimes.com/tech/ites/tcs-ion-launches-command-centre-in-chennai/articleshow/71615997.cms
+  cat: edu
+  status: does
+  date: 2019-10-17
+- title: "Replace exams"
+  url: https://www.telegraph.co.uk/news/2019/10/04/exams-could-replaced-artificial-intelligence-future-private/
+  cat: edu
+  status: near
+  date: 2019-10-04
+- title: "Detect colorectal polyps"
+  url: https://finance.yahoo.com/news/medtronic-launches-first-artificial-intelligence-214505990.html
+  cat: med
+  status: near
+  date: 2019-10-17
+- title: "Predict Thyroid Cancer Risk in Ultrasound"
+  url: https://www.news18.com/news/lifestyle/artificial-intelligence-to-predict-thyroid-cancer-risk-in-ultrasound-2363115.html
+  cat: med
+  status: near
+  date: 2019-10-26
+- title: "Predict wait times at airport security"
+  url: https://www.prnewswire.com/news-releases/airports-are-using-artificial-intelligence-ai-to-take-some-stress-out-of-holiday-travel-300948434.html
+  cat: tra
+  status: does
+  date: 2019-10-30
+- title: "Increase the productivity of tea workers"
+  url: https://www.news18.com/news/india/armed-with-artificial-intelligence-assam-company-looks-to-improve-productivity-of-tea-workers-2352187.html
+  cat: agr
+  status: near
+  date: 2019-10-19
+- title: "Develop hyper-compressible materials"
+  url: https://www.core77.com/posts/90758/Engineers-Develop-a-Hyper-Compressible-Material-Using-Artificial-Intelligence
+  cat: sci
+  status: does
+  date: 2019-10-15
+- title: "Improve your commute"
+  url: https://www.wlrn.org/post/broward-will-use-artificial-intelligence-improve-your-commute-think-it-county-brain
+  cat: tra
+  status: near
+  date: 2019-10-18
+- title: "Issue fatwas"
+  url: https://gulfnews.com/uae/dubai-launches-worlds-first-artificial-intelligence-fatwa-service-1.67466584
+  cat: pro
+  status: near
+  date: 2019-10-29
+- title: "Improve control of prosthetic hands"
+  url: https://www.prnewswire.com/news-releases/artificial-intelligence-improves-control-of-prosthetic-hands-300929447.html
+  cat: rob
+  status: near
+  date: 2019-10-02

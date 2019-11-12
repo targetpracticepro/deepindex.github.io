@@ -143,6 +143,11 @@
   cat: cre
   status: does
   date: 2019-02-15
+  - title: "Generate real-time lip sync for live 2-D animation"
+  url: https://github.com/deepalianeja/CharacterLipSync
+  cat: cre
+  status: does
+  date: 2019-11-05
 - title: "Generate fake Airbnb listings"
   url: https://futurism.com/fake-airbnb-listings-machine-learning
   cat: cre

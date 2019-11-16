@@ -143,7 +143,7 @@
   cat: cre
   status: does
   date: 2019-02-15
-  - title: "Generate real-time lip sync for live 2-D animation"
+- title: "Lip-sync animations in real time"
   url: https://github.com/deepalianeja/CharacterLipSync
   cat: cre
   status: does

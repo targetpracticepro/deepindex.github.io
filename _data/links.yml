@@ -4032,3 +4032,173 @@
   cat: rob
   status: near
   date: 2019-10-02
+- title: "Produce placental diagnostic reports"
+  url: https://www.eurekalert.org/pub_releases/2019-11/ps-uai112219.php
+  cat: med
+  status: near
+  date: 2019-11-25
+- title: "Predict the outcome of traumatic brain injury"
+  url: https://www.eurekalert.org/pub_releases/2019-11/uoh-aia112619.php
+  cat: med
+  status: near
+  date: 2019-11-27
+- title: "Engineer improved AAV capsids for gene therapy"
+  url: https://www.healtheuropa.eu/artificial-intelligence-has-potential-to-transform-gene-therapy/95354/
+  cat: sci
+  status: near
+  date: 2019-11-29
+- title: "Recommend a whisky"
+  url: https://www.just-drinks.com/news/diageo-launches-artificial-intelligence-tool-to-match-consumers-to-scotch-whisky_id129820.aspx
+  cat: hom
+  status: does
+  date: 2019-11-28
+- title: "Spot pests on crops"
+  url: https://www.businessinsider.com/farmers-artificial-intelligence-in-agriculture-catch-disease-pests?r=US&IR=T
+  cat: agr
+  status: does
+  date: 2019-11-08
+- title: "Improve airline punctuality"
+  url: https://www.standardmedia.co.ke/business/article/2001350029/british-airways-uses-artificial-intelligence-to-improve-punctuality
+  cat: tra
+  status: does
+  date: 2019-11-20
+- title: "Create the perfect Nike commercial"
+  url: https://thenextweb.com/artificial-intelligence/2019/11/19/ai-creates-the-perfectish-nike-commercial-after-studying-7-years-of-ads/
+  cat: cre
+  status: does
+  date: 2019-11-19
+- title: "Identify and track bird species"
+  url: https://e360.yale.edu/digest/new-artificial-intelligence-helps-to-identify-track-bird-species
+  cat: gov
+  status: does
+  date: 2019-11-01
+- title: "Improve safety on ride-sharing apps"
+  url: https://thewest.com.au/news/perth/ola-rolls-out-world-first-safety-trial-in-perth-using-artificial-intelligence-ng-b881379382z
+  cat: tra
+  status: near
+  date: 2019-11-11
+- title: "Increase the output of copper mines"
+  url: https://www.ft.com/content/88628dc0-fe32-11e9-be59-e49b2a136b8d
+  cat: ind
+  status: does
+  date: 2019-11-04
+- title: "Run a fully automated biofoundry"
+  url: https://www.sciencedaily.com/releases/2019/11/191113105714.htm
+  cat: ind
+  status: near
+  date: 2019-11-13
+- title: "Create new gins"
+  url: https://www.beveragedaily.com/Article/2019/11/07/Distillery-entrepreneurs-launch-artificial-intelligence-gin
+  cat: pro
+  status: does
+  date: 2019-11-07
+- title: "Conduct stock market surveillance"
+  url: https://www.globenewswire.com/news-release/2019/11/07/1943084/0/en/Nasdaq-Launches-Artificial-Intelligence-for-Surveillance-Patterns-on-U-S-Stock-Market.html
+  cat: fin
+  status: does
+  date: 2019-11-07
+- title: "Determine whether immunotherapy is working"
+  url: https://www.sciencedaily.com/releases/2019/11/191123100631.htm
+  cat: med
+  status: near
+  date: 2019-11-23
+- title: "Predict if you will die from your ECG"
+  url: https://www.newscientist.com/article/2222907-ai-can-predict-if-youll-die-soon-but-weve-no-idea-how-it-works/
+  cat: med
+  status: does
+  date: 2019-11-11
+- title: "Preserve your voice"
+  url: https://www.theguardian.com/technology/2019/nov/09/centre-tackle-speech-loss-preserving-voices-artificial-intelligence
+  cat: spe
+  status: near
+  date: 2019-11-09
+- title: "Rephrase your emails"
+  url: https://www.theguardian.com/lifeandstyle/2019/nov/07/you-sound-worried-would-you-let-an-ai-change-the-tone-of-your-emails
+  cat: adm
+  status: does
+  date: 2019-11-07
+- title: "Recreate videos from brainwaves"
+  url: https://www.newscientist.com/article/2224866-ai-recreates-videos-people-are-watching-by-reading-their-minds/
+  cat: vis
+  status: near
+  date: 2019-11-26
+- title: "Make people in still images dance"
+  url: https://thenextweb.com/artificial-intelligence/2019/11/05/nvidias-new-ai-can-make-anyone-move-like-jagger-with-just-a-single-photo/
+  cat: vis
+  status: does
+  date: 2019-11-05
+- title: "Predict problems at oil refineries"
+  url: https://www.ft.com/content/bfbac636-ee8b-11e9-a55a-30afa498db1b
+  cat: ind
+  status: does
+  date: 2019-11-11
+- title: "Diagnose dogs with chronic pain"
+  url: https://www.sciencedaily.com/releases/2019/11/191107112921.htm
+  cat: sci
+  status: near
+  date: 2019-11-07
+- title: "Identify Shakespeare's contribution to Henry VIII"
+  url: https://thenextweb.com/artificial-intelligence/2019/11/27/ai-shakespeare-henry-viii/
+  cat: spe
+  status: does
+  date: 2019-11-27
+- title: "Discover that Earth orbits the Sun"
+  url: https://www.nature.com/articles/d41586-019-03332-7
+  cat: sci
+  status: does
+  date: 2019-11-07
+- title: "Isolate the vocals in any song"
+  url: https://www.theverge.com/2019/11/5/20949338/vocal-isolation-ai-machine-learning-deezer-spleeter-automated-open-source-tensorflow
+  cat: spe
+  status: does
+  date: 2019-11-05
+- title: "Predict your bank balance"
+  url: https://www.finextra.com/newsarticle/34710/td-bank-to-embed-ai-in-mobile-app/mobile
+  cat: fin
+  status: near
+  date: 2019-11-06
+- title: "Detect and prevent problem gambling"
+  url: https://www.bbc.co.uk/news/technology-50486835
+  cat: pro
+  status: does
+  date: 2019-11-20
+- title: "Decide what you see on Instagram"
+  url: https://www.theverge.com/2019/11/25/20977734/instagram-ai-algorithm-explore-tab-machine-learning-method
+  cat: pro
+  status: does
+  date: 2019-11-25
+- title: "Monitor dams and bridges"
+  url: https://www.sciencedaily.com/releases/2019/11/191118115343.htm
+  cat: ind
+  status: near
+  date: 2019-11-18
+- title: "Digitally paste products into TV shows"
+  url: https://www.newscientist.com/article/2223621-ai-is-digitally-pasting-products-into-your-favourite-films-and-tv/
+  cat: vis
+  status: does
+  date: 2019-11-18
+- title: "Help find missing people"
+  url: https://www.bbc.co.uk/news/uk-scotland-50262650
+  cat: gov
+  status: does
+  date: 2019-11-04
+- title: "Detect suicide risk on Weibo"
+  url: https://www.bbc.co.uk/news/technology-50314819
+  cat: gov
+  status: does
+  date: 2019-11-09
+- title: "Increase sales via chatbot interactions"
+  url: https://www.forbes.com/sites/gilpress/2019/11/25/ai-stats-news-chatbots-increase-sales-by-67-but-87-of-consumers-prefer-humans/
+  cat: pro
+  status: does
+  date: 2019-11-25
+- title: "Learn to flirt"
+  url: https://www.marketplace.org/2019/11/07/can-ai-learn-to-flirt/
+  cat: cre
+  status: near
+  date: 2019-11-07
+- title: "Find a rare diamond in Minecraft"
+  url: https://www.scientificamerican.com/article/ai-takes-on-popular-minecraft-game-in-machine-learning-contest/
+  cat: gam
+  status: near
+  date: 2019-11-29

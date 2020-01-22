@@ -2898,7 +2898,7 @@
   cat: med
   status: prog
   date: 2019-03-25
-- title: "Reduce food waste"
+- title: "Reduce food waste in restaurants"
   url: https://www.independent.co.uk/news/business/news/ai-bin-launched-food-waste-restaurants-winnow-vision-a8835736.html
   cat: ind
   status: prog
@@ -4327,3 +4327,8 @@
   cat: tra
   status: does
   date: 2019-12-11
+- title: "Reduce food waste at Davos"
+  url: https://www.weforum.org/agenda/2020/01/ai-bin-trash-food-waste-davos-2020
+  cat: ind
+  status: does
+  date: 2020-01-17

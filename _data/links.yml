@@ -4202,3 +4202,128 @@
   cat: gam
   status: near
   date: 2019-11-29
+- title: "Preside over court hearings"
+  url: https://www.express.co.uk/news/science/1214019/ai-china-cyber-court-artificial-intelligence-judges-verdicts-chat-app
+  cat: gov
+  status: near
+  date: 2019-12-06
+- title: "Improve MRI detection of ADHD"
+  url: https://eurekalert.org/pub_releases/2019-12/rson-aib120919.php
+  cat: med
+  status: near
+  date: 2019-12-11
+- title: "Detect acute myeloid leukemia from blood cells"
+  url: https://www.news-medical.net/news/20191220/Artificial-intelligence-can-detect-AML-with-high-reliability.aspx
+  cat: med
+  status: near
+  date: 2019-12-20
+- title: "Identify features associated with cancer recurrence"
+  url: https://www.eurekalert.org/pub_releases/2019-12/r-aii121519.php
+  cat: med
+  status: near
+  date: 2019-12-18
+- title: "Optimise spray-on solar cell technology"
+  url: https://cleantechnica.com/2019/12/30/researchers-use-artificial-intelligence-to-optimize-spray-on-solar-cell-technology/
+  cat: sci
+  status: near
+  date: 2019-12-30
+- title: "Personalise your Starbucks experience"
+  url: https://www.fool.com/investing/2019/12/04/investing-artificial-intelligence-boost-starbucks.aspx
+  cat: hom
+  status: does
+  date: 2019-12-04
+- title: "Counter hate speech online"
+  url: https://www.forbes.com/sites/afdhelaziz/2019/12/25/the-power-of-purpose-how-we-counter-hate-used-artificial-intelligence-to-battle-hate-speech-online/
+  cat: sec
+  status: does
+  date: 2019-12-25
+- title: "Stop you crashing your car"
+  url: https://www.digitaltrends.com/cars/bosch-developing-artificial-intelligence-powered-in-car-monitoring-system/
+  cat: tra
+  status: near
+  date: 2019-12-16
+- title: "Coordinate drone swarm search-and-rescue ops"
+  url: https://www.nextgov.com/emerging-tech/2019/12/pentagon-wants-ai-driven-drone-swarms-search-and-rescue-ops/162113/
+  cat: sec
+  status: near
+  date: 2019-12-26
+- title: "Optimise cannabis cultivation"
+  url: https://gritdaily.com/injecting-artificial-intelligence-into-cannabis-cultivation/
+  cat: agr
+  status: does
+  date: 2019-12-21
+- title: "Monitor the quality of pizzas"
+  url: https://industryglobalnews24.com/artificial-intelligence-to-monitor-pizza-quality-across-pizza-hut-outlets-in-australia
+  cat: pro
+  status: does
+  date: 2019-12-27
+- title: "Help us talk to animals"
+  url: https://www.wired.co.uk/article/ai-talk-animals
+  cat: spe
+  status: near
+  date: 2019-12-29
+- title: "Spot wildfires faster"
+  url: https://edition.cnn.com/2019/12/05/tech/ai-wildfires/index.html
+  cat: agr
+  status: does
+  date: 2019-12-05
+- title: "Prove the Birch and Swinnerton-Dyer conjecture"
+  url: https://www.newscientist.com/article/2226493-ai-is-helping-tackle-one-of-the-biggest-unsolved-problems-in-maths/
+  cat: sci
+  status: near
+  date: 2019-12-09
+- title: "Solve university-level calculus"
+  url: https://www.newscientist.com/article/2228399-facebooks-ai-mathematician-can-solve-university-calculus-problems/
+  cat: sci
+  status: does
+  date: 2019-12-20
+- title: "Pilot a racing drone"
+  url: https://www.bbc.co.uk/news/technology-50726399
+  cat: tra
+  status: does
+  date: 2019-12-10
+- title: "Catch drivers using their phones"
+  url: https://www.bbc.co.uk/news/technology-50630763
+  cat: tra
+  status: does
+  date: 2019-12-02
+- title: "Psych out its opponents"
+  url: https://www.sciencemag.org/news/2019/12/watch-ai-goalie-psych-out-its-opponent-most-hilarious-way
+  cat: oth
+  status: does
+  date: 2019-12-26
+- title: "Enhance zoomed-in photos"
+  url: https://www.theverge.com/2019/12/17/21025811/ai-super-resolution-zoom-enhance-pixelmator-pro
+  cat: vis
+  status: does
+  date: 2019-12-17
+- title: "Generate an infinite text adventure"
+  url: https://www.theverge.com/tldr/2019/12/6/20998993/ai-dungeon-2-choose-your-own-adventure-game-text-nick-walton-gpt-machine-learning
+  cat: gam
+  status: wins
+  date: 2019-12-06
+- title: "Detect offensive captions on Instagram"
+  url: https://www.bbc.co.uk/news/technology-50813086
+  cat: sec
+  status: does
+  date: 2019-12-16
+- title: "Understand voice intonation"
+  url: https://techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-understand-voice-intonation/
+  cat: spe
+  status: near
+  date: 2019-12-17
+- title: "Generate music based on what you play"
+  url: https://www.theverge.com/2019/12/4/20994203/amazon-web-services-deepcomposer-ai-keyboard-confusing-everyone
+  cat: cre
+  status: near
+  date: 2019-12-04
+- title: "Predict where a baseball pitch will land"
+  url: https://thenextweb.com/artificial-intelligence/2019/12/04/watch-performance-enhancing-ai-could-change-baseball-forever/
+  cat: pro
+  status: does
+  date: 2019-12-04
+- title: "Drive a lorry across America"
+  url: https://www.bbc.co.uk/news/technology-50742080
+  cat: tra
+  status: does
+  date: 2019-12-11

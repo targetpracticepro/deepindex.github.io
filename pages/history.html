@@ -37,7 +37,15 @@ description: "A brief history of artificial intelligence."
       {% assign latest_month = items[0].date | date: "%B %Y" %}
       {% assign latest_year = items[0].date | date: "%Y" %}
       
-      <h4>{{ latest_month }} <small>{{ countdown }}</small></h4>
+      {% assign tempo = 0 %}            
+      {% for temp in items %}
+        {% assign temp_month = temp.date | date: "%B %Y" %}
+        {% if latest_month == temp_month %}
+          {% assign tempo = tempo | plus: 1 %}
+        {% endif %}
+      {% endfor %}      
+      
+      <h4>{{ latest_month }} <small>{{ tempo }} ({{ countdown }})</small></h4>
 
       {% for item in items %}
         {% assign current_year = item.date | date: "%Y" %}
@@ -47,7 +55,17 @@ description: "A brief history of artificial intelligence."
         {% if current_year > 2016 %}
         
           {% if current_month <> latest_month %}
-            <h4>{{ current_month }} <small>{{ countdown }}</small></h4>
+          
+            {% assign tempo = 0 %}            
+            {% for temp in items %}
+              {% assign temp_month = temp.date | date: "%B %Y" %}
+              {% if current_month == temp_month %}
+                {% assign tempo = tempo | plus: 1 %}
+              {% endif %}
+            {% endfor %}
+          
+            <h4>{{ current_month }} <small>{{ tempo }} ({{ countdown }})</small></h4>
+            
             {% assign latest_month = current_month %}
           {% endif %}
           
@@ -55,7 +73,17 @@ description: "A brief history of artificial intelligence."
           
           {% if current_year <> latest_year %}
             {% if current_year > 0 %}
-              <h4>{{ current_year }} <small>{{ countdown }}</small></h4>
+            
+              {% assign tempo = 0 %}            
+              {% for temp in items %}
+                {% assign temp_year = temp.date | date: "%Y" %}
+                {% assign temp_year = temp_year | plus: 0 %}
+                {% if current_year == temp_year %}
+                  {% assign tempo = tempo | plus: 1 %}
+                {% endif %}
+              {% endfor %}
+            
+              <h4>{{ current_year }} <small>{{ tempo }} ({{ countdown }})</small></h4>
             {% else %}
               <h4>Undated <small>{{ countdown }}</small></h4>
             {% endif %}
